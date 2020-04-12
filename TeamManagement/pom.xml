@@ -108,7 +108,7 @@
 				<version>2.2.0</version>
 				<configuration>
 					<projectId>svteammanagement</projectId>
-					<version>alpha-001</version>
+					<version>alpha-004</version>
 				</configuration>
 			</plugin>
 		</plugins>
