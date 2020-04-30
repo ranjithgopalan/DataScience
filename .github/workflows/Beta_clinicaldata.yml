@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'clinicaldata'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c67d57ced1274ec9aa7462659be024da }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5e412b356ef140bc9aaad6d613e9cee4 }}
