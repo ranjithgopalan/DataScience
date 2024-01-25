@@ -2,9 +2,9 @@
 from django.contrib import admin
 from django.urls import path,include
 
-from .views import main
+from .views import imageView
 
 urlpatterns = [
     
-    path('',main),
+    path('',imageView.as_view())
 ]
