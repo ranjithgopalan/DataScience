@@ -6,5 +6,5 @@ from .views import imageView
 
 urlpatterns = [
     
-    path('',imageView.as_view())
+    path('Image',imageView.as_view())
 ]
