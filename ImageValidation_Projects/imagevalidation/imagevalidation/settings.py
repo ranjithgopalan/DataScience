@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'imagevalidation_controller.apps.ImagevalidationControllerConfig',
     'rest_framework',
     'imagevalidation_view.apps.ImagevalidationViewConfig',
+    
 ]
 
 

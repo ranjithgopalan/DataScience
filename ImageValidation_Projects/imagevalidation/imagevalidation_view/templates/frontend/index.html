@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ranjith123</title>
+    {% load static  %}
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+      }
+      #main { 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+    </style>
+    {% comment %} <link rel="stylesheet" href="{% static 'css/main.css' %}" /> {% endcomment %}
+  </head>
+  <body>
+    <div id="main">
+      <div id="app"></div>
+    </div>
+  </body>
+  {% comment %} <script type="module" src="{% static 'frontend/app.js' %}"></script> {% endcomment %}
+  {% comment %} <script src="{% components 'app.js' %}"></script> {% endcomment %}
+  <script type="module" src="{% components 'app.js' %}"></script> 
+</html>
