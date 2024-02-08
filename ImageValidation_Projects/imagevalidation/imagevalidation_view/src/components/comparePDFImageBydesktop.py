@@ -130,14 +130,20 @@ class PDFComparer(QWidget):
                     fig, axs = plt.subplots(1, 3, figsize=(10, 10))
 
 
-                    axs[0].imshow(array1)
+                    # Display the first image
+                    im1 = axs[0].imshow(array1)
                     axs[0].set_title('PDF 1')
+                    fig.colorbar(im1, ax=axs[0], orientation='horizontal')
 
-                    axs[1].imshow(array2)
+                    # Display the second image
+                    im2 = axs[1].imshow(array2)
                     axs[1].set_title('PDF 2')
+                    fig.colorbar(im2, ax=axs[1], orientation='horizontal')
 
-                    axs[2].imshow(difference)
+                    # Display the difference
+                    im3 = axs[2].imshow(difference, cmap='coolwarm')
                     axs[2].set_title('Difference')
+                    fig.colorbar(im3, ax=axs[2], orientation='horizontal')
 
                     # Remove axis
                     for ax in axs:
@@ -171,14 +177,20 @@ class PDFComparer(QWidget):
 
 
                 
-                    axs[0].imshow(array1)
+                    # Display the first image
+                    im1 = axs[0].imshow(array1)
                     axs[0].set_title('PDF 1')
+                    fig.colorbar(im1, ax=axs[0], orientation='horizontal')
 
-                    axs[1].imshow(array2)
+                    # Display the second image
+                    im2 = axs[1].imshow(array2)
                     axs[1].set_title('PDF 2')
+                    fig.colorbar(im2, ax=axs[1], orientation='horizontal')
 
-                    axs[2].imshow(difference)
+                    # Display the difference
+                    im3 = axs[2].imshow(difference, cmap='coolwarm')
                     axs[2].set_title('Difference')
+                    fig.colorbar(im3, ax=axs[2], orientation='horizontal')
 
                     # Remove axis
                     for ax in axs:
@@ -207,14 +219,20 @@ class PDFComparer(QWidget):
                     fig, axs = plt.subplots(1, 3, figsize=(10, 10))
 
                 
-                    axs[0].imshow(array1)
+                    # Display the first image
+                    im1 = axs[0].imshow(array1)
                     axs[0].set_title('PDF 1')
+                    fig.colorbar(im1, ax=axs[0], orientation='horizontal')
 
-                    axs[1].imshow(array2)
+                    # Display the second image
+                    im2 = axs[1].imshow(array2)
                     axs[1].set_title('PDF 2')
+                    fig.colorbar(im2, ax=axs[1], orientation='horizontal')
 
-                    axs[2].imshow(difference)
+                    # Display the difference
+                    im3 = axs[2].imshow(difference, cmap='coolwarm')
                     axs[2].set_title('Difference')
+                    fig.colorbar(im3, ax=axs[2], orientation='horizontal')
 
                     # Remove axis
                     for ax in axs:
