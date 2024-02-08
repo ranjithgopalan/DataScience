@@ -156,7 +156,7 @@ class PDFComparer(QWidget):
             elif len(images1) < len(images2):
                 html ='<h2> Started image comparison between first PDF: ' + self.file1 +' having page count: '+str(len(images1)) +' and second first PDF '+ self.file2 +' having page count: '+str(len(images1))+' </h2>\n'
                 for i in range(len(images2)):
-                    html='<h2> Page number: ' + str(i) +'</h2>\n'
+                    
                     # Convert images to NumPy arrays
                     array2 = np.array(images2[i].convert('RGB'))
                     if i > len(images1):            
@@ -185,6 +185,7 @@ class PDFComparer(QWidget):
                         ax.axis('off')
 
                     # Convert the figure to HTML and add it to the HTML string
+                    html +='<h2> Page number: ' + str(i) +'</h2>\n'
                     html += mpld3.fig_to_html(fig)
                     # Close the figure    
                     plt.close(fig)
@@ -195,7 +196,7 @@ class PDFComparer(QWidget):
             else:   
                 html ='<h2> Started image comparison between first PDF: ' + self.file1 +' having page count: '+str(len(images1)) +' and second first PDF '+ self.file2 +' having page count: '+str(len(images1))+' </h2>\n' 
                 for i in range(len(images1)):
-                    html='<h2> Page number: ' + str(i) +'</h2>\n'
+                    
                     # Convert images to NumPy arrays
                     array1 = np.array(images1[i].convert('RGB'))
                     array2 = np.array(images2[i].convert('RGB'))
@@ -220,6 +221,7 @@ class PDFComparer(QWidget):
                         ax.axis('off')
 
                     # Convert the figure to HTML and add it to the HTML string
+                    html +='<h2> Page number: ' + str(i) +'</h2>\n'
                     html += mpld3.fig_to_html(fig)
                     # Close the figure
                     plt.close(fig)

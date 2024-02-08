@@ -107,7 +107,7 @@ class PDFComparer(QWidget):
             requestId = str(uuid.uuid4())
             PDF1Count = len(PyPDF2.PdfReader(self.file1).pages)
             PDF2Count = len(PyPDF2.PdfReader(self.file2).pages)
-            resultfile = 'PDF_Image_Comparison_'+requestId+'.html'
+            resultfile = 'PDF_Text_Comparison_'+requestId+'.html'
             with open(resultfile, 'w') as f:
                 f.write('<html><body>')
                 f.write(f'<h1> Started text comparison between : ' + self.file1 + ' and '+ self.file2 +' </h1>')  
