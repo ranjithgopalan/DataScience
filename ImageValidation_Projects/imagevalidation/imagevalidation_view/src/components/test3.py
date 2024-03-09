@@ -1,14 +1,20 @@
-import fitz
+import cv2
 
-# Open the PDF file
-doc = fitz.open('imagevalidation/imagevalidation_view/Data/0021435255_000_20240531_NEW.PDF')
+# Load the image
+image = cv2.imread('UIPageScreenshot.png')
 
-for i in range(len(doc)):
-    # Load the page
-    page = doc.load_page(i)
-    
-    # Render the page to a pixmap (an image)
-    pix = page.get_pixmap()
-    
-    # Save the pixmap to a file
-    pix.save(f'2ndpage{i}.png')
+# Define bounding boxes and labels
+# Each bounding box is a tuple: (x, y, width, height)
+# Each label is a string
+bounding_boxes = [(50, 50, 200, 200), (300, 300, 200, 200)]
+labels = ['list box', 'button']
+
+# Draw each bounding box and label on the image
+for (x, y, w, h), label in zip(bounding_boxes, labels):
+    cv2.rectangle(image, (x, y), (x+w, y+h), (0, 255, 0), 2)
+    cv2.putText(image, label, (x, y-10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0,255,0), 2)
+
+# Display the image
+cv2.imshow('Image', image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
