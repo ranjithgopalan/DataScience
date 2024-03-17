@@ -157,8 +157,9 @@ class PDFComparer(QWidget):
             if PDF1Count > PDF2Count:
                 for i in range(PDF1Count):
                     # Convert images to NumPy arrays
+                    images1 = []  # Define the variable "images1"
                     array1 = np.array(images1[i].convert('RGB'))
-                    if i > len(images2):            
+                    if i > len(image2):            
                         array2 = np.zeros_like(array1)
                     else:
                         array2 = np.array(images1[2].convert('RGB'))

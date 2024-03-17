@@ -1,0 +1,1367 @@
+base_Label	base_Min	base_Average	base_90% Line	base_Max	base_Pass	base_Fail	target_Min	target_Average	target_90% Line	target_Max	target_Pass	target_Fail	AVG	90%
+TC01_Internal_01C_Signin_OKTA	0.158	1.185	1.386	4.041	406.0	5.0	0.052	0.106	0.141	2.02	1515.0	0.0	0.6455000000000001	0.7635
+TC19_Tasking2_05_View_task	0.344	1.856	1.988	10.605	180.0	2.0	0.529	0.615	0.659	0.818	1511.0	0.0	1.2355	1.3235000000000001
+TC29_PCG_Internal_Renewal_Coll_09_Insuredpage_Click_Save&Continue	2.265	14.202	15.489	18.614	98.0	2.0	0.291	0.332	0.339	0.77	1504.0	0.0	7.267	7.914000000000001
+TC01_ExternalLogin_01D_CredSignIn_OKTA_Signin	1.288	1.944	2.242	5.181	1355.0	1.0	1.494	1.926	2.214	6.644	1500.0	0.0	1.935	2.2279999999999998
+TC07_PCG_External_NewCustomer_Collections_09_insuredPage_Clicksave_XXL	2.07	13.623	16.26	17.225	9.0	1.0	0.751	1.436	1.919	16.426	1491.0	0.0	7.5295	9.089500000000001
+TC27_PCG_Internal_Renewal_HO_04_SelectLegacyRenewal_Click_ProductandSave&Continue	2.576	3.636	4.685	13.74	99.0	1.0	0.001	1.488	4.016	5.082	45.0	0.0	2.5620000000000003	4.3505
+TC27_PCG_Internal_Renewal_HO_10_InsuredPage_Clicksave&continue	2.317	16.464	18.049	30.549	98.0	1.0	0.001	1.899	4.205	4.738	48.0	0.0	9.1815	11.126999999999999
+TC19_Tasking2_07_Reassign_task	0.067	5.417	6.098	6.591	177.0	1.0	0.47	0.652	1.019	1.064	12.0	0.0	3.0345	3.5585
+TC19_Tasking2_08_Complete_task	0.071	5.136	5.79	6.543	175.0	1.0	0.441	0.704	1.042	1.052	6.0	0.0	2.92	3.416
+TC41_NonlegacyRenewal_HO_04_ClickSave	5.875	5.875	5.875	5.875	0.0	1.0	0.001	2.133	4.074	4.838	58.0	0.0	4.004	4.9745
+TC41_NonlegacyRenewal_PEL_04_ClickSave	1.092	1.092	1.092	1.092	0.0	1.0	1.067	1.521	2.018	2.521	12.0	0.0	1.3065	1.555
+TC01_ExternalLogin_01A_Launch	0.051	0.102	0.146	1.563	1371.0	0.0	0.001	1.205	4.032	4.346	34.0	0.0	0.6535000000000001	2.089
+TC01_ExternalLogin_01B_Login	0.539	0.618	0.658	0.944	1366.0	0.0	1.172	1.582	1.761	2.051	6.0	0.0	1.1	1.2095
+TC01_ExternalLogin_01C_CredSignIn_OKTA_Username	0.294	0.334	0.342	0.695	1361.0	0.0	0.484	0.755	0.853	1.179	6.0	0.0	0.5445	0.5975
+TC01_ExternalLogin_01E_CredSignIn_NonOKTA	0.756	1.466	1.935	5.845	1347.0	0.0	0.516	0.604	0.658	0.688	6.0	0.0	1.035	1.2965
+TC01_ExternalLogin_01F_CredSignIn_Dasboard__L	0.001	2.176	3.878	5.846	60.0	0.0	6.07	7.411	9.209	10.016	12.0	0.0	4.7935	6.5435
+TC01_ExternalLogin_01F_CredSignIn_Dasboard__M	0.001	1.272	3.734	5.202	46.0	0.0	1.314	1.524	1.63	1.7	6.0	0.0	1.3980000000000001	2.682
+TC05_PCG_External_QuoteNewCustomer_HO_02_SearchCustomer_L	0.503	1.752	4.587	4.855	16.0	0.0	6.253	6.929	6.985	8.565	6.0	0.0	4.3405000000000005	5.786
+TC01_ExternalLogin_01F_CredSignIn_Dasboard__S	0.001	1.936	3.998	10.596	49.0	0.0	0.959	2.344	2.816	5.212	6.0	0.0	2.1399999999999997	3.407
+TC01_ExternalLogin_01F_CredSignIn_Dasboard__XXL	0.001	1.247	3.613	5.491	36.0	0.0	0.315	0.377	0.454	0.535	12.0	0.0	0.812	2.0335
+TC05_PCG_External_QuoteNewCustomer_HO_02_SearchCustomer_M	0.611	1.808	2.306	5.126	6.0	0.0	0.313	0.347	0.384	0.397	6.0	0.0	1.0775000000000001	1.345
+TC05_PCG_External_QuoteNewCustomer_HO_03_Click_CreateQuotefornewCustomer_L	0.198	0.285	0.373	0.41	16.0	0.0	6.371	7.662	8.641	10.876	6.0	0.0	3.9735	4.507
+TC05_PCG_External_QuoteNewCustomer_HO_02_SearchCustomer_S	0.965	1.583	2.209	2.39	5.0	0.0	5.98	9.27	10.975	13.241	6.0	0.0	5.4265	6.592
+TC05_PCG_External_QuoteNewCustomer_HO_03_Click_CreateQuotefornewCustomer_M	0.19	0.438	0.398	1.329	6.0	0.0	11.126	13.081	16.475	19.845	12.0	0.0	6.7595	8.4365
+TC05_PCG_External_QuoteNewCustomer_HO_02_SearchCustomer_XXL	0.769	2.208	4.989	5.266	7.0	0.0	0.311	0.519	0.674	0.74	6.0	0.0	1.3635000000000002	2.8315
+TC05_PCG_External_QuoteNewCustomer_HO_03_Click_CreateQuotefornewCustomer_S	0.227	0.245	0.28	0.28	4.0	0.0	10.886	12.479	12.829	14.77	6.0	0.0	6.361999999999999	6.5545
+TC05_PCG_External_QuoteNewCustomer_HO_04_SelectProductandClickSave&Continue_L	3.108	4.004	4.702	6.239	16.0	0.0	0.31	0.401	0.413	0.58	6.0	0.0	2.2024999999999997	2.5575
+TC05_PCG_External_QuoteNewCustomer_HO_03_Click_CreateQuotefornewCustomer_XXL	0.216	0.425	0.479	0.863	7.0	0.0	1.459	1.801	2.439	2.596	12.0	0.0	1.113	1.459
+TC05_PCG_External_QuoteNewCustomer_HO_04_SelectProductandClickSave&Continue_M	3.323	4.842	6.202	6.425	6.0	0.0	1.41	2.147	2.529	4.366	6.0	0.0	3.4944999999999995	4.3655
+TC05_PCG_External_QuoteNewCustomer_HO_04_SelectProductandClickSave&Continue_S	3.143	4.37	5.44	5.44	4.0	0.0	10.891	12.394	12.836	14.539	6.0	0.0	8.382	9.138
+TC05_PCG_External_QuoteNewCustomer_HO_07_insuredPage_SelectLocationInfoAddress_L	1.835	2.791	3.982	6.13	16.0	0.0	11.305	14.225	16.744	18.703	6.0	0.0	8.508	10.363
+TC05_PCG_External_QuoteNewCustomer_HO_04_SelectProductandClickSave&Continue_XXL	3.437	4.421	4.862	6.12	7.0	0.0	1.42	1.697	1.756	3.351	12.0	0.0	3.059	3.309
+TC05_PCG_External_QuoteNewCustomer_HO_07_insuredPage_SelectLocationInfoAddress_M	1.961	2.986	3.652	4.883	6.0	0.0	1.458	1.726	1.884	2.331	6.0	0.0	2.356	2.768
+TC05_PCG_External_QuoteNewCustomer_HO_07_insuredPage_SelectLocationInfoAddress_S	1.987	2.408	3.26	3.26	4.0	0.0	1.518	1.988	2.249	2.465	6.0	0.0	2.198	2.7545
+TC05_PCG_External_QuoteNewCustomer_HO_07_insuredPage_SelectLocationInfoAddress_XXL	1.94	2.274	2.506	3.003	7.0	0.0	1.467	1.531	1.567	1.584	6.0	0.0	1.9024999999999999	2.0364999999999998
+TC05_PCG_External_QuoteNewCustomer_HO_08_insuredPage_Clicksave_L	15.239	17.685	19.378	22.765	15.0	0.0	1.274	1.633	1.681	3.442	12.0	0.0	9.658999999999999	10.5295
+TC05_PCG_External_QuoteNewCustomer_HO_08_insuredPage_Clicksave_M	15.863	17.696	18.335	21.614	6.0	0.0	1.389	1.638	1.552	2.563	6.0	0.0	9.667000000000002	9.9435
+TC05_PCG_External_QuoteNewCustomer_HO_08_insuredPage_Clicksave_S	16.936	17.866	18.815	18.815	4.0	0.0	1.418	1.649	1.762	2.091	6.0	0.0	9.7575	10.2885
+TC05_PCG_External_QuoteNewCustomer_HO_10_RatingPage_Selectyearbuilt_L	0.963	1.805	2.027	2.382	14.0	0.0	1.416	1.672	1.785	2.392	6.0	0.0	1.7385	1.9060000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_08_insuredPage_Clicksave_XXL	15.983	17.064	17.606	18.037	7.0	0.0	4.444	4.71	4.909	5.368	12.0	0.0	10.887	11.2575
+TC05_PCG_External_QuoteNewCustomer_HO_10_RatingPage_Selectyearbuilt_M	1.804	2.392	2.974	3.1	6.0	0.0	4.273	4.417	4.516	4.53	6.0	0.0	3.4044999999999996	3.745
+TC05_PCG_External_QuoteNewCustomer_HO_10_RatingPage_Selectyearbuilt_S	1.856	1.92	2.099	2.099	4.0	0.0	1.411	1.481	1.514	1.555	6.0	0.0	1.7005	1.8065000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_10A_RatingPage_Noofstories_L	1.603	2.236	3.195	4.123	13.0	0.0	1.493	1.553	1.544	1.694	6.0	0.0	1.8945	2.3695
+TC05_PCG_External_QuoteNewCustomer_HO_10_RatingPage_Selectyearbuilt_XXL	1.687	1.851	2.003	2.089	7.0	0.0	1.048	1.263	1.439	1.758	12.0	0.0	1.557	1.721
+TC05_PCG_External_QuoteNewCustomer_HO_10A_RatingPage_Noofstories_M	1.672	1.913	2.136	2.161	6.0	0.0	1.089	1.248	1.317	1.723	6.0	0.0	1.5805	1.7265000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_10A_RatingPage_Noofstories_S	1.766	1.834	2.014	2.014	4.0	0.0	4.112	4.737	5.094	5.861	6.0	0.0	3.2855	3.5540000000000003
+TC05_PCG_External_QuoteNewCustomer_HO_10B_RatingPage_SelectpreviousInsurer_L	1.653	2.34	3.56	5.239	13.0	0.0	4.187	4.86	5.131	6.171	6.0	0.0	3.6	4.3455
+TC05_PCG_External_QuoteNewCustomer_HO_10A_RatingPage_Noofstories_XXL	1.678	2.211	2.587	3.059	7.0	0.0	2.949	3.313	3.603	3.978	12.0	0.0	2.762	3.095
+TC05_PCG_External_QuoteNewCustomer_HO_10B_RatingPage_SelectpreviousInsurer_M	1.901	1.952	2.013	2.037	6.0	0.0	3.103	3.528	3.74	3.799	6.0	0.0	2.74	2.8765
+TC05_PCG_External_QuoteNewCustomer_HO_10B_RatingPage_SelectpreviousInsurer_S	1.727	1.854	1.907	1.907	4.0	0.0	1.158	1.27	1.371	1.39	6.0	0.0	1.562	1.639
+TC05_PCG_External_QuoteNewCustomer_HO_13_Ratingpage_ClickNext_L	4.325	5.137	6.494	7.185	13.0	0.0	1.092	1.199	1.274	1.3	6.0	0.0	3.1679999999999997	3.884
+TC05_PCG_External_QuoteNewCustomer_HO_10B_RatingPage_SelectpreviousInsurer_XXL	1.82	2.13	2.207	3.193	7.0	0.0	1.114	1.385	1.729	1.964	12.0	0.0	1.7574999999999998	1.968
+TC05_PCG_External_QuoteNewCustomer_HO_13_Ratingpage_ClickNext_M	4.448	4.784	4.795	5.34	6.0	0.0	1.12	1.213	1.23	1.333	6.0	0.0	2.9985	3.0125
+TC05_PCG_External_QuoteNewCustomer_HO_13_Ratingpage_ClickNext_S	4.279	4.885	5.372	5.372	4.0	0.0	3.213	3.645	3.927	4.698	6.0	0.0	4.265	4.6495
+TC05_PCG_External_QuoteNewCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_L	1.163	1.33	1.488	1.59	13.0	0.0	3.094	3.312	3.457	3.582	6.0	0.0	2.3209999999999997	2.4725
+TC05_PCG_External_QuoteNewCustomer_HO_13_Ratingpage_ClickNext_XXL	4.419	5.06	5.638	5.885	7.0	0.0	1.715	2.014	2.083	3.956	12.0	0.0	3.537	3.8605
+TC05_PCG_External_QuoteNewCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_M	1.208	1.301	1.362	1.47	6.0	0.0	1.74	2.88	4.686	5.036	6.0	0.0	2.0905	3.024
+TC05_PCG_External_QuoteNewCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_S	1.23	1.284	1.394	1.394	4.0	0.0	1.176	1.434	1.334	2.41	6.0	0.0	1.359	1.3639999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_17_coveragepage_ClickNext_L	3.013	3.414	3.99	4.802	13.0	0.0	1.151	1.247	1.25	1.563	6.0	0.0	2.3305000000000002	2.62
+TC05_PCG_External_QuoteNewCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_XXL	1.189	1.287	1.321	1.497	7.0	0.0	6.2	8.292	12.182	15.568	12.0	0.0	4.7895	6.7515
+TC05_PCG_External_QuoteNewCustomer_HO_17_coveragepage_ClickNext_M	3.161	3.444	3.493	4.135	6.0	0.0	5.898	6.768	6.911	8.459	6.0	0.0	5.106	5.202
+TC01_ExternalLogin_01F_CredSignIn_Dasboard__XL	0.001	1.201	3.874	4.28	33.0	0.0	1.731	1.87	1.913	1.953	6.0	0.0	1.5355	2.8935
+TC05_PCG_External_QuoteNewCustomer_HO_17_coveragepage_ClickNext_S	3.349	3.794	4.811	4.811	4.0	0.0	1.67	1.79	1.811	1.927	6.0	0.0	2.792	3.311
+TC06_PCG_External_QuoteNewCustomer_PEL_02_SearchCustomername_L	1.041	2.213	2.144	5.098	5.0	0.0	3.991	4.767	5.339	5.981	12.0	0.0	3.49	3.7415000000000003
+TC05_PCG_External_QuoteNewCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_L	1.213	1.572	2.188	3.535	13.0	0.0	4.18	4.596	4.942	5.12	6.0	0.0	3.084	3.5650000000000004
+TC05_PCG_External_QuoteNewCustomer_HO_17_coveragepage_ClickNext_XXL	2.978	3.53	4.054	4.426	7.0	0.0	3.131	6.327	7.074	7.711	5.0	1.0	4.9285	5.564
+TC05_PCG_External_QuoteNewCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_M	1.338	2.168	2.378	4.565	6.0	0.0	6.078	8.379	7.678	16.24	6.0	0.0	5.2735	5.0280000000000005
+TC05_PCG_External_QuoteNewCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_S	1.205	1.416	1.543	1.543	4.0	0.0	2.885	4.978	6.21	12.658	12.0	0.0	3.197	3.8765
+TC06_PCG_External_QuoteNewCustomer_PEL_02_SearchCustomername_XL	0.588	2.912	5.684	5.684	4.0	0.0	3.811	4.421	4.368	6.39	6.0	0.0	3.6665	5.026
+TC06_PCG_External_QuoteNewCustomer_PEL_03_CreateQuotefor_NewCustomer_L	0.861	1.217	1.626	1.633	5.0	0.0	3.77	4.833	5.278	6.309	5.0	0.0	3.0250000000000004	3.452
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_L	5.976	7.024	8.088	9.361	13.0	0.0	4.231	4.784	5.35	5.531	6.0	0.0	5.904	6.718999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_XXL	1.242	1.553	1.664	2.188	7.0	0.0	3.101	4.625	6.118	6.845	12.0	0.0	3.089	3.891
+TC06_PCG_External_QuoteNewCustomer_PEL_03_CreateQuotefor_NewCustomer_XL	0.64	0.943	1.13	1.13	4.0	0.0	3.525	4.975	6.036	6.153	6.0	0.0	2.9589999999999996	3.5829999999999997
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_M	6.019	7.325	7.815	10.184	6.0	0.0	2.882	4.318	5.352	6.215	5.0	0.0	5.8215	6.583500000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_02_SearchCustomername_XXL	0.58	1.564	1.589	4.824	7.0	0.0	3.016	3.661	3.664	5.346	6.0	0.0	2.6125	2.6265
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_S	6.286	6.817	7.17	7.17	4.0	0.0	0.624	0.945	1.666	1.827	12.0	0.0	3.8810000000000002	4.418
+TC06_PCG_External_QuoteNewCustomer_PEL_04_SelectProductandclick_save&continue_L	3.203	4.136	4.104	5.862	5.0	0.0	0.629	0.755	0.82	1.022	6.0	0.0	2.4455	2.462
+TC06_PCG_External_QuoteNewCustomer_PEL_02_SearchCustomername_M	0.541	1.602	2.054	4.508	6.0	0.0	3.706	5.888	8.48	8.7	5.0	0.0	3.745	5.267
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_QuotePageLoad_L	3.623	4.332	5.067	5.193	13.0	0.0	3.067	4.976	5.044	8.418	6.0	0.0	4.654	5.0555
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_XXL	6.019	6.522	6.786	7.191	7.0	0.0	0.727	0.813	0.876	0.921	5.0	0.0	3.6675	3.831
+TC06_PCG_External_QuoteNewCustomer_PEL_04_SelectProductandclick_save&continue_XL	3.425	4.039	5.127	5.127	4.0	0.0	0.74	0.874	0.91	1.184	6.0	0.0	2.4564999999999997	3.0185
+TC06_PCG_External_QuoteNewCustomer_PEL_02_SearchCustomername_S	0.607	1.179	2.117	2.117	4.0	0.0	0.434	0.533	0.651	0.663	8.0	0.0	0.8560000000000001	1.384
+TC06_PCG_External_QuoteNewCustomer_PEL_03_CreateQuotefor_NewCustomer_XXL	0.993	1.329	1.546	1.791	7.0	0.0	0.487	0.667	0.849	0.849	3.0	0.0	0.998	1.1975
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_QuotePageLoad_M	3.994	4.661	5.197	5.265	6.0	0.0	1.34	1.9	2.073	2.579	8.0	0.0	3.2805	3.635
+TC06_PCG_External_QuoteNewCustomer_PEL_08_Insuredpage_SelectLocationinfo_L	1.663	2.047	2.075	2.834	5.0	0.0	0.446	0.54	0.655	0.728	8.0	0.0	1.2935	1.3650000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_QuotePageLoad_S	3.977	4.388	4.829	4.829	4.0	0.0	1.188	1.289	1.362	1.362	3.0	0.0	2.8385	3.0955
+TC06_PCG_External_QuoteNewCustomer_PEL_03_CreateQuotefor_NewCustomer_M	0.666	0.961	1.244	1.421	6.0	0.0	0.924	1.609	1.974	2.551	8.0	0.0	1.285	1.609
+TC05_PCG_External_QuoteNewCustomer_HO_24_Quotesummarypage_ClickNext_L	1.539	2.096	2.901	3.39	13.0	0.0	5.988	7.138	7.742	8.481	8.0	0.0	4.617	5.3215
+TC06_PCG_External_QuoteNewCustomer_PEL_03_CreateQuotefor_NewCustomer_S	0.629	1.843	4.358	4.358	4.0	0.0	0.442	0.517	0.521	0.63	5.0	0.0	1.18	2.4395
+TC06_PCG_External_QuoteNewCustomer_PEL_08_Insuredpage_SelectLocationinfo_XL	1.683	1.832	2.098	2.098	4.0	0.0	6.109	7.159	7.78	7.78	3.0	0.0	4.4955	4.939
+TC05_PCG_External_QuoteNewCustomer_HO_24_Quotesummarypage_ClickNext_M	1.36	1.73	2.02	2.101	6.0	0.0	6.486	7.556	8.094	8.202	8.0	0.0	4.643	5.0569999999999995
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_QuotePageLoad_XXL	3.897	4.55	4.862	5.073	7.0	0.0	8.172	12.038	14.503	14.598	7.0	0.0	8.294	9.682500000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_04_SelectProductandclick_save&continue_XXL	2.023	3.781	4.904	4.981	7.0	0.0	1.402	2.16	2.49	2.73	5.0	0.0	2.9705000000000004	3.697
+TC05_PCG_External_QuoteNewCustomer_HO_24_Quotesummarypage_ClickNext_S	1.77	1.983	2.318	2.318	4.0	0.0	8.521	10.034	11.483	11.483	3.0	0.0	6.008500000000001	6.9005
+TC06_PCG_External_QuoteNewCustomer_PEL_04_SelectProductandclick_save&continue_M	3.173	3.995	4.443	5.214	6.0	0.0	1.463	1.777	2.04	2.135	7.0	0.0	2.886	3.2415
+TC05_PCG_External_QuoteNewCustomer_HO_26_Prepackage_Clickcreatepackage_L	2.838	5.735	6.021	28.033	13.0	0.0	8.659	10.376	10.725	16.844	8.0	0.0	8.0555	8.373
+TC06_PCG_External_QuoteNewCustomer_PEL_09_Insuredpage_Clicksave&continue_L	14.356	14.689	15.056	15.144	5.0	0.0	5.925	6.877	7.204	7.885	5.0	0.0	10.783	11.129999999999999
+TC06_PCG_External_QuoteNewCustomer_PEL_04_SelectProductandclick_save&continue_S	2.647	3.906	6.121	6.121	4.0	0.0	1.496	1.836	2.371	2.371	3.0	0.0	2.871	4.246
+TC05_PCG_External_QuoteNewCustomer_HO_24_Quotesummarypage_ClickNext_XXL	1.571	1.88	1.966	2.289	7.0	0.0	3.046	3.542	4.111	4.262	7.0	0.0	2.711	3.0385
+TC05_PCG_External_QuoteNewCustomer_HO_26_Prepackage_Clickcreatepackage_M	3.13	3.768	4.185	4.428	6.0	0.0	1.456	1.963	2.438	3.134	7.0	0.0	2.8655	3.3114999999999997
+TC06_PCG_External_QuoteNewCustomer_PEL_08_Insuredpage_SelectLocationinfo_XXL	1.812	3.494	5.491	5.931	6.0	0.0	2.757	2.965	3.087	3.087	3.0	0.0	3.2295	4.289
+TC05_PCG_External_QuoteNewCustomer_HO_26_Prepackage_Clickcreatepackage_S	3.181	4.127	5.315	5.315	4.0	0.0	8.512	10.98	13.853	14.982	5.0	0.0	7.5535	9.584
+TC06_PCG_External_QuoteNewCustomer_PEL_08_Insuredpage_SelectLocationinfo_M	1.6	1.863	1.887	2.35	6.0	0.0	2.273	5.118	11.266	11.57	7.0	0.0	3.4905	6.5765
+TC06_PCG_External_QuoteNewCustomer_PEL_09_Insuredpage_Clicksave&continue_XL	14.865	15.516	16.508	16.508	4.0	0.0	2.819	3.324	3.766	4.42	7.0	0.0	9.42	10.137
+TC05_PCG_External_QuoteNewCustomer_HO_27_Prepackage_createpackage_clickclose_L	0.609	0.776	0.966	0.997	13.0	0.0	2.137	2.3	2.555	2.555	3.0	0.0	1.5379999999999998	1.7605
+TC06_PCG_External_QuoteNewCustomer_PEL_10A_ratings_enterdetails_Clicksave_L	1.895	2.408	3.019	3.196	5.0	0.0	1.416	1.595	1.576	1.989	5.0	0.0	2.0015	2.2975000000000003
+TC06_PCG_External_QuoteNewCustomer_PEL_08_Insuredpage_SelectLocationinfo_S	1.686	1.847	1.949	1.949	3.0	0.0	5.249	5.845	6.36	6.366	7.0	0.0	3.846	4.1545000000000005
+TC05_PCG_External_QuoteNewCustomer_HO_27_Prepackage_createpackage_clickclose_M	0.611	0.906	0.815	1.869	6.0	0.0	2.12	2.728	3.151	4.094	7.0	0.0	1.8170000000000002	1.9829999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_26_Prepackage_Clickcreatepackage_XXL	2.976	4.167	5.368	6.475	7.0	0.0	5.07	5.574	6.286	6.286	3.0	0.0	4.8705	5.827
+TC05_PCG_External_QuoteNewCustomer_HO_27_Prepackage_createpackage_clickclose_S	0.696	0.828	1.094	1.094	4.0	0.0	3.007	3.353	3.278	4.072	5.0	0.0	2.0905	2.186
+TC06_PCG_External_QuoteNewCustomer_PEL_10A_ratings_enterdetails_Clicksave_XL	2.068	2.138	2.179	2.179	4.0	0.0	3.069	4.204	5.037	5.936	6.0	0.0	3.171	3.6079999999999997
+TC06_PCG_External_QuoteNewCustomer_PEL_09_Insuredpage_Clicksave&continue_XXL	14.463	16.555	17.081	18.472	6.0	0.0	4.952	5.789	6.7	6.913	7.0	0.0	11.172	11.8905
+TC06_PCG_External_QuoteNewCustomer_PEL_11_ratings_Clicknext_L	2.866	3.379	3.953	4.113	5.0	0.0	2.233	2.496	2.766	2.766	4.0	0.0	2.9375	3.3594999999999997
+TC06_PCG_External_QuoteNewCustomer_PEL_09_Insuredpage_Clicksave&continue_M	13.977	15.638	15.315	19.923	6.0	0.0	3.124	3.755	4.281	4.281	3.0	0.0	9.6965	9.798
+TC05_PCG_External_QuoteNewCustomer_HO_28_PackagePage_SendToUnderwriter_L	7.566	8.214	9.823	9.844	13.0	0.0	2.7	5.086	5.269	9.707	6.0	0.0	6.65	7.546
+TC05_PCG_External_QuoteNewCustomer_HO_27_Prepackage_createpackage_clickclose_XXL	0.603	0.917	1.264	1.359	7.0	0.0	2.783	3.544	4.262	4.285	7.0	0.0	2.2305	2.763
+TC05_PCG_External_QuoteNewCustomer_HO_28_PackagePage_SendToUnderwriter_M	7.622	7.882	7.919	8.804	6.0	0.0	3.352	3.873	4.17	4.17	3.0	0.0	5.8774999999999995	6.044499999999999
+TC06_PCG_External_QuoteNewCustomer_PEL_09_Insuredpage_Clicksave&continue_S	14.469	17.292	20.295	20.295	3.0	0.0	5.158	5.607	5.897	5.897	3.0	0.0	11.4495	13.096
+TC05_PCG_External_QuoteNewCustomer_HO_28_PackagePage_SendToUnderwriter_S	7.294	7.676	8.217	8.217	4.0	0.0	2.038	4.564	5.551	9.714	6.0	0.0	6.12	6.884
+TC06_PCG_External_QuoteNewCustomer_PEL_11_ratings_Clicknext_XL	3.129	3.574	4.402	4.402	4.0	0.0	3.268	4.561	5.387	7.35	7.0	0.0	4.0675	4.8945
+TC06_PCG_External_QuoteNewCustomer_PEL_10A_ratings_enterdetails_Clicksave_XXL	1.916	2.127	2.143	2.453	6.0	0.0	1.841	3.319	4.136	4.136	3.0	0.0	2.723	3.1395
+TC06_PCG_External_QuoteNewCustomer_PEL_10A_ratings_enterdetails_Clicksave_M	1.899	2.141	2.264	2.346	6.0	0.0	2.839	6.337	13.157	13.157	3.0	0.0	4.239	7.7105
+TC06_PCG_External_QuoteNewCustomer_PEL_12A_Coverages_Clicknext_L	2.285	2.981	2.954	4.163	5.0	0.0	0.668	1.478	1.681	3.548	6.0	0.0	2.2295	2.3175
+TC05_PCG_External_QuoteNewCustomer_HO_28_PackagePage_SendToUnderwriter_XXL	7.356	7.987	8.202	9.324	7.0	0.0	1.75	5.068	9.752	10.582	7.0	0.0	6.5275	8.977
+TC06_PCG_External_QuoteNewCustomer_PEL_10A_ratings_enterdetails_Clicksave_S	2.281	2.847	3.867	3.867	3.0	0.0	0.642	0.805	0.916	0.916	3.0	0.0	1.826	2.3915
+TC06_PCG_External_QuoteNewCustomer_PEL_12A_Coverages_Clicknext_XL	2.291	8.191	24.839	24.839	4.0	0.0	2.242	6.121	10.655	10.655	3.0	0.0	7.156000000000001	17.747
+TC06_PCG_External_QuoteNewCustomer_PEL_11_ratings_Clicknext_XXL	2.936	7.364	4.893	26.141	6.0	0.0	0.601	1.452	2.14	4.032	7.0	0.0	4.4079999999999995	3.5164999999999997
+TC06_PCG_External_QuoteNewCustomer_PEL_11_ratings_Clicknext_M	2.96	4.581	4.532	9.132	6.0	0.0	2.418	4.529	6.865	6.865	3.0	0.0	4.555	5.6985
+TC06_PCG_External_QuoteNewCustomer_PEL_13b_Details_ClickNext_L	4.947	6.061	6.213	8.652	5.0	0.0	0.633	1.135	1.771	1.771	3.0	0.0	3.598	3.992
+TC06_PCG_External_QuoteNewCustomer_PEL_11_ratings_Clicknext_S	3.101	3.277	3.59	3.59	3.0	0.0	0.263	0.37	0.404	2.331	1226.0	0.0	1.8235000000000001	1.9969999999999999
+TC06_PCG_External_QuoteNewCustomer_PEL_13b_Details_ClickNext_XL	4.906	5.367	5.725	5.725	4.0	0.0	0.424	0.516	0.651	0.651	3.0	0.0	2.9415	3.1879999999999997
+TC06_PCG_External_QuoteNewCustomer_PEL_12A_Coverages_Clicknext_XXL	2.305	4.595	5.087	12.217	6.0	0.0	0.452	0.56	0.606	0.858	6.0	0.0	2.5774999999999997	2.8465
+TC06_PCG_External_QuoteNewCustomer_PEL_12A_Coverages_Clicknext_M	2.425	2.662	2.816	3.128	6.0	0.0	1.649	1.822	2.088	2.088	3.0	0.0	2.242	2.452
+TC06_PCG_External_QuoteNewCustomer_PEL_13c_Details_ClickNext_QuotepagLoad_L	2.58	3.873	3.78	6.255	5.0	0.0	0.464	0.553	0.594	0.63	5.0	0.0	2.213	2.187
+TC06_PCG_External_QuoteNewCustomer_PEL_12A_Coverages_Clicknext_S	2.276	2.508	2.758	2.758	3.0	0.0	1.189	1.722	1.923	2.262	6.0	0.0	2.115	2.3405
+TC06_PCG_External_QuoteNewCustomer_PEL_13c_Details_ClickNext_QuotepagLoad_XL	2.877	3.26	3.615	3.615	4.0	0.0	0.437	0.535	0.79	0.79	4.0	0.0	1.8975	2.2025
+TC06_PCG_External_QuoteNewCustomer_PEL_13b_Details_ClickNext_XXL	5.346	5.667	5.926	6.057	6.0	0.0	1.135	1.431	1.654	1.742	5.0	0.0	3.549	3.79
+TC06_PCG_External_QuoteNewCustomer_PEL_13b_Details_ClickNext_M	4.912	7.385	6.105	15.637	6.0	0.0	6.584	6.965	7.469	7.469	3.0	0.0	7.175	6.787000000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_14_Quotepage_Clicknext_L	1.338	1.66	1.733	1.85	5.0	0.0	1.084	1.521	2.076	2.076	4.0	0.0	1.5905	1.9045
+TC06_PCG_External_QuoteNewCustomer_PEL_13b_Details_ClickNext_S	4.756	5.669	6.273	6.273	3.0	0.0	6.082	7.066	7.156	8.707	6.0	0.0	6.3675	6.714499999999999
+TC06_PCG_External_QuoteNewCustomer_PEL_14_Quotepage_Clicknext_XL	1.42	1.581	1.695	1.695	4.0	0.0	5.895	6.389	6.601	6.613	5.0	0.0	3.9850000000000003	4.148
+TC06_PCG_External_QuoteNewCustomer_PEL_13c_Details_ClickNext_QuotepagLoad_XXL	3.006	4.529	5.151	9.124	6.0	0.0	11.828	12.423	12.824	12.824	3.0	0.0	8.475999999999999	8.9875
+TC06_PCG_External_QuoteNewCustomer_PEL_13c_Details_ClickNext_QuotepagLoad_M	2.683	3.154	3.386	4.528	6.0	0.0	6.202	6.763	7.823	7.823	4.0	0.0	4.9585	5.6045
+TC06_PCG_External_QuoteNewCustomer_PEL_16_Prepackage_CreateQuotepackage_L	1.606	2.387	2.37	3.711	5.0	0.0	11.922	13.458	14.63	16.048	6.0	0.0	7.9225	8.5
+TC06_PCG_External_QuoteNewCustomer_PEL_16_Prepackage_CreateQuotepackage_XL	1.73	1.915	2.133	2.133	4.0	0.0	7.591	8.72	8.626	10.761	5.0	0.0	5.317500000000001	5.3795
+TC06_PCG_External_QuoteNewCustomer_PEL_13c_Details_ClickNext_QuotepagLoad_S	2.964	3.436	3.991	3.991	3.0	0.0	1.032	1.057	1.099	1.099	3.0	0.0	2.2465	2.545
+TC06_PCG_External_QuoteNewCustomer_PEL_14_Quotepage_Clicknext_XXL	1.427	2.349	1.74	6.494	6.0	0.0	1.106	1.275	1.173	1.952	6.0	0.0	1.812	1.4565000000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_14_Quotepage_Clicknext_M	1.473	1.629	1.737	1.779	6.0	0.0	12.365	13.226	15.307	15.307	4.0	0.0	7.4275	8.522
+TC06_PCG_External_QuoteNewCustomer_PEL_17_Prepackage_Clickclose_L	0.627	0.828	0.762	1.348	5.0	0.0	0.986	1.124	1.209	1.305	5.0	0.0	0.976	0.9855
+TC06_PCG_External_QuoteNewCustomer_PEL_17_Prepackage_Clickclose_XL	0.682	0.907	1.419	1.419	4.0	0.0	1.063	1.104	1.158	1.158	3.0	0.0	1.0055	1.2885
+TC06_PCG_External_QuoteNewCustomer_PEL_14_Quotepage_Clicknext_S	1.634	2.411	3.396	3.396	3.0	0.0	1.023	1.144	1.237	1.287	6.0	0.0	1.7774999999999999	2.3165
+TC06_PCG_External_QuoteNewCustomer_PEL_16_Prepackage_CreateQuotepackage_XXL	1.865	2.761	3.293	3.975	6.0	0.0	1.057	1.175	1.295	1.295	4.0	0.0	1.968	2.294
+TC06_PCG_External_QuoteNewCustomer_PEL_16_Prepackage_CreateQuotepackage_M	1.641	2.376	2.869	4.05	6.0	0.0	1.061	1.172	1.249	1.252	5.0	0.0	1.774	2.059
+TC06_PCG_External_QuoteNewCustomer_PEL_18_Packagepage_SendToUnderwriter_L	7.59	8.077	7.868	9.576	5.0	0.0	3.18	3.433	3.859	3.859	3.0	0.0	5.755	5.8635
+TC06_PCG_External_QuoteNewCustomer_PEL_16_Prepackage_CreateQuotepackage_S	1.917	2.715	3.455	3.455	3.0	0.0	0.985	1.332	2.056	2.056	4.0	0.0	2.0235	2.7555
+TC06_PCG_External_QuoteNewCustomer_PEL_18_Packagepage_SendToUnderwriter_XL	7.003	7.309	7.597	7.597	4.0	0.0	2.935	3.154	3.31	3.311	6.0	0.0	5.2315000000000005	5.4535
+TC06_PCG_External_QuoteNewCustomer_PEL_17_Prepackage_Clickclose_XXL	0.678	0.863	0.968	0.989	6.0	0.0	2.94	3.276	3.381	3.61	5.0	0.0	2.0694999999999997	2.1745
+TC06_PCG_External_QuoteNewCustomer_PEL_17_Prepackage_Clickclose_M	0.68	0.941	0.934	1.498	6.0	0.0	1.423	1.67	2.107	2.107	3.0	0.0	1.3054999999999999	1.5205000000000002
+TC06_PCG_External_QuoteNewCustomer_PEL_17_Prepackage_Clickclose_S	0.946	2.467	4.151	4.151	3.0	0.0	1.303	1.506	1.617	1.661	6.0	0.0	1.9865	2.884
+TC06_PCG_External_QuoteNewCustomer_PEL_18_Packagepage_SendToUnderwriter_M	6.637	7.921	8.473	9.382	6.0	0.0	2.887	3.157	3.382	3.382	4.0	0.0	5.539	5.9275
+TC06_PCG_External_QuoteNewCustomer_PEL_18_Packagepage_SendToUnderwriter_XXL	7.165	7.482	7.65	7.82	6.0	0.0	1.413	1.531	1.553	1.615	5.0	0.0	4.5065	4.6015
+TC06_PCG_External_QuoteNewCustomer_PEL_18_Packagepage_SendToUnderwriter_S	6.929	8.096	9.535	9.535	3.0	0.0	1.524	1.744	2.042	2.042	3.0	0.0	4.92	5.7885
+TC07_PCG_External_NewCustomer_Collections_02_SearchCustomerID_S	0.524	1.785	2.349	4.384	6.0	0.0	1.412	1.702	1.604	2.758	6.0	0.0	1.7435	1.9765000000000001
+TC07_PCG_External_NewCustomer_Collections_02_SearchCustomerID_XXL	0.861	2.153	4.746	5.391	10.0	0.0	1.41	1.801	2.231	2.231	4.0	0.0	1.9769999999999999	3.4885
+TC07_PCG_External_NewCustomer_Collections_03_CreateQuotefor_NewCustomer_S	0.208	0.412	0.516	0.954	6.0	0.0	1.382	1.521	1.589	1.739	5.0	0.0	0.9664999999999999	1.0525
+TC07_PCG_External_NewCustomer_Collections_03_CreateQuotefor_NewCustomer_XXL	0.199	0.273	0.387	0.404	10.0	0.0	1.417	1.533	1.602	1.602	3.0	0.0	0.903	0.9945
+TC07_PCG_External_NewCustomer_Collections_02_SearchCustomerID_XL	0.589	1.778	1.176	5.304	5.0	0.0	1.39	1.492	1.62	1.62	4.0	0.0	1.635	1.3980000000000001
+TC07_PCG_External_NewCustomer_Collections_04_SelectProductandClickSave&Continue_S	3.51	3.985	4.291	4.376	6.0	0.0	1.456	1.951	2.582	2.881	6.0	0.0	2.968	3.4365
+TC07_PCG_External_NewCustomer_Collections_04_SelectProductandClickSave&Continue_XXL	3.185	4.231	4.928	8.697	10.0	0.0	1.439	1.508	1.541	1.581	5.0	0.0	2.8695	3.2344999999999997
+TC07_PCG_External_NewCustomer_Collections_02_SearchCustomerID_L	0.646	2.2	4.948	4.948	3.0	0.0	1.392	1.815	2.537	2.537	3.0	0.0	2.0075000000000003	3.7425
+TC07_PCG_External_NewCustomer_Collections_03_CreateQuotefor_NewCustomer_XL	0.211	0.24	0.264	0.278	5.0	0.0	1.365	1.511	1.622	1.622	4.0	0.0	0.8755	0.9430000000000001
+TC07_PCG_External_NewCustomer_Collections_08_InsuredPage_SelectLocationInfoAddress_S	0.226	0.341	0.483	0.498	6.0	0.0	1.625	1.748	1.901	1.922	6.0	0.0	1.0445	1.192
+TC07_PCG_External_NewCustomer_Collections_08_InsuredPage_SelectLocationInfoAddress_XXL	0.235	0.572	1.409	2.009	10.0	0.0	1.483	1.74	1.706	2.419	5.0	0.0	1.156	1.5575
+TC07_PCG_External_NewCustomer_Collections_03_CreateQuotefor_NewCustomer_L	0.214	0.329	0.417	0.417	3.0	0.0	1.353	1.451	1.608	1.608	3.0	0.0	0.89	1.0125
+TC07_PCG_External_NewCustomer_Collections_04_SelectProductandClickSave&Continue_XL	3.537	3.864	4.057	4.228	5.0	0.0	1.389	1.579	1.7	1.7	4.0	0.0	2.7215	2.8785000000000003
+TC07_PCG_External_NewCustomer_Collections_09_insuredPage_Clicksave_S	12.48	13.624	14.174	14.591	6.0	0.0	1.434	1.709	1.777	2.287	6.0	0.0	7.6665	7.975499999999999
+TC07_PCG_External_NewCustomer_Collections_04_SelectProductandClickSave&Continue_L	3.661	4.175	4.559	4.559	3.0	0.0	1.435	1.654	1.674	1.964	5.0	0.0	2.9145	3.1165000000000003
+TC07_PCG_External_NewCustomer_Collections_08_InsuredPage_SelectLocationInfoAddress_XL	0.241	0.26	0.285	0.286	5.0	0.0	1.445	1.556	1.619	1.619	3.0	0.0	0.908	0.952
+TC07_PCG_External_NewCustomer_Collections_10_RatingPage_SelectJewelry_S	1.205	1.454	1.56	1.647	6.0	0.0	1.413	1.54	1.657	1.657	4.0	0.0	1.4969999999999999	1.6085
+TC07_PCG_External_NewCustomer_Collections_08_InsuredPage_SelectLocationInfoAddress_L	0.24	0.266	0.314	0.314	3.0	0.0	1.435	1.557	1.611	1.633	6.0	0.0	0.9115	0.9625
+TC07_PCG_External_NewCustomer_Collections_09_insuredPage_Clicksave_XL	12.918	14.298	14.733	15.278	5.0	0.0	1.396	1.71	1.826	1.98	5.0	0.0	8.004	8.2795
+TC07_PCG_External_NewCustomer_Collections_10_RatingPage_SelectJewelry_XXL	1.256	1.648	2.119	3.009	9.0	0.0	1.412	1.711	2.041	2.041	3.0	0.0	1.6795	2.08
+TC07_PCG_External_NewCustomer_Collections_11_RatingPage_SelectScheduled_S	1.12	1.233	1.33	1.416	6.0	0.0	1.359	1.616	1.827	1.827	4.0	0.0	1.4245	1.5785
+TC07_PCG_External_NewCustomer_Collections_10_RatingPage_SelectJewelry_XL	1.273	1.41	1.413	1.637	5.0	0.0	1.393	1.707	1.965	2.069	6.0	0.0	1.5585	1.689
+TC07_PCG_External_NewCustomer_Collections_11_RatingPage_SelectScheduled_XXL	1.112	1.527	2.253	2.622	9.0	0.0	1.545	1.814	1.829	2.502	5.0	0.0	1.6705	2.041
+TC07_PCG_External_NewCustomer_Collections_09_insuredPage_Clicksave_L	13.733	14.882	16.32	16.32	3.0	0.0	1.333	2.017	2.577	2.577	3.0	0.0	8.4495	9.4485
+TC07_PCG_External_NewCustomer_Collections_12_RatingPage_Coveragelimit&ClickNext_S	2.797	3.21	3.379	4.056	6.0	0.0	1.335	1.58	1.815	1.815	4.0	0.0	2.395	2.597
+TC07_PCG_External_NewCustomer_Collections_11_RatingPage_SelectScheduled_XL	1.242	1.461	1.409	2.077	5.0	0.0	1.46	1.596	1.694	1.783	6.0	0.0	1.5285000000000002	1.5514999999999999
+TC07_PCG_External_NewCustomer_Collections_10_RatingPage_SelectJewelry_L	1.31	1.477	1.632	1.632	3.0	0.0	1.379	1.639	1.759	2.045	5.0	0.0	1.558	1.6955
+TC07_PCG_External_NewCustomer_Collections_13_CoveragePage_SelectRoofTypeMaterial_S	1.648	1.825	1.831	2.42	6.0	0.0	1.519	1.871	2.21	2.21	3.0	0.0	1.8479999999999999	2.0205
+TC07_PCG_External_NewCustomer_Collections_12_RatingPage_Coveragelimit&ClickNext_XXL	2.71	2.989	3.267	3.638	9.0	0.0	1.428	1.757	2.436	2.436	4.0	0.0	2.3729999999999998	2.8514999999999997
+TC07_PCG_External_NewCustomer_Collections_11_RatingPage_SelectScheduled_L	1.238	1.648	2.424	2.424	3.0	0.0	1.582	2.55	3.906	4.109	6.0	0.0	2.0989999999999998	3.165
+TC07_PCG_External_NewCustomer_Collections_12_RatingPage_Coveragelimit&ClickNext_XL	2.977	3.813	4.214	5.325	5.0	0.0	1.399	1.744	1.843	2.293	5.0	0.0	2.7785	3.0285
+TC07_PCG_External_NewCustomer_Collections_13_CoveragePage_SelectRoofTypeMaterial_XXL	1.623	2.245	2.974	3.367	8.0	0.0	3.82	4.872	6.455	6.455	3.0	0.0	3.5585	4.7145
+TC07_PCG_External_NewCustomer_Collections_13a_CoveragePage_SelectContructiontype_S	1.662	2.159	2.698	2.737	6.0	0.0	1.459	2.371	3.901	3.901	4.0	0.0	2.2649999999999997	3.2995
+TC07_PCG_External_NewCustomer_Collections_12_RatingPage_Coveragelimit&ClickNext_L	2.689	2.882	3.001	3.001	3.0	0.0	3.842	5.092	5.573	7.869	6.0	0.0	3.987	4.287
+TC07_PCG_External_NewCustomer_Collections_13_CoveragePage_SelectRoofTypeMaterial_XL	1.573	2.09	2.124	3.119	5.0	0.0	4.07	6.087	7.34	10.677	5.0	0.0	4.0885	4.732
+TC07_PCG_External_NewCustomer_Collections_13b_CoveragePage_occupancytype_S	1.708	1.781	1.789	1.963	6.0	0.0	5.239	6.095	7.478	7.478	3.0	0.0	3.9379999999999997	4.6335
+TC07_PCG_External_NewCustomer_Collections_13a_CoveragePage_SelectContructiontype_XXL	1.78	2.627	3.189	3.586	8.0	0.0	4.015	6.283	11.529	11.529	4.0	0.0	4.455	7.359
+TC07_PCG_External_NewCustomer_Collections_13_CoveragePage_SelectRoofTypeMaterial_L	1.646	1.735	1.903	1.903	3.0	0.0	4.716	6.534	5.494	12.749	6.0	0.0	4.1345	3.6985
+TC07_PCG_External_NewCustomer_Collections_13a_CoveragePage_SelectContructiontype_XL	1.787	2.444	2.703	3.693	5.0	0.0	4.857	7.059	6.162	13.205	5.0	0.0	4.7515	4.4325
+TC07_PCG_External_NewCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_S	1.774	1.813	1.852	1.862	6.0	0.0	3.44	4.583	6.531	6.531	3.0	0.0	3.198	4.1915
+TC07_PCG_External_NewCustomer_Collections_13b_CoveragePage_occupancytype_XXL	1.651	2.544	3.937	5.454	8.0	0.0	4.968	6.018	7.478	7.478	4.0	0.0	4.281	5.7075
+TC07_PCG_External_NewCustomer_Collections_13a_CoveragePage_SelectContructiontype_L	1.801	1.958	2.183	2.183	3.0	0.0	3.397	3.886	4.105	4.519	6.0	0.0	2.922	3.144
+TC07_PCG_External_NewCustomer_Collections_13b_CoveragePage_occupancytype_XL	1.582	1.744	1.767	2.073	5.0	0.0	3.493	3.934	3.83	5.139	5.0	0.0	2.839	2.7984999999999998
+TC07_PCG_External_NewCustomer_Collections_13d_CoveragePage_SquareFootage_S	1.623	1.841	1.779	2.451	6.0	0.0	3.329	4.092	5.289	5.289	3.0	0.0	2.9665	3.534
+TC07_PCG_External_NewCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_XXL	1.771	2.339	2.953	3.398	8.0	0.0	3.579	3.875	4.174	4.174	4.0	0.0	3.107	3.5635000000000003
+TC07_PCG_External_NewCustomer_Collections_13b_CoveragePage_occupancytype_L	1.598	2.089	2.733	2.733	3.0	0.0	2.91	3.613	3.641	5.263	6.0	0.0	2.851	3.1870000000000003
+TC07_PCG_External_NewCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_XL	1.663	2.024	2.001	2.731	5.0	0.0	3.324	3.534	3.573	3.76	5.0	0.0	2.779	2.787
+TC07_PCG_External_NewCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_S	1.706	2.775	2.678	6.786	6.0	0.0	3.208	5.266	7.826	7.826	3.0	0.0	4.0205	5.252
+TC07_PCG_External_NewCustomer_Collections_13d_CoveragePage_SquareFootage_XXL	1.542	1.995	2.645	3.193	8.0	0.0	3.282	3.608	3.938	3.938	4.0	0.0	2.8015	3.2915
+TC07_PCG_External_NewCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_L	1.704	1.871	2.077	2.077	3.0	0.0	3.166	4.403	5.245	6.238	6.0	0.0	3.1369999999999996	3.661
+TC07_PCG_External_NewCustomer_Collections_13d_CoveragePage_SquareFootage_XL	1.681	1.956	2.202	2.325	5.0	0.0	3.48	4.678	5.755	6.426	5.0	0.0	3.317	3.9785
+TC07_PCG_External_NewCustomer_Collections_13f_CoveragePage_selectprotectionclass_S	1.702	2.246	2.422	3.561	6.0	0.0	0.643	0.725	0.784	0.784	3.0	0.0	1.4855	1.6030000000000002
+TC07_PCG_External_NewCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_XXL	1.6	2.186	3.067	3.904	8.0	0.0	0.748	1.027	0.887	2.135	6.0	0.0	1.6065	1.977
+TC07_PCG_External_NewCustomer_Collections_13d_CoveragePage_SquareFootage_L	1.599	1.688	1.814	1.814	3.0	0.0	2.969	4.724	6.753	6.753	4.0	0.0	3.206	4.2835
+TC07_PCG_External_NewCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_XL	1.636	1.8	1.818	2.098	5.0	0.0	0.626	1.011	1.23	1.724	5.0	0.0	1.4055	1.524
+TC07_PCG_External_NewCustomer_Collections_13g_CoveragePage_selectno0fStories_S	1.664	2.081	2.006	3.34	6.0	0.0	0.734	1.377	2.008	2.008	4.0	0.0	1.729	2.0069999999999997
+TC07_PCG_External_NewCustomer_Collections_13f_CoveragePage_selectprotectionclass_XXL	1.639	2.08	2.134	4.05	8.0	0.0	0.553	1.764	4.814	5.07	15.0	0.0	1.9220000000000002	3.474
+TC07_PCG_External_NewCustomer_Collections_13f_CoveragePage_selectprotectionclass_XL	1.67	2.802	1.793	7.042	5.0	0.0	0.001	1.32	3.756	4.79	39.0	0.0	2.061	2.7744999999999997
+TC07_PCG_External_NewCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_L	1.97	2.453	2.95	2.95	3.0	0.0	0.547	1.678	2.123	4.869	6.0	0.0	2.0655	2.5365
+TC07_PCG_External_NewCustomer_Collections_14_CoveragePage_PercentageofCoverage_S	1.671	1.872	2.002	2.01	6.0	0.0	0.199	0.361	0.448	1.237	15.0	0.0	1.1165	1.2249999999999999
+TC07_PCG_External_NewCustomer_Collections_13g_CoveragePage_selectno0fStories_XXL	1.652	1.998	2.345	2.683	8.0	0.0	0.635	1.082	1.104	2.064	5.0	0.0	1.54	1.7245000000000001
+TC07_PCG_External_NewCustomer_Collections_13g_CoveragePage_selectno0fStories_XL	1.573	1.805	1.838	2.18	5.0	0.0	0.222	0.91	0.63	3.792	6.0	0.0	1.3575	1.234
+TC07_PCG_External_NewCustomer_Collections_13f_CoveragePage_selectprotectionclass_L	1.697	2.35	3.594	3.594	3.0	0.0	0.586	2.513	5.157	5.734	8.0	0.0	2.4314999999999998	4.3755
+TC07_PCG_External_NewCustomer_Collections_15_CoveragePage_ClickNext_S	3.197	3.516	3.636	3.675	6.0	0.0	0.206	0.305	0.357	0.481	5.0	0.0	1.9105	1.9965000000000002
+TC07_PCG_External_NewCustomer_Collections_14_CoveragePage_PercentageofCoverage_XXL	1.629	2.062	2.536	2.685	8.0	0.0	3.244	4.619	6.158	7.517	15.0	0.0	3.3404999999999996	4.347
+TC07_PCG_External_NewCustomer_Collections_14_CoveragePage_PercentageofCoverage_XL	1.749	2.411	2.645	3.032	5.0	0.0	0.198	0.22	0.256	0.277	8.0	0.0	1.3155000000000001	1.4505
+TC07_PCG_External_NewCustomer_Collections_13g_CoveragePage_selectno0fStories_L	1.839	2.665	4.066	4.066	3.0	0.0	3.719	5.51	6.572	7.359	6.0	0.0	4.0875	5.319
+TC07_PCG_External_NewCustomer_Collections_16b_DetailsPage_ClickNext_S	4.801	5.128	5.178	5.503	6.0	0.0	3.464	4.676	5.506	5.657	5.0	0.0	4.902	5.3420000000000005
+TC07_PCG_External_NewCustomer_Collections_15_CoveragePage_ClickNext_XXL	3.192	3.871	4.627	6.193	8.0	0.0	1.648	2.054	2.419	2.731	15.0	0.0	2.9625	3.5229999999999997
+TC07_PCG_External_NewCustomer_Collections_15_CoveragePage_ClickNext_XL	3.124	4.84	4.37	9.337	5.0	0.0	3.343	4.704	5.947	6.269	7.0	0.0	4.772	5.1585
+TC07_PCG_External_NewCustomer_Collections_14_CoveragePage_PercentageofCoverage_L	1.584	2.379	3.433	3.433	3.0	0.0	1.752	2.251	2.728	2.805	6.0	0.0	2.315	3.0805
+TC07_PCG_External_NewCustomer_Collections_16C_DetailsPage_ClickNext_QuotepageLoad_S	3.215	3.729	4.135	4.398	6.0	0.0	1.765	2.34	2.321	3.275	5.0	0.0	3.0345	3.2279999999999998
+TC07_PCG_External_NewCustomer_Collections_16b_DetailsPage_ClickNext_XXL	4.933	5.52	5.911	6.855	8.0	0.0	1.79	2.064	2.248	2.502	7.0	0.0	3.792	4.0794999999999995
+TC07_PCG_External_NewCustomer_Collections_15_CoveragePage_ClickNext_L	3.224	3.399	3.677	3.677	3.0	0.0	14.463	17.115	17.615	25.59	15.0	0.0	10.257	10.645999999999999
+TC07_PCG_External_NewCustomer_Collections_16b_DetailsPage_ClickNext_XL	5.375	6.753	6.369	10.677	5.0	0.0	16.194	18.124	18.679	23.837	6.0	0.0	12.4385	12.524
+TC07_PCG_External_NewCustomer_Collections_17_QuotePage_ClickNext_S	1.583	1.631	1.638	1.737	6.0	0.0	15.867	19.729	28.769	28.769	4.0	0.0	10.68	15.203499999999998
+TC07_PCG_External_NewCustomer_Collections_16C_DetailsPage_ClickNext_QuotepageLoad_XXL	3.379	4.057	4.008	5.721	7.0	0.0	1.372	1.642	1.723	3.05	13.0	0.0	2.8495	2.8655
+TC07_PCG_External_NewCustomer_Collections_16b_DetailsPage_ClickNext_L	5.139	5.623	6.074	6.074	3.0	0.0	16.356	18.862	20.227	27.096	7.0	0.0	12.2425	13.150500000000001
+TC07_PCG_External_NewCustomer_Collections_16C_DetailsPage_ClickNext_QuotepageLoad_XL	3.599	4.575	4.964	5.543	5.0	0.0	1.469	1.635	1.647	2.073	6.0	0.0	3.105	3.3055000000000003
+TC07_PCG_External_NewCustomer_Collections_19_PrePackagePage_ClickCreatePackage_S	3.133	4.191	4.75	5.034	5.0	0.0	1.475	1.822	2.538	2.538	4.0	0.0	3.0065	3.644
+TC07_PCG_External_NewCustomer_Collections_17_QuotePage_ClickNext_XXL	1.343	1.869	1.888	2.918	7.0	0.0	1.376	1.657	2.109	2.513	13.0	0.0	1.763	1.9985
+TC07_PCG_External_NewCustomer_Collections_20_PrePackagePage_ClickClosePopUp_S	0.688	1.449	3.519	3.519	4.0	0.0	1.468	1.585	1.62	1.853	7.0	0.0	1.517	2.5695
+TC07_PCG_External_NewCustomer_Collections_17_QuotePage_ClickNext_XL	1.645	2.02	2.235	2.299	5.0	0.0	1.364	1.512	1.51	1.999	6.0	0.0	1.766	1.8725
+TC07_PCG_External_NewCustomer_Collections_16C_DetailsPage_ClickNext_QuotepageLoad_L	3.521	4.123	4.835	4.835	3.0	0.0	1.351	2.24	4.165	4.165	4.0	0.0	3.1815	4.5
+TC07_PCG_External_NewCustomer_Collections_19_PrePackagePage_ClickCreatePackage_XXL	3.058	3.62	4.076	4.159	7.0	0.0	1.384	1.838	1.952	4.347	13.0	0.0	2.729	3.014
+TC07_PCG_External_NewCustomer_Collections_19_PrePackagePage_ClickCreatePackage_XL	3.569	3.914	4.034	4.606	5.0	0.0	1.322	1.604	1.601	2.29	7.0	0.0	2.7590000000000003	2.8175
+TC07_PCG_External_NewCustomer_Collections_17_QuotePage_ClickNext_L	1.519	1.791	2.116	2.116	3.0	0.0	1.388	2.641	1.784	8.27	6.0	0.0	2.216	1.9500000000000002
+TC07_PCG_External_NewCustomer_Collections_20_PrePackagePage_ClickClosePopUp_XXL	0.782	0.961	0.937	1.618	7.0	0.0	1.508	1.645	1.938	1.938	4.0	0.0	1.303	1.4375
+TC07_PCG_External_NewCustomer_Collections_21_PackagePage_SendToUnderwriter_S	7.369	8.131	9.593	9.593	4.0	0.0	4.037	5.441	8.284	8.837	13.0	0.0	6.786	8.938500000000001
+TC07_PCG_External_NewCustomer_Collections_20_PrePackagePage_ClickClosePopUp_XL	0.716	1.539	1.771	2.874	5.0	0.0	1.455	1.629	1.859	1.899	7.0	0.0	1.584	1.815
+TC07_PCG_External_NewCustomer_Collections_19_PrePackagePage_ClickCreatePackage_L	3.562	3.679	3.907	3.907	3.0	0.0	4.165	4.853	5.409	6.136	6.0	0.0	4.266	4.6579999999999995
+TC07_PCG_External_NewCustomer_Collections_21_PackagePage_SendToUnderwriter_XXL	6.891	7.587	7.808	8.24	7.0	0.0	4.397	5.619	6.995	6.995	4.0	0.0	6.603	7.4015
+TC07_PCG_External_NewCustomer_Collections_20_PrePackagePage_ClickClosePopUp_L	0.683	1.164	1.823	1.823	3.0	0.0	1.109	1.5	1.891	1.977	13.0	0.0	1.3319999999999999	1.857
+TC07_PCG_External_NewCustomer_Collections_21_PackagePage_SendToUnderwriter_XL	7.16	8.026	8.366	8.874	5.0	0.0	4.178	4.798	4.764	7.054	7.0	0.0	6.412	6.5649999999999995
+TC07_PCG_External_NewCustomer_Collections_21_PackagePage_SendToUnderwriter_L	6.966	7.571	8.275	8.275	3.0	0.0	1.046	1.105	1.168	1.219	6.0	0.0	4.338	4.7215
+TC05_PCG_External_QuoteNewCustomer_HO_02_SearchCustomer_XL	0.537	1.691	1.079	4.967	5.0	0.0	1.135	1.253	1.341	1.341	4.0	0.0	1.472	1.21
+TC05_PCG_External_QuoteNewCustomer_HO_03_Click_CreateQuotefornewCustomer_XL	0.206	0.294	0.263	0.534	5.0	0.0	2.932	3.839	4.539	6.544	13.0	0.0	2.0665	2.401
+TC01_ExternalLogout	0.244	0.369	0.406	2.268	1265.0	0.0	1.188	1.609	2.012	2.212	7.0	0.0	0.989	1.209
+TC05_PCG_External_QuoteNewCustomer_HO_04_SelectProductandClickSave&Continue_XL	3.302	6.698	3.734	19.408	5.0	0.0	2.903	4.081	4.565	5.523	6.0	0.0	5.3895	4.1495
+TC05_PCG_External_QuoteNewCustomer_HO_07_insuredPage_SelectLocationInfoAddress_XL	2.0	2.295	2.229	3.035	5.0	0.0	3.0	3.289	3.558	3.558	4.0	0.0	2.792	2.8935
+TC05_PCG_External_QuoteNewCustomer_HO_08_insuredPage_Clicksave_XL	16.348	19.173	21.395	22.641	5.0	0.0	1.153	1.445	2.069	2.141	13.0	0.0	10.309	11.732
+TC05_PCG_External_QuoteNewCustomer_HO_10_RatingPage_Selectyearbuilt_XL	1.71	1.899	2.113	2.178	5.0	0.0	0.858	1.992	2.348	4.733	5.0	0.0	1.9455	2.2305
+TC05_PCG_External_QuoteNewCustomer_HO_10A_RatingPage_Noofstories_XL	1.671	1.873	1.963	2.007	5.0	0.0	2.99	3.368	3.918	4.021	7.0	0.0	2.6205	2.9405
+TC05_PCG_External_QuoteNewCustomer_HO_10B_RatingPage_SelectpreviousInsurer_XL	1.771	2.103	1.908	3.142	5.0	0.0	1.12	1.508	1.65	2.1	6.0	0.0	1.8055	1.779
+TC05_PCG_External_QuoteNewCustomer_HO_13_Ratingpage_ClickNext_XL	4.489	4.973	5.566	5.684	5.0	0.0	1.195	1.261	1.328	1.328	4.0	0.0	3.117	3.447
+TC05_PCG_External_QuoteNewCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_XL	1.269	1.355	1.425	1.434	5.0	0.0	0.938	2.813	4.762	4.762	4.0	0.0	2.084	3.0934999999999997
+TC05_PCG_External_QuoteNewCustomer_HO_17_coveragepage_ClickNext_XL	3.062	3.859	4.162	4.864	5.0	0.0	0.735	0.924	0.963	1.187	5.0	0.0	2.3915	2.5625
+TC05_PCG_External_QuoteNewCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_XL	1.252	1.433	1.511	1.654	5.0	0.0	5.987	7.322	8.847	10.124	13.0	0.0	4.3775	5.178999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_XL	7.089	7.509	7.703	8.095	5.0	0.0	1.139	1.342	1.387	1.6	7.0	0.0	4.4255	4.545
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_QuotePageLoad_XL	4.207	5.246	5.497	7.566	5.0	0.0	5.924	8.026	8.875	9.21	6.0	0.0	6.636	7.186
+TC05_PCG_External_QuoteNewCustomer_HO_24_Quotesummarypage_ClickNext_XL	1.572	1.953	2.212	2.429	5.0	0.0	0.668	0.965	1.233	1.233	4.0	0.0	1.459	1.7225000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_26_Prepackage_Clickcreatepackage_XL	3.031	4.286	4.928	5.292	5.0	0.0	6.348	7.017	8.647	8.647	4.0	0.0	5.6515	6.7875
+TC05_PCG_External_QuoteNewCustomer_HO_27_Prepackage_createpackage_clickclose_XL	0.691	0.753	0.743	0.927	5.0	0.0	0.565	1.497	1.493	4.933	8.0	0.0	1.125	1.118
+TC05_PCG_External_QuoteNewCustomer_HO_28_PackagePage_SendToUnderwriter_XL	7.406	8.149	8.298	9.992	5.0	0.0	2.953	4.601	6.242	7.428	5.0	0.0	6.375	7.27
+TC07_PCG_External_NewCustomer_Collections_02_SearchCustomerID_M	0.865	0.865	0.865	0.865	1.0	0.0	3.987	5.729	6.201	14.958	13.0	0.0	3.297	3.533
+TC07_PCG_External_NewCustomer_Collections_03_CreateQuotefor_NewCustomer_M	0.204	0.204	0.204	0.204	1.0	0.0	0.62	1.666	2.279	4.738	6.0	0.0	0.9349999999999999	1.2415
+TC07_PCG_External_NewCustomer_Collections_04_SelectProductandClickSave&Continue_M	3.249	3.249	3.249	3.249	1.0	0.0	6.0	7.146	7.629	9.886	7.0	0.0	5.1975	5.439
+TC07_PCG_External_NewCustomer_Collections_08_InsuredPage_SelectLocationInfoAddress_M	0.229	0.229	0.229	0.229	1.0	0.0	3.863	5.278	5.779	7.44	6.0	0.0	2.7535	3.004
+TC07_PCG_External_NewCustomer_Collections_09_insuredPage_Clicksave_M	13.972	13.972	13.972	13.972	1.0	0.0	3.461	3.654	3.892	3.892	4.0	0.0	8.812999999999999	8.932
+TC07_PCG_External_NewCustomer_Collections_10_RatingPage_SelectJewelry_M	1.288	1.288	1.288	1.288	1.0	0.0	0.749	0.911	1.223	1.223	3.0	0.0	1.0995	1.2555
+TC07_PCG_External_NewCustomer_Collections_11_RatingPage_SelectScheduled_M	1.255	1.255	1.255	1.255	1.0	0.0	0.731	1.15	1.411	1.611	7.0	0.0	1.2025	1.333
+TC07_PCG_External_NewCustomer_Collections_12_RatingPage_Coveragelimit&ClickNext_M	3.01	3.01	3.01	3.01	1.0	0.0	3.799	4.422	6.036	6.036	4.0	0.0	3.7159999999999997	4.523
+TC07_PCG_External_NewCustomer_Collections_13_CoveragePage_SelectRoofTypeMaterial_M	1.763	1.763	1.763	1.763	1.0	0.0	1.548	1.641	1.748	1.757	5.0	0.0	1.702	1.7555
+TC07_PCG_External_NewCustomer_Collections_13a_CoveragePage_SelectContructiontype_M	1.638	1.638	1.638	1.638	1.0	0.0	1.462	2.23	4.367	4.408	13.0	0.0	1.934	3.0025
+TC07_PCG_External_NewCustomer_Collections_13b_CoveragePage_occupancytype_M	1.796	1.796	1.796	1.796	1.0	0.0	0.671	1.242	1.426	2.009	6.0	0.0	1.5190000000000001	1.611
+TC07_PCG_External_NewCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_M	1.64	1.64	1.64	1.64	1.0	0.0	1.453	2.356	2.838	4.425	6.0	0.0	1.9979999999999998	2.239
+TC07_PCG_External_NewCustomer_Collections_13d_CoveragePage_SquareFootage_M	1.803	1.803	1.803	1.803	1.0	0.0	4.202	5.11	6.205	6.462	7.0	0.0	3.4565	4.004
+TC07_PCG_External_NewCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_M	2.156	2.156	2.156	2.156	1.0	0.0	1.544	1.687	1.986	1.986	4.0	0.0	1.9215	2.071
+TC07_PCG_External_NewCustomer_Collections_13f_CoveragePage_selectprotectionclass_M	1.868	1.868	1.868	1.868	1.0	0.0	0.679	0.965	1.439	1.439	3.0	0.0	1.4165	1.6535000000000002
+TC07_PCG_External_NewCustomer_Collections_13g_CoveragePage_selectno0fStories_M	1.772	1.772	1.772	1.772	1.0	0.0	3.163	4.264	4.683	5.906	7.0	0.0	3.0180000000000002	3.2275
+TC07_PCG_External_NewCustomer_Collections_14_CoveragePage_PercentageofCoverage_M	1.865	1.865	1.865	1.865	1.0	0.0	1.626	2.433	4.639	4.639	4.0	0.0	2.149	3.2520000000000002
+TC07_PCG_External_NewCustomer_Collections_15_CoveragePage_ClickNext_M	3.659	3.659	3.659	3.659	1.0	0.0	3.285	5.759	9.168	17.001	13.0	0.0	4.709	6.413499999999999
+TC07_PCG_External_NewCustomer_Collections_16b_DetailsPage_ClickNext_M	5.131	5.131	5.131	5.131	1.0	0.0	3.354	5.653	7.377	7.555	6.0	0.0	5.3919999999999995	6.254
+TC07_PCG_External_NewCustomer_Collections_16C_DetailsPage_ClickNext_QuotepageLoad_M	4.057	4.057	4.057	4.057	1.0	0.0	1.584	2.414	2.513	5.284	7.0	0.0	3.2355	3.285
+TC07_PCG_External_NewCustomer_Collections_17_QuotePage_ClickNext_M	1.53	1.53	1.53	1.53	1.0	0.0	3.443	6.197	7.981	13.25	6.0	0.0	3.8635	4.7555
+TC07_PCG_External_NewCustomer_Collections_19_PrePackagePage_ClickCreatePackage_M	5.101	5.101	5.101	5.101	1.0	0.0	14.694	17.582	17.031	24.795	5.0	0.0	11.3415	11.065999999999999
+TC07_PCG_External_NewCustomer_Collections_20_PrePackagePage_ClickClosePopUp_M	0.692	0.692	0.692	0.692	1.0	0.0	3.562	6.424	9.018	9.018	3.0	0.0	3.5580000000000003	4.855
+TC07_PCG_External_NewCustomer_Collections_21_PackagePage_SendToUnderwriter_M	7.611	7.611	7.611	7.611	1.0	0.0	1.369	1.737	1.853	1.957	6.0	0.0	4.6739999999999995	4.732
+TC06_PCG_External_QuoteNewCustomer_PEL_20_Dashboardpage_SearchCustomerID_S	0.948	1.163	1.325	1.325	4.0	0.0	3.29	5.946	11.961	11.961	4.0	0.0	3.5545	6.643
+TC06_PCG_External_QuoteNewCustomer_PEL_20A_Customerbackpage_clickQuoteno_S	1.037	1.325	2.072	2.072	4.0	0.0	0.633	1.209	2.536	3.265	13.0	0.0	1.267	2.3040000000000003
+TC06_PCG_External_QuoteNewCustomer_PEL_20B_ProposalTab_ClickPackageid_S	1.7	3.121	4.17	4.17	4.0	0.0	1.647	2.452	2.57	4.831	6.0	0.0	2.7865	3.37
+TC06_PCG_External_QuoteNewCustomer_PEL_20_Dashboardpage_SearchCustomerID_M	0.766	0.882	0.988	0.988	3.0	0.0	12.84	16.144	18.195	18.195	4.0	0.0	8.513	9.5915
+TC06_PCG_External_QuoteNewCustomer_PEL_20C_SelectQuote_S	1.094	1.453	1.794	1.794	4.0	0.0	0.619	1.368	1.677	2.943	6.0	0.0	1.4105	1.7355
+TC06_PCG_External_QuoteNewCustomer_PEL_20A_Customerbackpage_clickQuoteno_M	1.1	1.314	1.659	1.659	3.0	0.0	3.184	5.973	8.635	12.675	7.0	0.0	3.6435	5.147
+TC06_PCG_External_QuoteNewCustomer_PEL_20_Dashboardpage_SearchCustomerID_L	0.609	0.921	1.045	1.357	7.0	0.0	1.739	1.912	2.009	2.015	5.0	0.0	1.4165	1.527
+TC06_PCG_External_QuoteNewCustomer_PEL_20B_ProposalTab_ClickPackageid_M	1.719	1.947	2.371	2.371	3.0	0.0	1.651	1.766	1.937	1.937	3.0	0.0	1.8565	2.154
+TC06_PCG_External_QuoteNewCustomer_PEL_21_Packagepage_clickProceedtoissuance_S	3.379	3.685	4.1	4.1	4.0	0.0	0.677	1.485	2.325	2.325	4.0	0.0	2.585	3.2125
+TC06_PCG_External_QuoteNewCustomer_PEL_20A_Customerbackpage_clickQuoteno_L	1.188	1.351	1.524	1.544	7.0	0.0	1.699	2.229	2.867	2.867	4.0	0.0	1.79	2.1955
+TC06_PCG_External_QuoteNewCustomer_PEL_20C_SelectQuote_M	1.122	1.198	1.276	1.276	3.0	0.0	0.613	1.231	2.09	2.391	7.0	0.0	1.2145000000000001	1.6829999999999998
+TC06_PCG_External_QuoteNewCustomer_PEL_20B_ProposalTab_ClickPackageid_L	1.62	2.282	3.225	3.758	7.0	0.0	15.191	18.574	20.438	24.462	6.0	0.0	10.428	11.8315
+TC06_PCG_External_QuoteNewCustomer_PEL_22_Preissuance_Click_save&continue_S	6.586	7.77	10.287	10.287	4.0	0.0	7.601	9.842	12.149	17.491	13.0	0.0	8.806000000000001	11.218
+TC07_PCG_External_NewCustomer_Collections_21A_Dashboardpage_SearchCustomerID_XXL	0.805	1.1	1.497	1.632	6.0	0.0	2.8	3.128	3.152	3.865	5.0	0.0	2.114	2.3245
+TC06_PCG_External_QuoteNewCustomer_PEL_21_Packagepage_clickProceedtoissuance_M	3.124	3.484	3.966	3.966	3.0	0.0	13.882	18.658	21.716	24.849	6.0	0.0	11.071000000000002	12.841000000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_20C_SelectQuote_L	1.028	1.449	1.889	1.953	6.0	0.0	7.193	10.71	14.371	18.558	6.0	0.0	6.0795	8.13
+TC06_PCG_External_QuoteNewCustomer_PEL_23a_SelectBillingType_S	0.851	0.933	1.035	1.035	4.0	0.0	7.585	9.327	12.787	12.787	4.0	0.0	5.13	6.9110000000000005
+TC07_PCG_External_NewCustomer_Collections_21B_Customerbackpage_clickQuoteno_XXL	1.139	1.355	1.579	1.59	6.0	0.0	2.814	3.073	3.579	3.579	4.0	0.0	2.214	2.579
+TC07_PCG_External_NewCustomer_Collections_21A_Dashboardpage_SearchCustomerID_S	0.602	1.009	1.387	1.536	6.0	0.0	14.837	21.017	24.7	24.7	3.0	0.0	11.013	13.0435
+TC06_PCG_External_QuoteNewCustomer_PEL_23b_SelectPaymentPlan_S	0.344	0.393	0.448	0.448	4.0	0.0	1.86	2.186	2.282	3.022	6.0	0.0	1.2894999999999999	1.365
+TC06_PCG_External_QuoteNewCustomer_PEL_21_Packagepage_clickProceedtoissuance_L	3.245	3.927	4.104	5.651	6.0	0.0	2.226	2.448	2.397	3.088	5.0	0.0	3.1875	3.2504999999999997
+TC07_PCG_External_NewCustomer_Collections_21A_Dashboardpage_SearchCustomerID_M	0.802	1.015	1.156	1.156	4.0	0.0	1.681	2.415	2.72	4.294	6.0	0.0	1.7149999999999999	1.9380000000000002
+TC07_PCG_External_NewCustomer_Collections_21B_Customerbackpage_clickQuoteno_S	1.225	1.649	1.519	2.987	6.0	0.0	7.454	9.73	14.15	14.379	7.0	0.0	5.689500000000001	7.8345
+TC06_PCG_External_QuoteNewCustomer_PEL_22_Preissuance_Click_save&continue_M	7.261	8.255	10.169	10.169	3.0	0.0	2.126	2.603	3.674	3.674	4.0	0.0	5.429	6.9215
+TC07_PCG_External_NewCustomer_Collections_21c_ProposalTab_ClickPackageid_XXL	3.257	4.023	4.991	5.748	6.0	0.0	1.792	2.046	2.547	2.547	3.0	0.0	3.0344999999999995	3.769
+TC06_PCG_External_QuoteNewCustomer_PEL_23c_Paymentpage_clicksave_S	1.967	2.049	2.108	2.108	4.0	0.0	2.757	3.333	3.718	3.927	6.0	0.0	2.691	2.9130000000000003
+TC07_PCG_External_NewCustomer_Collections_21B_Customerbackpage_clickQuoteno_M	1.162	1.339	1.557	1.557	4.0	0.0	2.959	3.521	3.653	4.85	6.0	0.0	2.4299999999999997	2.605
+TC06_PCG_External_QuoteNewCustomer_PEL_23a_SelectBillingType_M	0.922	1.518	2.691	2.691	3.0	0.0	5.151	5.425	5.436	5.949	5.0	0.0	3.4715	4.0634999999999994
+TC07_PCG_External_NewCustomer_Collections_21d_SelectQuote_XXL	1.424	1.604	1.695	2.002	6.0	0.0	3.509	4.127	4.71	4.71	3.0	0.0	2.8655	3.2025
+TC07_PCG_External_NewCustomer_Collections_21c_ProposalTab_ClickPackageid_S	2.967	3.674	4.077	4.177	6.0	0.0	5.125	5.174	5.228	5.228	4.0	0.0	4.424	4.6525
+TC06_PCG_External_QuoteNewCustomer_PEL_22_Preissuance_Click_save&continue_L	6.821	7.14	7.325	7.551	5.0	0.0	2.252	2.439	2.669	2.783	6.0	0.0	4.7895	4.997
+TC06_PCG_External_QuoteNewCustomer_PEL_23b_SelectPaymentPlan_M	0.366	0.378	0.392	0.392	3.0	0.0	2.168	2.908	3.529	4.89	6.0	0.0	1.643	1.9605
+TC07_PCG_External_NewCustomer_Collections_21A_Dashboardpage_SearchCustomerID_L	0.825	1.154	1.683	1.683	3.0	0.0	2.569	3.222	3.047	4.64	5.0	0.0	2.1879999999999997	2.365
+TC06_PCG_External_QuoteNewCustomer_PEL_23d_Paymentpage_clickOk_S	2.187	2.631	2.999	2.999	4.0	0.0	2.197	3.03	3.566	3.566	3.0	0.0	2.8305	3.2824999999999998
+TC07_PCG_External_NewCustomer_Collections_21c_ProposalTab_ClickPackageid_M	2.813	3.222	3.665	3.665	4.0	0.0	2.668	2.917	3.356	3.356	4.0	0.0	3.0694999999999997	3.5105
+TC07_PCG_External_NewCustomer_Collections_21d_SelectQuote_S	1.245	1.92	2.527	2.96	6.0	0.0	5.151	5.554	5.634	6.745	6.0	0.0	3.737	4.080500000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_23a_SelectBillingType_L	0.87	1.004	1.086	1.282	5.0	0.0	1.369	2.14	2.109	4.009	5.0	0.0	1.572	1.5975000000000001
+TC07_PCG_External_NewCustomer_Collections_22_PackagePage_ClickProceedToPreissuance_XXL	3.223	3.57	3.721	3.865	6.0	0.0	4.76	5.776	6.673	6.707	6.0	0.0	4.673	5.197
+TC07_PCG_External_NewCustomer_Collections_21B_Customerbackpage_clickQuoteno_L	1.554	1.813	2.329	2.329	3.0	0.0	1.425	1.63	1.847	1.847	4.0	0.0	1.7214999999999998	2.088
+TC06_PCG_External_QuoteNewCustomer_PEL_23c_Paymentpage_clicksave_M	1.943	1.964	2.003	2.003	3.0	0.0	4.86	6.402	8.101	8.101	3.0	0.0	4.183	5.0520000000000005
+TC07_PCG_External_NewCustomer_Collections_21d_SelectQuote_M	1.278	1.414	1.67	1.67	3.0	0.0	2.701	3.594	4.39	4.991	6.0	0.0	2.504	3.03
+TC06_PCG_External_QuoteNewCustomer_PEL_23b_SelectPaymentPlan_L	0.378	0.447	0.467	0.484	5.0	0.0	2.001	3.939	2.563	10.722	5.0	0.0	2.193	1.5150000000000001
+TC07_PCG_External_NewCustomer_Collections_23_PreIssuancePage_ClickAddAnotherItem_XXL	1.066	1.703	2.174	3.119	6.0	0.0	2.821	3.548	4.155	4.945	6.0	0.0	2.6255	3.1645000000000003
+TC07_PCG_External_NewCustomer_Collections_22_PackagePage_ClickProceedToPreissuance_S	2.979	3.975	4.769	5.271	6.0	0.0	1.766	2.287	2.606	2.606	4.0	0.0	3.1310000000000002	3.6875
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_S	6.422	7.77	9.176	9.176	4.0	0.0	3.097	4.145	5.005	5.005	3.0	0.0	5.9575	7.0905000000000005
+TC07_PCG_External_NewCustomer_Collections_21c_ProposalTab_ClickPackageid_L	3.496	4.475	5.225	5.225	3.0	0.0	1.455	2.415	2.561	4.922	6.0	0.0	3.445	3.893
+TC06_PCG_External_QuoteNewCustomer_PEL_23d_Paymentpage_clickOk_M	2.738	2.942	3.217	3.217	3.0	0.0	0.679	1.114	1.329	1.86	5.0	0.0	2.028	2.273
+TC06_PCG_External_QuoteNewCustomer_PEL_23c_Paymentpage_clicksave_L	1.911	2.025	2.136	2.136	4.0	0.0	1.381	2.682	3.91	4.347	6.0	0.0	2.3535	3.023
+TC07_PCG_External_NewCustomer_Collections_22_PackagePage_ClickProceedToPreissuance_M	3.123	3.576	4.271	4.271	3.0	0.0	0.634	0.703	0.759	0.759	4.0	0.0	2.1395	2.515
+TC07_PCG_External_NewCustomer_Collections_24_PreIssuancePage_EnterLimit&clicksaveXXL	1.673	2.362	2.693	4.121	6.0	0.0	1.748	2.579	3.204	3.204	3.0	0.0	2.4705000000000004	2.9485
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_Dashboard_S	2.648	3.256	3.991	3.991	4.0	0.0	1.803	2.935	2.415	7.298	6.0	0.0	3.0955	3.2030000000000003
+TC07_PCG_External_NewCustomer_Collections_23_PreIssuancePage_ClickAddAnotherItem_S	1.032	1.226	1.198	1.575	5.0	0.0	1.929	4.574	6.339	10.395	6.0	0.0	2.9	3.7685000000000004
+TC07_PCG_External_NewCustomer_Collections_21d_SelectQuote_L	1.255	1.938	2.979	2.979	3.0	0.0	7.062	8.275	7.588	11.729	5.0	0.0	5.1065000000000005	5.2835
+TC07_PCG_External_NewCustomer_Collections_23_PreIssuancePage_ClickAddAnotherItem_M	1.055	1.124	1.193	1.193	2.0	0.0	2.096	7.402	11.649	11.649	3.0	0.0	4.263	6.420999999999999
+TC06_PCG_External_QuoteNewCustomer_PEL_23d_Paymentpage_clickOk_L	2.601	2.762	2.919	2.919	4.0	0.0	0.595	1.044	0.807	2.654	6.0	0.0	1.903	1.863
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_M	5.477	5.655	5.793	5.793	3.0	0.0	7.195	7.626	7.961	7.961	4.0	0.0	6.6405	6.877000000000001
+TC07_PCG_External_NewCustomer_Collections_24_PreIssuancePage_EnterLimit&clicksaveS	1.834	2.028	2.199	2.23	5.0	0.0	0.621	1.399	2.074	3.269	6.0	0.0	1.7135	2.1365
+TC07_PCG_External_NewCustomer_Collections_25_PreIssuancePage_ClickSaveandContinue_XXL	7.993	8.517	8.82	9.012	6.0	0.0	0.663	2.317	3.156	3.156	3.0	0.0	5.417	5.988
+TC07_PCG_External_NewCustomer_Collections_22_PackagePage_ClickProceedToPreissuance_L	3.192	4.328	5.662	5.662	3.0	0.0	7.198	9.481	7.736	19.851	6.0	0.0	6.9045000000000005	6.699
+TC07_PCG_External_NewCustomer_Collections_24_PreIssuancePage_EnterLimit&clicksaveM	1.74	1.767	1.795	1.795	2.0	0.0	6.748	8.987	11.618	14.164	6.0	0.0	5.377	6.7065
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_Dashboard_M	0.001	0.892	2.673	2.673	3.0	0.0	7.023	11.096	13.339	13.339	3.0	0.0	5.994	8.006
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_L	5.202	6.132	6.654	6.654	4.0	0.0	0.695	1.891	2.091	4.816	6.0	0.0	4.0115	4.3725000000000005
+TC07_PCG_External_NewCustomer_Collections_26a_SelectBillingType_XXL	0.857	0.926	0.985	1.025	6.0	0.0	0.73	1.987	4.61	4.811	9.0	0.0	1.4565000000000001	2.7975000000000003
+TC07_PCG_External_NewCustomer_Collections_25_PreIssuancePage_ClickSaveandContinue_S	7.825	8.178	8.187	8.811	5.0	0.0	0.211	0.337	0.386	0.536	6.0	0.0	4.2575	4.286499999999999
+TC07_PCG_External_NewCustomer_Collections_23_PreIssuancePage_ClickAddAnotherItem_L	1.457	1.667	1.903	1.903	3.0	0.0	0.208	0.235	0.253	0.343	9.0	0.0	0.9510000000000001	1.078
+TC05_PCG_External_QuoteNewCustomer_HO_29A_Dashboardpage_SearchCustomerID_XL	0.755	0.869	0.896	1.083	5.0	0.0	0.572	1.599	1.374	4.574	5.0	0.0	1.234	1.135
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_Dashboard_L	0.002	1.329	2.793	2.793	4.0	0.0	3.248	5.623	6.512	8.314	6.0	0.0	3.476	4.6525
+TC07_PCG_External_NewCustomer_Collections_26b_SelectPaymentPlan_XXL	0.346	0.376	0.38	0.434	6.0	0.0	3.262	4.581	5.916	6.216	9.0	0.0	2.4785000000000004	3.148
+TC07_PCG_External_NewCustomer_Collections_25_PreIssuancePage_ClickSaveandContinue_M	7.481	8.424	9.368	9.368	2.0	0.0	0.191	0.374	0.339	0.89	5.0	0.0	4.399	4.8535
+TC07_PCG_External_NewCustomer_Collections_26a_SelectBillingType_S	0.815	0.913	0.958	1.001	5.0	0.0	0.6	2.315	4.864	4.864	3.0	0.0	1.6139999999999999	2.911
+TC07_PCG_External_NewCustomer_Collections_24_PreIssuancePage_EnterLimit&clicksaveL	1.77	1.821	1.88	1.88	3.0	0.0	0.23	0.253	0.269	0.304	6.0	0.0	1.037	1.0745
+TC05_PCG_External_QuoteNewCustomer_HO_29B_Customerbackpage_clickQuoteno_XL	1.229	1.439	1.664	1.677	5.0	0.0	0.237	0.264	0.305	0.308	9.0	0.0	0.8515	0.9844999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_29A_Dashboardpage_SearchCustomerID_L	0.556	0.817	0.917	1.291	7.0	0.0	0.208	0.227	0.242	0.242	3.0	0.0	0.522	0.5795
+TC07_PCG_External_NewCustomer_Collections_26c_PaymentsPage_ClickSave_XXL	1.976	2.133	2.276	2.332	6.0	0.0	3.363	4.88	5.563	7.132	5.0	0.0	3.5065	3.9194999999999998
+TC07_PCG_External_NewCustomer_Collections_26a_SelectBillingType_M	0.847	0.881	0.915	0.915	2.0	0.0	13.658	16.041	16.704	18.272	6.0	0.0	8.461	8.8095
+TC07_PCG_External_NewCustomer_Collections_26b_SelectPaymentPlan_S	0.37	0.414	0.433	0.498	5.0	0.0	0.251	0.36	0.378	0.645	5.0	0.0	0.387	0.40549999999999997
+TC05_PCG_External_QuoteNewCustomer_HO_29C_ProposalTab_ClickPackageid_XL	2.674	3.161	3.514	3.722	5.0	0.0	3.694	4.107	4.749	4.749	3.0	0.0	3.6340000000000003	4.1315
+TC05_PCG_External_QuoteNewCustomer_HO_29B_Customerbackpage_clickQuoteno_L	1.112	1.283	1.344	1.483	7.0	0.0	13.877	15.581	16.483	19.792	9.0	0.0	8.432	8.9135
+TC07_PCG_External_NewCustomer_Collections_26b_SelectPaymentPlan_M	0.386	0.398	0.411	0.411	2.0	0.0	1.064	1.296	1.466	1.484	6.0	0.0	0.847	0.9385
+TC07_PCG_External_NewCustomer_Collections_25_PreIssuancePage_ClickSaveandContinue_L	7.795	8.698	10.229	10.229	3.0	0.0	0.249	0.348	0.399	0.399	3.0	0.0	4.523000000000001	5.314
+TC07_PCG_External_NewCustomer_Collections_26c_PaymentsPage_ClickSave_S	1.735	2.11	2.245	2.37	5.0	0.0	1.121	1.416	1.436	2.306	9.0	0.0	1.763	1.8405
+TC07_PCG_External_NewCustomer_Collections_26d_PaymentsPage_ClickOk_XXL	2.615	2.789	2.866	2.929	6.0	0.0	15.241	16.985	17.407	19.042	5.0	0.0	9.887	10.1365
+TC05_PCG_External_QuoteNewCustomer_HO_29D_SelectQuote_XL	1.473	1.622	1.669	1.769	5.0	0.0	0.966	1.155	1.114	1.742	6.0	0.0	1.3885	1.3915000000000002
+TC07_PCG_External_NewCustomer_Collections_26a_SelectBillingType_L	0.834	0.863	0.892	0.892	2.0	0.0	1.034	1.152	1.253	1.399	9.0	0.0	1.0074999999999998	1.0725
+TC07_PCG_External_NewCustomer_Collections_26c_PaymentsPage_ClickSave_M	2.047	2.145	2.243	2.243	2.0	0.0	13.265	14.791	16.171	16.171	3.0	0.0	8.468	9.206999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_29C_ProposalTab_ClickPackageid_L	2.8	3.329	3.899	4.495	7.0	0.0	1.082	1.323	1.418	1.518	5.0	0.0	2.326	2.6585
+TC07_PCG_External_NewCustomer_Collections_26d_PaymentsPage_ClickOk_S	2.776	2.982	2.984	3.419	5.0	0.0	2.721	2.979	3.121	3.363	6.0	0.0	2.9805	3.0525
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_XXL	6.238	7.387	8.557	9.442	6.0	0.0	2.856	3.036	3.21	3.388	9.0	0.0	5.2115	5.8835
+TC07_PCG_External_NewCustomer_Collections_26b_SelectPaymentPlan_L	0.364	0.401	0.438	0.438	2.0	0.0	1.306	1.489	1.701	1.701	3.0	0.0	0.9450000000000001	1.0695000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_29D_SelectQuote_L	1.474	1.708	1.98	2.017	7.0	0.0	1.128	1.241	1.262	1.404	5.0	0.0	1.4745	1.621
+TC05_PCG_External_QuoteNewCustomer_HO_29_PackagePage_ClickProceedtoIssuance_XL	3.456	4.41	4.906	6.248	5.0	0.0	1.354	1.607	1.671	2.282	6.0	0.0	3.0085	3.2885
+TC07_PCG_External_NewCustomer_Collections_26d_PaymentsPage_ClickOk_M	2.464	2.627	2.79	2.79	2.0	0.0	1.34	1.606	1.7	2.487	9.0	0.0	2.1165	2.245
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_Dashboard_XXL	0.001	1.881	2.876	2.918	6.0	0.0	1.019	1.366	1.892	1.892	3.0	0.0	1.6235	2.384
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_S	6.061	7.369	7.751	8.433	5.0	0.0	2.978	3.616	3.97	4.198	5.0	0.0	5.4925	5.8605
+TC07_PCG_External_NewCustomer_Collections_26c_PaymentsPage_ClickSave_L	1.96	2.05	2.141	2.141	2.0	0.0	1.336	1.567	1.785	1.807	6.0	0.0	1.8085	1.963
+TC05_PCG_External_QuoteNewCustomer_HO_29_PackagePage_ClickProceedtoIssuance_L	3.362	3.791	3.867	5.314	7.0	0.0	1.327	1.58	1.683	2.374	9.0	0.0	2.6855	2.775
+TC05_PCG_External_QuoteNewCustomer_HO_30_Preissuancepage_EnterMortagesandClickNext_XL	3.844	4.63	4.617	6.136	5.0	0.0	2.764	3.305	4.152	4.152	3.0	0.0	3.9675000000000002	4.3845
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_M	6.195	7.778	9.361	9.361	2.0	0.0	1.429	1.777	1.694	2.621	5.0	0.0	4.7775	5.5275
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_Dashboard_S	0.002	1.922	3.304	3.648	5.0	0.0	1.414	1.507	1.522	1.807	6.0	0.0	1.7145	2.413
+TC07_PCG_External_NewCustomer_Collections_26d_PaymentsPage_ClickOk_L	2.647	2.667	2.688	2.688	2.0	0.0	1.404	1.518	1.554	1.827	9.0	0.0	2.0925	2.121
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_Dashboard_M	3.234	3.242	3.251	3.251	2.0	0.0	1.392	1.491	1.556	1.556	3.0	0.0	2.3665000000000003	2.4035
+TC05_PCG_External_QuoteNewCustomer_HO_30_Preissuancepage_EnterMortagesandClickNext_L	4.034	4.647	5.295	5.948	7.0	0.0	1.39	1.589	1.627	2.004	5.0	0.0	3.1180000000000003	3.461
+TC05_PCG_External_QuoteNewCustomer_HO_31_InspectionPage_SelectBrokerContact_XL	1.019	1.313	1.163	2.214	5.0	0.0	1.47	1.592	1.65	1.798	6.0	0.0	1.4525000000000001	1.4064999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_31_InspectionPage_SelectBrokerContact_L	0.992	1.27	1.242	2.259	7.0	0.0	1.353	1.464	1.502	1.611	9.0	0.0	1.367	1.3719999999999999
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_L	6.136	6.869	7.603	7.603	2.0	0.0	1.301	1.492	1.816	1.816	3.0	0.0	4.1805	4.7095
+TC05_PCG_External_QuoteNewCustomer_HO_32_InspectionPage_ClickSave_XL	4.488	5.548	6.554	6.852	5.0	0.0	1.383	1.508	1.54	1.682	5.0	0.0	3.528	4.047000000000001
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_Dashboard_L	0.001	1.514	3.027	3.027	2.0	0.0	1.396	1.64	1.634	2.204	6.0	0.0	1.577	2.3305
+TC05_PCG_External_QuoteNewCustomer_HO_32_InspectionPage_ClickSave_L	4.631	5.155	5.488	6.059	7.0	0.0	1.282	1.478	1.635	1.727	9.0	0.0	3.3165	3.5615
+TC05_PCG_External_QuoteNewCustomer_HO_33a_SelectBillingType_XL	0.86	0.887	0.888	0.927	5.0	0.0	1.403	1.633	2.043	2.043	3.0	0.0	1.26	1.4655
+TC05_PCG_External_QuoteNewCustomer_HO_33a_SelectBillingType_L	0.848	0.973	0.967	1.425	7.0	0.0	1.46	1.565	1.592	1.832	5.0	0.0	1.269	1.2795
+TC05_PCG_External_QuoteNewCustomer_HO_33b_SelectPaymentPlan_XL	0.357	0.472	0.537	0.674	5.0	0.0	1.46	1.715	1.872	2.496	6.0	0.0	1.0935000000000001	1.2045000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_33c_PaymentPage_ClickSave_XL	1.954	2.253	2.448	2.48	5.0	0.0	1.324	1.708	2.407	2.521	9.0	0.0	1.9805000000000001	2.4275
+TC05_PCG_External_QuoteNewCustomer_HO_33b_SelectPaymentPlan_L	0.349	0.455	0.429	0.783	6.0	0.0	1.398	1.843	2.568	2.568	3.0	0.0	1.149	1.4985
+TC05_PCG_External_QuoteNewCustomer_HO_33c_PaymentPage_ClickSave_L	1.969	2.259	2.433	2.567	6.0	0.0	1.369	1.441	1.486	1.493	5.0	0.0	1.85	1.9594999999999998
+TC05_PCG_External_QuoteNewCustomer_HO_33d_PaymentPage_ClickOk_XL	2.885	3.293	3.446	3.919	5.0	0.0	1.385	1.489	1.555	1.776	6.0	0.0	2.391	2.5005
+TC05_PCG_External_QuoteNewCustomer_HO_33d_PaymentPage_ClickOk_L	2.711	3.245	3.503	4.085	6.0	0.0	1.306	1.397	1.522	1.54	9.0	0.0	2.321	2.5125
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_XL	13.005	14.262	14.21	17.327	5.0	0.0	1.409	1.46	1.493	1.493	3.0	0.0	7.861000000000001	7.851500000000001
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_L	12.998	14.935	16.249	18.205	6.0	0.0	1.381	1.482	1.516	1.665	5.0	0.0	8.2085	8.8825
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_Dashboard_XL	0.001	2.388	3.031	3.406	5.0	0.0	1.334	1.475	1.398	2.004	6.0	0.0	1.9315	2.2145
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_Dashboard_L	0.001	2.405	3.286	3.302	6.0	0.0	1.376	1.476	1.559	1.67	9.0	0.0	1.9405	2.4225
+TC05_PCG_External_QuoteNewCustomer_HO_29A_Dashboardpage_SearchCustomerID_M	1.001	1.221	1.358	1.569	6.0	0.0	1.35	1.588	1.946	1.946	3.0	0.0	1.4045	1.6520000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_29A_Dashboardpage_SearchCustomerID_S	0.858	1.123	1.409	1.409	4.0	0.0	1.397	1.574	1.752	1.881	5.0	0.0	1.3485	1.5805
+TC05_PCG_External_QuoteNewCustomer_HO_29B_Customerbackpage_clickQuoteno_M	1.244	1.712	2.148	2.434	6.0	0.0	1.421	1.524	1.613	1.713	6.0	0.0	1.6179999999999999	1.8805
+TC05_PCG_External_QuoteNewCustomer_HO_29B_Customerbackpage_clickQuoteno_S	1.175	1.361	1.538	1.538	4.0	0.0	1.382	1.665	1.652	2.886	9.0	0.0	1.513	1.595
+TC05_PCG_External_QuoteNewCustomer_HO_29C_ProposalTab_ClickPackageid_M	2.972	3.651	4.092	4.205	6.0	0.0	1.4	1.843	2.461	2.461	3.0	0.0	2.747	3.2764999999999995
+TC05_PCG_External_QuoteNewCustomer_HO_29C_ProposalTab_ClickPackageid_S	3.45	3.955	4.365	4.365	4.0	0.0	1.321	2.057	1.768	4.356	5.0	0.0	3.0060000000000002	3.0665
+TC05_PCG_External_QuoteNewCustomer_HO_29D_SelectQuote_M	1.381	1.775	2.116	2.263	6.0	0.0	2.926	3.39	3.67	3.778	6.0	0.0	2.5825	2.893
+TC05_PCG_External_QuoteNewCustomer_HO_29D_SelectQuote_S	1.557	2.06	3.083	3.083	4.0	0.0	2.863	3.278	3.504	4.275	9.0	0.0	2.669	3.2935
+TC05_PCG_External_QuoteNewCustomer_HO_29_PackagePage_ClickProceedtoIssuance_M	3.457	3.91	4.054	4.591	6.0	0.0	1.393	1.462	1.537	1.537	3.0	0.0	2.686	2.7955
+TC05_PCG_External_QuoteNewCustomer_HO_29_PackagePage_ClickProceedtoIssuance_S	3.44	3.651	3.888	3.888	4.0	0.0	1.359	1.655	1.68	2.296	5.0	0.0	2.653	2.784
+TC05_PCG_External_QuoteNewCustomer_HO_30_Preissuancepage_EnterMortagesandClickNext_M	3.9	4.43	4.419	5.66	6.0	0.0	4.803	5.068	5.259	5.308	6.0	0.0	4.749	4.839
+TC05_PCG_External_QuoteNewCustomer_HO_30_Preissuancepage_EnterMortagesandClickNext_S	3.902	4.244	4.737	4.737	4.0	0.0	1.312	1.374	1.468	1.468	3.0	0.0	2.809	3.1025
+TC05_PCG_External_QuoteNewCustomer_HO_31_InspectionPage_SelectBrokerContact_M	0.981	1.082	1.157	1.235	6.0	0.0	2.32	4.873	5.602	5.989	9.0	0.0	2.9775	3.3795
+TC05_PCG_External_QuoteNewCustomer_HO_31_InspectionPage_SelectBrokerContact_S	0.997	1.588	2.8	2.8	4.0	0.0	2.963	3.073	3.132	3.211	5.0	0.0	2.3305	2.966
+TC05_PCG_External_QuoteNewCustomer_HO_32_InspectionPage_ClickSave_M	4.573	5.123	5.168	5.87	6.0	0.0	3.718	3.943	4.064	4.322	5.0	0.0	4.533	4.616
+TC05_PCG_External_QuoteNewCustomer_HO_32_InspectionPage_ClickSave_S	4.792	5.178	6.129	6.129	4.0	0.0	2.919	3.046	3.159	3.159	3.0	0.0	4.112	4.644
+TC05_PCG_External_QuoteNewCustomer_HO_33a_SelectBillingType_M	0.882	1.047	1.219	1.346	6.0	0.0	3.349	4.026	4.317	5.4	8.0	0.0	2.5364999999999998	2.7680000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_33a_SelectBillingType_S	0.888	0.935	1.044	1.044	4.0	0.0	4.87	5.086	5.215	5.37	5.0	0.0	3.0105000000000004	3.1295
+TC05_PCG_External_QuoteNewCustomer_HO_33b_SelectPaymentPlan_M	0.348	0.414	0.426	0.526	6.0	0.0	1.441	1.677	1.837	1.872	5.0	0.0	1.0455	1.1315
+TC05_PCG_External_QuoteNewCustomer_HO_33c_PaymentPage_ClickSave_M	1.953	2.454	2.967	3.016	6.0	0.0	1.564	2.1	2.415	2.861	8.0	0.0	2.277	2.691
+TC05_PCG_External_QuoteNewCustomer_HO_33b_SelectPaymentPlan_S	0.38	0.413	0.468	0.468	4.0	0.0	5.035	5.54	6.466	6.466	3.0	0.0	2.9765	3.467
+TC05_PCG_External_QuoteNewCustomer_HO_33c_PaymentPage_ClickSave_S	2.023	2.155	2.403	2.403	4.0	0.0	3.706	3.861	3.891	4.099	5.0	0.0	3.008	3.1470000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_33d_PaymentPage_ClickOk_M	2.91	3.671	3.824	5.621	6.0	0.0	3.582	4.946	4.865	7.992	5.0	0.0	4.3084999999999996	4.3445
+TC05_PCG_External_QuoteNewCustomer_HO_33d_PaymentPage_ClickOk_S	2.921	3.187	3.719	3.719	4.0	0.0	2.916	4.977	6.264	8.83	7.0	0.0	4.082	4.9915
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_M	12.842	13.493	14.087	14.236	6.0	0.0	1.578	1.989	2.485	2.66	5.0	0.0	7.7410000000000005	8.286
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_Dashboard_M	0.001	0.001	0.002	0.002	6.0	0.0	3.936	4.403	4.894	4.894	3.0	0.0	2.202	2.448
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_S	13.414	13.976	14.428	14.428	4.0	0.0	0.638	0.926	1.057	1.205	5.0	0.0	7.4510000000000005	7.742500000000001
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_Dashboard_S	0.001	0.001	0.002	0.002	4.0	0.0	0.616	0.963	1.32	1.531	7.0	0.0	0.482	0.661
+TC06_PCG_External_QuoteNewCustomer_PEL_20_Dashboardpage_SearchCustomerID_XL	0.957	0.957	0.957	0.957	1.0	0.0	1.563	2.183	2.905	2.905	3.0	0.0	1.5699999999999998	1.9309999999999998
+TC06_PCG_External_QuoteNewCustomer_PEL_20A_Customerbackpage_clickQuoteno_XL	1.668	1.668	1.668	1.668	1.0	0.0	2.814	4.317	5.557	5.718	5.0	0.0	2.9925	3.6125000000000003
+TC06_PCG_External_QuoteNewCustomer_PEL_20_Dashboardpage_SearchCustomerID_XXL	0.879	0.98	1.079	1.079	3.0	0.0	7.293	7.852	8.625	8.625	4.0	0.0	4.416	4.852
+TC06_PCG_External_QuoteNewCustomer_PEL_20A_Customerbackpage_clickQuoteno_XXL	1.218	1.61	2.038	2.038	3.0	0.0	0.752	1.126	1.02	2.233	5.0	0.0	1.3679999999999999	1.529
+TC06_PCG_External_QuoteNewCustomer_PEL_20B_ProposalTab_ClickPackageid_XL	2.435	2.435	2.435	2.435	1.0	0.0	6.994	8.637	9.133	13.879	7.0	0.0	5.5360000000000005	5.784
+TC06_PCG_External_QuoteNewCustomer_PEL_20C_SelectQuote_XL	1.316	1.316	1.316	1.316	1.0	0.0	4.398	5.937	8.712	8.712	3.0	0.0	3.6265	5.014
+TC06_PCG_External_QuoteNewCustomer_PEL_20B_ProposalTab_ClickPackageid_XXL	1.825	2.03	2.417	2.417	3.0	0.0	0.674	0.922	1.084	1.084	3.0	0.0	1.476	1.7505
+TC06_PCG_External_QuoteNewCustomer_PEL_20C_SelectQuote_XXL	1.074	1.202	1.294	1.294	3.0	0.0	6.913	7.985	8.97	9.184	5.0	0.0	4.593500000000001	5.132000000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_21_Packagepage_clickProceedtoissuance_XL	3.512	3.512	3.512	3.512	1.0	0.0	6.935	7.67	8.423	8.423	3.0	0.0	5.591	5.9675
+TC06_PCG_External_QuoteNewCustomer_PEL_21_Packagepage_clickProceedtoissuance_XXL	3.705	4.253	4.684	4.684	3.0	0.0	0.561	1.863	1.527	4.894	5.0	0.0	3.058	3.1055
+TC06_PCG_External_QuoteNewCustomer_PEL_22_Preissuance_Click_save&continue_XL	7.575	7.575	7.575	7.575	1.0	0.0	0.21	0.402	0.507	0.759	5.0	0.0	3.9885	4.041
+TC06_PCG_External_QuoteNewCustomer_PEL_23a_SelectBillingType_XL	1.038	1.038	1.038	1.038	1.0	0.0	3.342	4.172	4.546	5.138	5.0	0.0	2.605	2.7920000000000003
+TC06_PCG_External_QuoteNewCustomer_PEL_22_Preissuance_Click_save&continue_XXL	6.822	7.228	7.452	7.452	3.0	0.0	1.84	2.179	2.537	2.655	5.0	0.0	4.7035	4.9945
+TC06_PCG_External_QuoteNewCustomer_PEL_23b_SelectPaymentPlan_XL	1.23	1.23	1.23	1.23	1.0	0.0	16.068	18.45	17.534	24.875	5.0	0.0	9.84	9.382
+TC06_PCG_External_QuoteNewCustomer_PEL_23a_SelectBillingType_XXL	0.874	0.925	0.973	0.973	3.0	0.0	1.518	1.616	1.676	1.791	5.0	0.0	1.2705000000000002	1.3245
+TC06_PCG_External_QuoteNewCustomer_PEL_23c_Paymentpage_clicksave_XL	2.218	2.218	2.218	2.218	1.0	0.0	1.374	1.455	1.454	1.603	5.0	0.0	1.8365	1.8359999999999999
+TC06_PCG_External_QuoteNewCustomer_PEL_23b_SelectPaymentPlan_XXL	0.356	0.401	0.484	0.484	3.0	0.0	1.451	1.648	1.649	2.135	5.0	0.0	1.0245	1.0665
+TC06_PCG_External_QuoteNewCustomer_PEL_23c_Paymentpage_clicksave_XXL	1.839	2.129	2.414	2.414	3.0	0.0	4.342	4.732	4.956	5.55	5.0	0.0	3.4305000000000003	3.6850000000000005
+TC06_PCG_External_QuoteNewCustomer_PEL_23d_Paymentpage_clickOk_XL	3.332	3.332	3.332	3.332	1.0	0.0	1.088	1.251	1.281	1.482	5.0	0.0	2.2915	2.3064999999999998
+TC06_PCG_External_QuoteNewCustomer_PEL_23d_Paymentpage_clickOk_XXL	2.383	2.643	2.808	2.808	3.0	0.0	2.908	4.269	4.736	6.328	5.0	0.0	3.456	3.772
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_XL	7.407	7.407	7.407	7.407	1.0	0.0	1.228	1.408	1.512	1.72	5.0	0.0	4.4075	4.4595
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_Dashboard_XL	0.002	0.002	0.002	0.002	1.0	0.0	6.341	7.797	9.227	9.517	5.0	0.0	3.8994999999999997	4.6145000000000005
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_XXL	6.387	6.737	7.155	7.155	3.0	0.0	4.029	5.254	5.667	6.649	5.0	0.0	5.9955	6.411
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_Dashboard_XXL	0.002	0.002	0.002	0.002	3.0	0.0	1.554	2.677	2.945	4.729	5.0	0.0	1.3395	1.4734999999999998
+TC05_PCG_External_QuoteNewCustomer_HO_29A_Dashboardpage_SearchCustomerID_XXL	0.96	1.365	1.67	1.67	3.0	0.0	3.832	8.437	11.454	13.714	5.0	0.0	4.901	6.562
+TC05_PCG_External_QuoteNewCustomer_HO_29B_Customerbackpage_clickQuoteno_XXL	1.177	1.341	1.589	1.589	3.0	0.0	0.8	1.479	1.898	2.793	5.0	0.0	1.4100000000000001	1.7435
+TC05_PCG_External_QuoteNewCustomer_HO_29C_ProposalTab_ClickPackageid_XXL	2.857	3.159	3.336	3.336	3.0	0.0	7.596	9.629	11.187	13.188	5.0	0.0	6.394	7.2615
+TC05_PCG_External_QuoteNewCustomer_HO_29D_SelectQuote_XXL	1.519	2.435	4.072	4.072	3.0	0.0	0.773	0.773	0.773	0.773	1.0	0.0	1.604	2.4225
+TC05_PCG_External_QuoteNewCustomer_HO_29_PackagePage_ClickProceedtoIssuance_XXL	3.37	3.573	3.903	3.903	3.0	0.0	0.204	0.204	0.204	0.204	1.0	0.0	1.8885	2.0535
+TC05_PCG_External_QuoteNewCustomer_HO_30_Preissuancepage_EnterMortagesandClickNext_XXL	3.692	4.177	4.881	4.881	3.0	0.0	3.951	3.951	3.951	3.951	1.0	0.0	4.064	4.416
+TC05_PCG_External_QuoteNewCustomer_HO_31_InspectionPage_SelectBrokerContact_XXL	1.063	1.148	1.234	1.234	2.0	0.0	0.308	0.308	0.308	0.308	1.0	0.0	0.728	0.771
+TC05_PCG_External_QuoteNewCustomer_HO_32_InspectionPage_ClickSave_XXL	4.875	5.228	5.581	5.581	2.0	0.0	13.569	13.569	13.569	13.569	1.0	0.0	9.3985	9.575000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_33a_SelectBillingType_XXL	0.811	0.931	1.051	1.051	2.0	0.0	1.454	1.454	1.454	1.454	1.0	0.0	1.1925	1.2525
+TC05_PCG_External_QuoteNewCustomer_HO_33b_SelectPaymentPlan_XXL	0.38	0.385	0.391	0.391	2.0	0.0	1.192	1.192	1.192	1.192	1.0	0.0	0.7885	0.7915
+TC07_PCG_External_NewCustomer_Collections_21A_Dashboardpage_SearchCustomerID_XL	1.01	1.01	1.01	1.01	1.0	0.0	2.886	2.886	2.886	2.886	1.0	0.0	1.948	1.948
+TC05_PCG_External_QuoteNewCustomer_HO_33c_PaymentPage_ClickSave_XXL	2.231	2.516	2.801	2.801	2.0	0.0	1.334	1.334	1.334	1.334	1.0	0.0	1.925	2.0675
+TC07_PCG_External_NewCustomer_Collections_21B_Customerbackpage_clickQuoteno_XL	1.215	1.215	1.215	1.215	1.0	0.0	1.397	1.397	1.397	1.397	1.0	0.0	1.306	1.306
+TC05_PCG_External_QuoteNewCustomer_HO_33d_PaymentPage_ClickOk_XXL	3.284	3.305	3.327	3.327	2.0	0.0	1.378	1.378	1.378	1.378	1.0	0.0	2.3415	2.3525
+TC07_PCG_External_NewCustomer_Collections_21c_ProposalTab_ClickPackageid_XL	4.325	4.325	4.325	4.325	1.0	0.0	1.439	1.439	1.439	1.439	1.0	0.0	2.882	2.882
+TC07_PCG_External_NewCustomer_Collections_21d_SelectQuote_XL	1.365	1.365	1.365	1.365	1.0	0.0	2.362	2.362	2.362	2.362	1.0	0.0	1.8635000000000002	1.8635000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_XXL	14.849	14.96	15.072	15.072	2.0	0.0	1.41	1.41	1.41	1.41	1.0	0.0	8.185	8.241
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_Dashboard_XXL	0.002	0.002	0.002	0.002	2.0	0.0	1.354	1.354	1.354	1.354	1.0	0.0	0.678	0.678
+TC07_PCG_External_NewCustomer_Collections_22_PackagePage_ClickProceedToPreissuance_XL	3.49	3.49	3.49	3.49	1.0	0.0	1.532	1.532	1.532	1.532	1.0	0.0	2.511	2.511
+TC07_PCG_External_NewCustomer_Collections_23_PreIssuancePage_ClickAddAnotherItem_XL	1.244	1.244	1.244	1.244	1.0	0.0	1.363	1.363	1.363	1.363	1.0	0.0	1.3035	1.3035
+TC07_PCG_External_NewCustomer_Collections_24_PreIssuancePage_EnterLimit&clicksaveXL	4.571	4.571	4.571	4.571	1.0	0.0	3.047	3.047	3.047	3.047	1.0	0.0	3.809	3.809
+TC07_PCG_External_NewCustomer_Collections_25_PreIssuancePage_ClickSaveandContinue_XL	9.844	9.844	9.844	9.844	1.0	0.0	5.222	5.222	5.222	5.222	1.0	0.0	7.5329999999999995	7.5329999999999995
+TC07_PCG_External_NewCustomer_Collections_26a_SelectBillingType_XL	0.858	0.858	0.858	0.858	1.0	0.0	3.809	3.809	3.809	3.809	1.0	0.0	2.3335	2.3335
+TC07_PCG_External_NewCustomer_Collections_26b_SelectPaymentPlan_XL	0.48	0.48	0.48	0.48	1.0	0.0	2.025	2.025	2.025	2.025	1.0	0.0	1.2525	1.2525
+TC07_PCG_External_NewCustomer_Collections_26c_PaymentsPage_ClickSave_XL	2.187	2.187	2.187	2.187	1.0	0.0	4.563	4.563	4.563	4.563	1.0	0.0	3.375	3.375
+TC07_PCG_External_NewCustomer_Collections_26d_PaymentsPage_ClickOk_XL	3.228	3.228	3.228	3.228	1.0	0.0	0.681	0.681	0.681	0.681	1.0	0.0	1.9545000000000001	1.9545000000000001
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_XL	7.379	7.379	7.379	7.379	1.0	0.0	7.29	7.29	7.29	7.29	1.0	0.0	7.3345	7.3345
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_Dashboard_XL	0.002	0.002	0.002	0.002	1.0	0.0	1.5	3.788	4.56	8.24	1238.0	0.0	1.8949999999999998	2.2809999999999997
+TC01_Internal_01A_Launch	0.075	0.101	0.108	0.387	411.0	0.0	0.432	0.521	0.635	0.833	25.0	0.0	0.311	0.3715
+TC01_Internal_01B_Login	0.119	0.533	0.314	127.452	411.0	0.0	1.68	3.993	8.548	10.62	25.0	0.0	2.263	4.431
+TC01_Internal_01C_Signin_Non-OKTA	0.914	1.194	1.358	3.401	406.0	0.0	3.009	6.645	13.94	16.393	25.0	0.0	3.9194999999999998	7.649
+TC27_PCG_Internal_Renewal_HO_02_SearchCustomer	0.332	1.467	4.55	4.936	100.0	0.0	0.441	0.547	0.678	0.825	25.0	0.0	1.0070000000000001	2.614
+TC27_PCG_Internal_Renewal_HO_03_Click_CreateQuotefornewCustomer	0.213	0.315	0.41	0.622	100.0	0.0	1.763	3.236	4.668	6.832	25.0	0.0	1.7755	2.539
+TC27_PCG_Internal_Renewal_HO_05_InsuredPage_SelectBrokerCode	0.44	0.718	0.977	1.595	99.0	0.0	2.848	4.457	7.123	8.501	25.0	0.0	2.5875	4.05
+TC27_PCG_Internal_Renewal_HO_06_InsuredPage_SelectLocationInfoAddress	1.743	2.266	2.562	7.36	99.0	0.0	0.447	0.56	0.706	0.859	25.0	0.0	1.413	1.634
+TC27_PCG_Internal_Renewal_HO_07_PolicyInformation_SelectEffectivedate	1.651	2.114	2.528	3.43	99.0	0.0	1.464	3.388	4.24	8.604	25.0	0.0	2.751	3.3840000000000003
+TC27_PCG_Internal_Renewal_HO_11_RatingPage_Selectyearbuilt	1.587	1.942	2.161	3.883	98.0	0.0	2.751	5.621	9.263	15.224	25.0	0.0	3.7815000000000003	5.712
+TC28_PCG_Internal_Renewal_PEL_02_SearchCustomer	0.31	1.496	4.544	5.189	99.0	0.0	0.077	2.467	0.108	228.106	480.0	0.0	1.9815	2.3259999999999996
+TC27_PCG_Internal_Renewal_HO_12_RatingPage_SelectNoofstories	1.641	2.007	2.279	6.119	98.0	0.0	0.135	0.217	0.276	0.701	480.0	0.0	1.112	1.2774999999999999
+TC28_PCG_Internal_Renewal_PEL_03_Click_CreateQuotefornewCustomer	0.213	0.361	0.456	2.535	99.0	0.0	0.14	1.137	1.341	2.815	475.0	5.0	0.749	0.8985
+TC27_PCG_Internal_Renewal_HO_13_RatingPage_SelectpreviousInsurer	1.638	1.864	2.08	2.517	98.0	0.0	0.901	1.177	1.333	2.565	475.0	0.0	1.5205000000000002	1.7065000000000001
+TC28_PCG_Internal_Renewal_PEL_04_SelectLegacyRenewal_Click_ProductandSave&Continue	2.517	3.423	4.147	6.831	99.0	0.0	0.976	2.23	2.296	232.605	432.0	0.0	2.8265000000000002	3.2215
+TC27_PCG_Internal_Renewal_HO_14_RatingPage_ClickSave	3.463	4.084	4.794	5.755	98.0	0.0	1.658	1.863	2.018	3.271	432.0	0.0	2.9734999999999996	3.4059999999999997
+TC28_PCG_Internal_Renewal_PEL_05_Insuredpage_Select_BrokerCode	0.451	0.669	0.806	1.211	99.0	0.0	2.397	7.231	5.142	232.501	176.0	0.0	3.95	2.974
+TC27_PCG_Internal_Renewal_HO_15_CoveragePage_EstimatedHomeReplacementValue	0.813	1.003	1.15	1.592	98.0	0.0	5.16	5.492	5.714	7.835	175.0	0.0	3.2475	3.4320000000000004
+TC28_PCG_Internal_Renewal_PEL_06_Insuredpage_SelectLocationinfo	1.845	2.252	2.61	3.484	99.0	0.0	0.931	1.654	2.238	2.509	173.0	0.0	1.9529999999999998	2.424
+TC27_PCG_Internal_Renewal_HO_19_CoveragePage_Add_ClaimHistory	1.132	1.382	1.61	1.842	98.0	0.0	1.652	4.388	1.954	224.252	173.0	0.0	2.885	1.782
+TC28_PCG_Internal_Renewal_PEL_07_Insuredpage_SelectEffectiveDate	1.617	2.032	2.31	2.943	99.0	0.0	1.752	2.577	3.209	4.212	172.0	0.0	2.3045	2.7595
+TC27_PCG_Internal_Renewal_HO_20_CoveragePage_Clicksave&continue	2.49	3.081	3.761	4.477	98.0	0.0	4.614	5.525	6.191	6.819	172.0	0.0	4.303	4.976
+TC28_PCG_Internal_Renewal_PEL_09_Insuredpage_Save&Continue	13.311	14.78	15.957	19.6	99.0	0.0	4.361	5.24	5.85	6.494	170.0	0.0	10.01	10.903500000000001
+TC27_PCG_Internal_Renewal_HO_21_DetailsPage_Clicksave&continue	7.442	8.785	9.603	31.755	98.0	0.0	4.459	5.518	6.596	6.774	6.0	0.0	7.1515	8.099499999999999
+TC28_PCG_Internal_Renewal_PEL_10_Ratingpage_Click_Save_Homedetails	0.866	1.017	1.176	1.639	99.0	0.0	3.237	4.625	4.792	6.518	6.0	0.0	2.8209999999999997	2.984
+TC27_PCG_Internal_Renewal_HO_22_QuotePage_ClickProceedtoissuance	2.125	2.633	2.921	10.384	98.0	0.0	4.457	4.762	5.304	5.357	10.0	0.0	3.6975	4.1125
+TC28_PCG_Internal_Renewal_PEL_11_Ratingpage_Click_AddAnotherVehicle	0.897	1.059	1.195	1.694	99.0	0.0	0.145	0.184	0.249	0.291	10.0	0.0	0.6214999999999999	0.722
+TC27_PCG_Internal_Renewal_HO_23_PreissuancePage_Enterdetails_Clicksave	2.519	3.06	3.554	10.531	98.0	0.0	3.13	3.397	3.542	3.737	10.0	0.0	3.2285	3.548
+TC28_PCG_Internal_Renewal_PEL_12_Ratingpage_SelectOwnershipType	0.926	1.085	1.343	2.068	99.0	0.0	4.08	6.513	10.067	12.883	10.0	0.0	3.799	5.705
+TC27_PCG_Internal_Renewal_HO_23_InspectionPage_SelectReason	0.639	0.778	0.906	1.51	98.0	0.0	2.847	4.009	4.798	6.325	10.0	0.0	2.3935000000000004	2.852
+TC28_PCG_Internal_Renewal_PEL_13_Ratingpage_Click_Save_VehicleDetails	0.933	1.196	1.481	2.336	99.0	0.0	5.236	6.004	6.201	7.148	5.0	0.0	3.5999999999999996	3.8409999999999997
+TC27_PCG_Internal_Renewal_HO_24_InspectionPage_Clicksave	3.204	4.89	3.878	131.292	98.0	0.0	0.152	0.194	0.246	0.256	5.0	0.0	2.542	2.0620000000000003
+TC28_PCG_Internal_Renewal_PEL_14_Ratingpage_Click_AddAnotherDriver	0.95	1.237	1.359	6.408	99.0	0.0	6.222	8.19	10.741	10.967	10.0	0.0	4.7135	6.05
+TC27_PCG_Internal_Renewal_HO_25a_SelectBillingType	0.57	0.692	0.765	0.999	98.0	0.0	3.952	5.785	5.564	9.098	5.0	0.0	3.2385	3.1645
+TC28_PCG_Internal_Renewal_PEL_15_Ratingpage_Enter_Details_for_Driver	0.836	1.184	1.575	2.281	99.0	0.0	5.27	6.095	6.612	6.681	10.0	0.0	3.6395	4.0935
+TC27_PCG_Internal_Renewal_HO_25b_SelectPaymentPlan	0.215	0.281	0.319	0.585	98.0	0.0	2.487	3.019	3.515	3.863	10.0	0.0	1.6500000000000001	1.917
+TC28_PCG_Internal_Renewal_PEL_16_Click_Save_DriverDetails	0.962	1.378	2.042	4.231	99.0	0.0	16.266	32.109	35.013	77.182	6.0	0.0	16.7435	18.5275
+TC27_PCG_Internal_Renewal_HO_25c_PaymentPage_Clicksave	1.5	1.9	2.133	2.466	98.0	0.0	0.152	0.224	0.293	0.338	10.0	0.0	1.062	1.213
+TC28_PCG_Internal_Renewal_PEL_17_Ratingpage_Click AddAnotherWatercraft	0.955	1.251	1.453	2.306	99.0	0.0	7.249	9.991	12.333	12.719	5.0	0.0	5.6209999999999996	6.893
+TC27_PCG_Internal_Renewal_HO_25d_PaymentPage_ClickOk	1.959	2.406	2.698	3.566	98.0	0.0	1.853	2.426	3.059	3.916	10.0	0.0	2.4160000000000004	2.8785
+TC28_PCG_Internal_Renewal_PEL_18_Ratingpage_Enter_WatercraftDetals	0.925	1.197	1.382	2.093	99.0	0.0	3.793	5.094	6.289	6.776	10.0	0.0	3.1455	3.8354999999999997
+TC28_PCG_Internal_Renewal_PEL_19_Ratingpage_Click_Save_WatercraftDetails	0.999	1.257	1.567	2.426	99.0	0.0	4.601	5.735	6.219	6.86	5.0	0.0	3.496	3.8930000000000002
+TC28_PCG_Internal_Renewal_PEL_20_Ratingpage_Click_Save&Continue	1.885	2.345	2.616	13.208	99.0	0.0	7.701	9.832	11.045	12.914	10.0	0.0	6.088500000000001	6.8305
+TC28_PCG_Internal_Renewal_PEL_21_Coveragepage_Click_Single_in_AutoCoverageLimittype	0.62	1.009	0.884	25.213	99.0	0.0	5.368	9.234	11.709	12.883	10.0	0.0	5.1215	6.2965
+TC28_PCG_Internal_Renewal_PEL_22_Coveragepage_Click_Save&continue	1.253	1.897	1.853	22.377	99.0	0.0	0.263	0.45	0.553	1.137	10.0	0.0	1.1735	1.203
+TC28_PCG_Internal_Renewal_PEL_23_Detailspage_Click_Save&Continue	4.836	5.915	6.262	23.888	99.0	0.0	11.516	14.089	16.695	18.153	5.0	0.0	10.002	11.4785
+TC28_PCG_Internal_Renewal_PEL_24_Quotepage_Click_ProceedtoIssuance	1.754	2.233	2.407	16.11	99.0	0.0	3.263	4.416	5.473	5.767	10.0	0.0	3.3245000000000005	3.94
+TC28_PCG_Internal_Renewal_PEL_25_Preissuancepage_Select_PCG_for_UnderlyingLiabilityPolicy_HomeDetails	0.549	0.786	0.927	1.347	94.0	0.0	5.311	7.019	7.045	13.45	10.0	0.0	3.9025	3.9859999999999998
+TC28_PCG_Internal_Renewal_PEL_26_Preissuancepage_Enter_UnderlyingPolicyNumber_HomeDetails	0.642	0.795	0.887	2.171	86.0	0.0	2.81	4.373	3.682	9.074	5.0	0.0	2.584	2.2845
+TC28_PCG_Internal_Renewal_PEL_27_Preissuancepage_Select_PCG_for_UnderlyingLiabilityPolicy_VehicleDetails	0.667	0.8	0.898	2.026	78.0	0.0	2.535	3.789	3.463	11.965	10.0	0.0	2.2945	2.1805
+TC28_PCG_Internal_Renewal_PEL_28_Preissuancepage_Select_No_for_VesselBerthed_in_USTerritory	0.659	0.833	1.082	1.409	75.0	0.0	3.48	4.628	4.248	8.171	5.0	0.0	2.7305	2.665
+TC28_PCG_Internal_Renewal_PEL_29_Preissuancepage_Click_Save&Continue	4.484	5.21	5.654	7.298	75.0	0.0	7.398	10.237	13.213	15.95	10.0	0.0	7.7235	9.433499999999999
+TC28_PCG_Internal_Renewal_PEL_30a_SelectBillingType	0.564	0.723	0.849	1.117	75.0	0.0	3.2	4.452	5.844	6.907	10.0	0.0	2.5875	3.3465000000000003
+TC28_PCG_Internal_Renewal_PEL_30b_SelectPaymentPlan	0.21	0.296	0.382	0.435	75.0	0.0	11.189	13.882	13.077	20.679	5.0	0.0	7.0889999999999995	6.7295
+TC28_PCG_Internal_Renewal_PEL_30c_Click_Paymentspage_Save&Continue	1.527	1.916	2.201	2.944	75.0	0.0	10.354	18.838	28.306	31.051	10.0	0.0	10.377	15.2535
+TC28_PCG_Internal_Renewal_PEL_30d_Click_Paymentspage_ClickOk	2.228	2.528	2.742	3.147	75.0	0.0	0.339	1.471	0.56	5.695	5.0	0.0	1.9995	1.651
+TC27_PCG_Internal_Renewal_HO_26_SubjectivitiesPage_Click_IssuePolicy	5.347	6.304	6.846	24.401	98.0	0.0	2.514	3.427	4.06	5.741	10.0	0.0	4.8655	5.452999999999999
+TC28_PCG_Internal_Renewal_PEL_31_Subjectivitiespage_ClickIssuePolicy	5.157	5.818	6.419	8.878	75.0	0.0	6.696	7.631	7.692	9.293	5.0	0.0	6.7245	7.0555
+TC24_Internal_Reinstate_03_Search_PolicyID_fromPolicies	3.763	4.798	5.413	6.204	78.0	0.0	10.522	13.827	16.331	22.426	10.0	0.0	9.3125	10.872
+TC24_Internal_Reinstate_04_Click_ViewPolicyTransaction	2.381	2.768	3.032	3.246	39.0	0.0	3.542	3.901	3.87	4.538	5.0	0.0	3.3345	3.451
+TC24_Internal_Reinstate_06_Select_Reinstate	2.62	2.977	3.183	4.765	39.0	0.0	0.268	0.429	0.493	0.924	10.0	0.0	1.7029999999999998	1.8379999999999999
+TC24_Internal_Reinstate_07_Reinstatepolicy	11.768	18.807	25.732	36.588	39.0	0.0	2.554	3.47	4.302	4.358	10.0	0.0	11.138499999999999	15.017
+TC19_Tasking1_02_Search_task	0.924	1.666	2.292	3.194	436.0	0.0	0.695	0.959	1.133	1.972	10.0	0.0	1.3125	1.7125
+TC19_Tasking1_03_View_task	1.646	1.843	2.006	3.386	436.0	0.0	0.654	0.871	1.109	1.265	10.0	0.0	1.357	1.5574999999999999
+TC19_Tasking2_02_Search_PolicyID	3.821	4.47	4.874	8.923	184.0	0.0	3.331	4.131	4.522	5.625	10.0	0.0	4.3004999999999995	4.698
+TC19_Tasking2_03_Create_Task	5.07	5.4	5.621	5.906	184.0	0.0	3.388	3.875	4.394	4.443	10.0	0.0	4.6375	5.0075
+TC19_Tasking2_04_Search_task	0.927	1.624	2.236	2.64	183.0	0.0	10.713	23.569	34.668	35.576	10.0	0.0	12.596499999999999	18.451999999999998
+TC19_Tasking2_06_Update_task	0.871	2.518	3.108	3.51	179.0	0.0	3.454	3.592	3.705	3.794	10.0	0.0	3.0549999999999997	3.4065000000000003
+TC41_NonlegacyRenewal_HO_02_SearchPolicyID_fromPolicies	4.733	4.733	4.733	4.733	1.0	0.0	17.39	20.885	21.262	25.503	5.0	0.0	12.809000000000001	12.9975
+TC41_NonlegacyRenewal_HO_03_SelectRenewal	3.812	3.812	3.812	3.812	1.0	0.0	3.514	3.67	3.772	3.845	10.0	0.0	3.7409999999999997	3.792
+TC42_NonlegacyRenewal_PEL_02_SearchPolicyID_fromPolicies	5.255	5.255	5.255	5.255	1.0	0.0	0.264	0.348	0.381	0.601	10.0	0.0	2.8015	2.818
+TC41_NonlegacyRenewal_PEL_03_SelectRenewal	0.163	0.163	0.163	0.163	1.0	0.0	0.565	2.092	4.606	4.704	10.0	0.0	1.1275	2.3845
+TC01_ExternalLogin_01F_CredSignIn_Dasboard__LargeBroker	3.303	3.914	4.463	4.972	26.0	0.0	0.341	2.294	4.675	5.001	40.0	0.0	3.104	4.569
+TC05_PCG_External_QuoteNewCustomer_HO_29A_Dashboardpage_SearchCustomerID_LargeBroker	0.821	1.072	1.646	1.646	4.0	0.0	0.399	2.16	4.491	4.676	10.0	0.0	1.616	3.0685
+TC05_PCG_External_QuoteNewCustomer_HO_29B_Customerbackpage_clickQuoteno_LargeBroker	1.072	1.144	1.209	1.209	4.0	0.0	0.598	1.05	1.329	2.198	10.0	0.0	1.097	1.2690000000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_20_Dashboardpage_SearchCustomerID_LargeBroker	0.7	0.908	0.982	1.242	5.0	0.0	0.154	0.221	0.285	0.285	10.0	0.0	0.5645	0.6335
+TC05_PCG_External_QuoteNewCustomer_HO_29C_ProposalTab_ClickPackageid_LargeBroker	2.84	3.421	4.227	4.227	4.0	0.0	0.152	0.21	0.274	0.279	10.0	0.0	1.8155	2.2505
+TC06_PCG_External_QuoteNewCustomer_PEL_20A_Customerbackpage_clickQuoteno_LargeBroker	1.04	1.361	1.651	1.684	5.0	0.0	0.148	0.213	0.28	0.561	40.0	0.0	0.787	0.9655
+TC05_PCG_External_QuoteNewCustomer_HO_29D_SelectQuote_LargeBroker	1.57	1.745	1.948	1.948	4.0	0.0	3.359	4.724	5.897	6.446	10.0	0.0	3.2345	3.9225000000000003
+TC06_PCG_External_QuoteNewCustomer_PEL_20B_ProposalTab_ClickPackageid_LargeBroker	1.751	2.209	2.52	2.688	5.0	0.0	6.296	8.961	10.64	18.271	10.0	0.0	5.585	6.58
+TC05_PCG_External_QuoteNewCustomer_HO_29_PackagePage_ClickProceedtoIssuance_LargeBroker	4.118	4.342	4.612	4.612	4.0	0.0	2.775	5.027	7.819	9.355	40.0	0.0	4.6845	6.2155000000000005
+TC07_PCG_External_NewCustomer_Collections_21A_Dashboardpage_SearchCustomerID_LargeBroker	1.017	1.267	1.664	1.664	4.0	0.0	3.107	4.068	4.995	6.143	10.0	0.0	2.6674999999999995	3.3295
+TC06_PCG_External_QuoteNewCustomer_PEL_20C_SelectQuote_LargeBroker	1.258	1.371	1.377	1.566	5.0	0.0	0.182	0.218	0.247	0.318	10.0	0.0	0.7945	0.812
+TC07_PCG_External_NewCustomer_Collections_21B_Customerbackpage_clickQuoteno_LargeBroker	1.106	1.299	1.409	1.409	4.0	0.0	0.181	0.236	0.279	0.308	10.0	0.0	0.7675	0.8440000000000001
+TC05_PCG_External_QuoteNewCustomer_HO_30_Preissuancepage_EnterMortagesandClickNext_LargeBroker	4.184	4.936	5.421	5.421	4.0	0.0	0.182	0.241	0.316	0.387	40.0	0.0	2.5885	2.8685
+TC06_PCG_External_QuoteNewCustomer_PEL_21_Packagepage_clickProceedtoissuance_LargeBroker	3.497	3.948	4.542	4.542	4.0	0.0	0.186	0.23	0.262	0.437	10.0	0.0	2.089	2.402
+TC05_PCG_External_QuoteNewCustomer_HO_31_InspectionPage_SelectBrokerContact_LargeBroker	1.075	1.127	1.196	1.196	4.0	0.0	1.721	2.177	2.513	2.744	10.0	0.0	1.6520000000000001	1.8544999999999998
+TC07_PCG_External_NewCustomer_Collections_21c_ProposalTab_ClickPackageid_LargeBroker	3.06	4.015	4.844	4.844	4.0	0.0	1.884	2.695	3.396	9.754	40.0	0.0	3.3549999999999995	4.12
+TC06_PCG_External_QuoteNewCustomer_PEL_22_Preissuance_Click_save&continue_LargeBroker	6.667	7.492	8.782	8.782	4.0	0.0	2.11	2.902	3.409	3.598	10.0	0.0	5.197	6.0954999999999995
+TC07_PCG_External_NewCustomer_Collections_21d_SelectQuote_LargeBroker	1.36	1.471	1.543	1.543	4.0	0.0	1.696	2.572	3.375	3.934	10.0	0.0	2.0215	2.459
+TC05_PCG_External_QuoteNewCustomer_HO_32_InspectionPage_ClickSave_LargeBroker	4.708	5.105	5.482	5.482	4.0	0.0	0.101	0.153	0.188	0.248	10.0	0.0	2.629	2.835
+TC06_PCG_External_QuoteNewCustomer_PEL_23a_SelectBillingType_LargeBroker	0.856	1.788	3.925	3.925	4.0	0.0	1.844	2.363	2.83	3.058	10.0	0.0	2.0755	3.3775
+TC07_PCG_External_NewCustomer_Collections_22_PackagePage_ClickProceedToPreissuance_LargeBroker	2.928	3.348	4.018	4.018	4.0	0.0	1.708	2.644	3.483	9.17	40.0	0.0	2.996	3.7504999999999997
+TC05_PCG_External_QuoteNewCustomer_HO_33a_SelectBillingType_LargeBroker	0.859	1.202	2.006	2.006	4.0	0.0	2.009	2.786	3.415	4.229	10.0	0.0	1.994	2.7104999999999997
+TC06_PCG_External_QuoteNewCustomer_PEL_23b_SelectPaymentPlan_LargeBroker	0.371	0.611	1.203	1.203	4.0	0.0	7.306	10.629	13.635	15.743	10.0	0.0	5.62	7.419
+TC07_PCG_External_NewCustomer_Collections_23_PreIssuancePage_ClickAddAnotherItem_LargeBroker	1.202	1.809	3.42	3.42	4.0	0.0	13.783	17.611	20.159	28.454	10.0	0.0	9.71	11.7895
+TC05_PCG_External_QuoteNewCustomer_HO_33b_SelectPaymentPlan_LargeBroker	0.354	0.402	0.472	0.472	4.0	0.0	13.163	16.215	19.354	20.044	10.0	0.0	8.3085	9.913
+TC05_PCG_External_QuoteNewCustomer_HO_33c_PaymentPage_ClickSave_LargeBroker	1.941	2.122	2.239	2.239	4.0	0.0	16.144	22.903	29.358	34.556	40.0	0.0	12.5125	15.7985
+TC06_PCG_External_QuoteNewCustomer_PEL_23c_Paymentpage_clicksave_LargeBroker	2.248	2.7	3.827	3.827	4.0	0.0	1.479	1.991	2.602	3.241	40.0	0.0	2.3455000000000004	3.2145
+TC07_PCG_External_NewCustomer_Collections_24_PreIssuancePage_EnterLimit&clicksaveLargeBroker	1.761	2.977	6.25	6.25	4.0	0.0	0.697	0.99	1.458	1.466	10.0	0.0	1.9834999999999998	3.854
+TC05_PCG_External_QuoteNewCustomer_HO_33d_PaymentPage_ClickOk_LargeBroker	3.271	3.58	4.452	4.452	4.0	0.0	1.115	1.581	2.079	2.167	10.0	0.0	2.5805	3.2655000000000003
+TC06_PCG_External_QuoteNewCustomer_PEL_23d_Paymentpage_clickOk_LargeBroker	2.473	2.767	3.188	3.188	4.0	0.0	3.273	4.561	5.549	6.837	10.0	0.0	3.6639999999999997	4.3685
+TC07_PCG_External_NewCustomer_Collections_25_PreIssuancePage_ClickSaveandContinue_LargeBroker	8.757	8.935	9.275	9.275	4.0	0.0	0.676	0.871	1.083	1.302	10.0	0.0	4.9030000000000005	5.179
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_LargeBroker	5.702	7.421	9.478	9.478	4.0	0.0	1.657	2.037	2.433	2.892	40.0	0.0	4.729	5.9555
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_LargeBroker	13.673	14.176	14.534	14.534	4.0	0.0	1.979	2.832	3.856	5.604	10.0	0.0	8.504	9.195
+TC07_PCG_External_NewCustomer_Collections_26a_SelectBillingType_LargeBroker	0.796	0.957	1.172	1.172	4.0	0.0	1.478	2.378	3.122	3.398	10.0	0.0	1.6675	2.147
+TC06_PCG_External_QuoteNewCustomer_PEL_24_Subjectivepage_clickIssue_Dashboard_LargeBroker	2.66	3.047	3.928	3.928	4.0	0.0	1.62	2.084	2.429	2.904	40.0	0.0	2.5655	3.1784999999999997
+TC05_PCG_External_QuoteNewCustomer_HO_34_SubjectivetPage_ClickIssue_Dashboard_LargeBroker	2.898	2.991	3.092	3.092	4.0	0.0	2.28	3.294	4.133	4.589	10.0	0.0	3.1425	3.6125
+TC07_PCG_External_NewCustomer_Collections_26b_SelectPaymentPlan_LargeBroker	0.405	0.531	0.781	0.781	4.0	0.0	1.48	2.176	2.84	3.081	10.0	0.0	1.3535000000000001	1.8105
+TC07_PCG_External_NewCustomer_Collections_26c_PaymentsPage_ClickSave_LargeBroker	2.184	2.289	2.453	2.453	4.0	0.0	0.94	2.039	1.816	8.464	10.0	0.0	2.164	2.1345
+TC07_PCG_External_NewCustomer_Collections_26d_PaymentsPage_ClickOk_LargeBroker	3.035	3.5	3.848	3.848	4.0	0.0	1.742	2.351	2.733	8.862	40.0	0.0	2.9255	3.2904999999999998
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_LargeBroker	6.469	7.994	11.683	11.683	4.0	0.0	10.138	13.472	15.759	22.14	10.0	0.0	10.733	13.721
+TC07_PCG_External_NewCustomer_Collections_27_SubjectivitiesPage_ClickIssue_Dashboard_LargeBroker	2.772	3.044	3.59	3.59	4.0	0.0	6.806	9.238	10.709	17.284	10.0	0.0	6.141	7.1495
+TC01_ExternalLogin_01F_CredSignIn_Dasboard	1.524	3.699	4.439	10.192	1092.0	0.0	1.039	1.217	1.532	1.603	10.0	0.0	2.458	2.9855
+TC26_Multiline_NewCustomer_02_Search_CustomerName	0.534	1.749	4.436	5.068	9.0	0.0	1.591	2.185	2.532	9.701	40.0	0.0	1.967	3.484
+TC26_Multiline_NewCustomer_03_Click_CreateQuotefornewCustomer	0.202	0.268	0.311	0.521	9.0	0.0	1.287	2.598	2.828	9.624	10.0	0.0	1.4329999999999998	1.5695
+TC26_Multiline_NewCustomer_04_SelectProductandClickSave&Continue	3.551	4.117	4.226	6.553	9.0	0.0	1.04	1.349	1.482	2.094	10.0	0.0	2.733	2.854
+TC26_Multiline_NewCustomer_HO_06_insuredPage_SelectLocationInfoAddress	1.697	2.001	2.261	2.333	9.0	0.0	1.133	1.929	2.941	3.326	10.0	0.0	1.9649999999999999	2.601
+TC26_Multiline_NewCustomer_HO_07_insuredPage_ClickSave&Continue	13.838	15.979	17.102	17.273	9.0	0.0	1.796	4.323	6.003	9.822	10.0	0.0	10.151	11.5525
+TC26_Multiline_NewCustomer_HO_08_RatingPage_Selectyearbuilt	1.559	1.769	1.92	2.101	9.0	0.0	3.939	5.287	6.08	14.609	40.0	0.0	3.528	4.0
+TC26_Multiline_NewCustomer_HO_08A_RatingPage_SelectNoofStories	1.524	1.82	2.056	2.253	9.0	0.0	0.96	1.525	1.264	5.673	10.0	0.0	1.6724999999999999	1.6600000000000001
+TC26_Multiline_NewCustomer_HO_09_RatingPage_SelectPreviousInsuanceCarrier	1.71	1.818	1.876	2.125	9.0	0.0	1.876	4.323	7.707	9.258	10.0	0.0	3.0705	4.7915
+TC26_Multiline_NewCustomer_HO_10_Ratingpage_ClickSave&continue	4.145	5.218	5.497	7.965	9.0	0.0	1.735	2.677	4.033	4.647	10.0	0.0	3.9475	4.765000000000001
+TC26_Multiline_NewCustomer_HO_11_Coveragepage_EnterEstimatedHomeReplacementValue	1.131	1.35	1.502	1.841	9.0	0.0	1.038	1.411	1.739	2.267	40.0	0.0	1.3805	1.6205
+TC26_Multiline_NewCustomer_HO_12_Coveragepage_ClickSave&continue	3.07	3.609	4.318	4.346	9.0	0.0	0.936	2.013	2.081	8.147	10.0	0.0	2.811	3.1994999999999996
+TC26_Multiline_NewCustomer_HO_13_Detailspage_ClickNext	6.088	6.909	7.576	8.549	9.0	0.0	1.782	3.171	3.715	8.537	10.0	0.0	5.04	5.6455
+TC26_Multiline_NewCustomer_HO_13_Detailspage_ClickNext_QuotePageLoad	4.292	4.999	5.464	5.515	9.0	0.0	1.192	1.512	1.758	4.207	40.0	0.0	3.2554999999999996	3.611
+TC26_Multiline_NewCustomer_HO_14_QuotesummaryPage_Click_ProceedtoNextquote	3.262	3.78	3.878	4.905	9.0	0.0	0.938	1.138	1.27	1.351	10.0	0.0	2.4589999999999996	2.574
+TC26_Multiline_NewCustomer_PEL_16_insuredpage_ClickSave&continue	7.42	8.85	10.115	10.233	9.0	0.0	1.102	1.437	1.766	1.993	40.0	0.0	5.1434999999999995	5.9405
+TC26_Multiline_NewCustomer_PEL_17_Ratingpage_Select_Ratinghome1	1.067	1.353	1.74	2.009	9.0	0.0	8.068	11.8	15.605	16.62	10.0	0.0	6.5765	8.6725
+TC26_Multiline_NewCustomer_PEL_18_Ratingpage_ClickNext	2.398	2.809	3.179	3.27	9.0	0.0	1.045	1.285	1.525	1.581	10.0	0.0	2.047	2.352
+TC26_Multiline_NewCustomer_PEL_19_Coveragepage_ClickNext	2.218	2.642	3.183	3.187	9.0	0.0	7.793	11.362	15.921	18.595	10.0	0.0	7.002	9.552
+TC26_Multiline_NewCustomer_PEL_20_Detailspage_ClickNext	4.789	5.568	5.705	8.059	9.0	0.0	0.933	1.458	1.649	3.553	10.0	0.0	3.513	3.677
+TC26_Multiline_NewCustomer_PEL_20_Detailspage_ClickNext_QuotePageLoad	2.822	3.397	3.933	4.193	9.0	0.0	2.439	4.608	5.854	22.927	40.0	0.0	4.0024999999999995	4.8934999999999995
+TC26_Multiline_NewCustomer_PEL_21_QuotesummaryPage_Click_ProceedtoNextQuote	3.665	4.856	5.756	7.76	9.0	0.0	4.267	7.765	12.843	12.894	10.0	0.0	6.310499999999999	9.2995
+TC26_Multiline_NewCustomer_Collection_22_Insuredpage_Click_save&continue	6.997	8.295	9.066	10.813	9.0	0.0	2.246	2.995	3.818	3.986	10.0	0.0	5.645	6.442
+TC26_Multiline_NewCustomer_Collection_23_RatingPage_SelectJewelry	1.089	1.306	1.532	2.335	9.0	0.0	0.678	0.896	0.929	1.45	10.0	0.0	1.101	1.2305000000000001
+TC26_Multiline_NewCustomer_Collection_24_RatingPage_SelectScheduled	1.062	1.301	1.501	1.82	9.0	0.0	3.787	7.15	11.387	12.302	10.0	0.0	4.2255	6.444
+TC26_Multiline_NewCustomer_Collection_25_Ratingpage_Coveragelimit&ClickNext	2.977	3.283	3.792	3.835	9.0	0.0	10.063	13.002	15.944	17.089	40.0	0.0	8.1425	9.868
+TC26_Multiline_NewCustomer_Collection_34_CoveragePage_EnterLimit_PercentageOfCoverage	1.107	1.329	1.286	2.344	9.0	0.0	4.128	5.767	6.911	7.596	10.0	0.0	3.548	4.0985
+TC26_Multiline_NewCustomer_Collection_35_CoveragePage_ClickSave&continue	3.771	4.086	4.375	4.602	9.0	0.0	0.7	0.932	1.074	1.142	10.0	0.0	2.5090000000000003	2.7245
+TC26_Multiline_NewCustomer_Collection_36_DetailsPage_ClickSave&continue	5.148	5.718	6.285	6.686	9.0	0.0	2.869	5.119	7.521	7.653	10.0	0.0	5.4185	6.9030000000000005
+TC26_Multiline_NewCustomer_Collection_36_DetailsPage_ClickSave_QuotePageload	3.613	4.076	4.35	4.537	9.0	0.0	1.026	2.11	4.062	5.066	40.0	0.0	3.093	4.2059999999999995
+TC26_Multiline_NewCustomer_Collection_37_QuotePage_ClickCreatePackage	1.458	1.872	2.283	2.773	9.0	0.0	3.324	6.512	5.518	22.97	10.0	0.0	4.192	3.9005
+TC26_Multiline_NewCustomer_41_PrePackagePage_Click_Createpackage	6.004	8.657	13.944	14.384	9.0	0.0	2.606	4.543	9.415	9.878	10.0	0.0	6.6	11.6795
+TC26_Multiline_NewCustomer_42_PrePackagePage_Click_ClosePopUp	1.167	1.805	2.175	2.62	9.0	0.0	6.416	7.495	8.054	9.288	10.0	0.0	4.65	5.1145
+TC26_Multiline_NewCustomer_42A_PrePackagePage_ClickSendtoUnderwriter	10.602	12.1	14.358	16.606	9.0	0.0	1.416	2.342	3.727	5.14	10.0	0.0	7.221	9.0425
+TC26_Multiline_NewCustomer_42B_Dashboardpage_SearchCustomerID	0.642	0.765	0.869	0.977	9.0	0.0	2.741	6.233	10.118	14.169	40.0	0.0	3.4989999999999997	5.4935
+TC26_Multiline_NewCustomer_42C_Customerbackpage_ClickProposalTab	1.025	1.199	1.344	1.443	9.0	0.0	0.677	0.772	0.902	0.929	10.0	0.0	0.9855	1.123
+TC26_Multiline_NewCustomer_42D_ProposalTab_ClickPackageid	5.313	6.202	6.932	7.229	9.0	0.0	0.603	0.679	0.739	0.828	10.0	0.0	3.4405	3.8355
+TC26_Multiline_NewCustomer_43_PrePackagePage_Select_HOQuote	1.373	1.665	1.769	2.275	9.0	0.0	1.682	2.627	4.141	4.804	40.0	0.0	2.146	2.955
+TC26_Multiline_NewCustomer_44_PrePackagePage_HO_Click_Proceedtoissuance	3.441	3.806	4.19	4.239	9.0	0.0	0.197	0.23	0.249	0.253	10.0	0.0	2.0180000000000002	2.2195
+TC26_Multiline_NewCustomer_HO_45_Preissuancepage_Click_Saveandcontinue	3.4	3.645	3.721	4.666	9.0	0.0	0.643	0.82	0.92	1.293	10.0	0.0	2.2325	2.3205
+TC26_Multiline_NewCustomer_HO_46_Inspectionpage_SelectBrokercontact	1.044	1.345	1.338	2.61	9.0	0.0	3.526	7.729	11.144	13.068	10.0	0.0	4.537	6.241
+TC26_Multiline_NewCustomer_HO_47_Inspectionpage_ClickSaveandContinue	4.716	5.48	6.448	7.077	9.0	0.0	1.617	2.196	2.583	2.665	9.0	1.0	3.838	4.5155
+TC26_Multiline_NewCustomer_HO_47A_SelectBillingType	0.863	0.957	1.014	1.159	9.0	0.0	1.669	2.071	2.384	2.934	40.0	0.0	1.514	1.6989999999999998
+TC26_Multiline_NewCustomer_HO_47B_SelectPaymentPlan	0.333	0.417	0.481	0.685	9.0	0.0	1.974	3.116	3.828	4.528	10.0	0.0	1.7665	2.1545
+TC26_Multiline_NewCustomer_HO_48_Paymentspage_ClickSaveandcontinue	1.763	2.17	2.649	2.76	9.0	0.0	5.016	5.831	6.7	7.563	10.0	0.0	4.000500000000001	4.6745
+TC26_Multiline_NewCustomer_HO_48a_Paymentspage_ClickOk	2.902	3.667	4.267	5.17	9.0	0.0	0.615	0.663	0.699	0.775	10.0	0.0	2.165	2.483
+TC26_Multiline_NewCustomer_HO_49_Subjectivities_Click_IssuePolicy	14.098	16.601	18.498	21.394	9.0	0.0	0.207	0.303	0.334	0.583	10.0	0.0	8.452	9.416
+TC26_Multiline_NewCustomer_HO_50_Subjectivities_Click_OK	1.146	1.601	1.923	2.152	9.0	0.0	8.051	12.806	19.542	20.35	10.0	0.0	7.2035	10.732500000000002
+TC26_Multiline_NewCustomer_51_PrepackagePage_Select_PELQuote	1.097	1.329	1.411	1.67	9.0	0.0	7.956	11.078	16.121	18.567	40.0	0.0	6.2035	8.766
+TC26_Multiline_NewCustomer_52_PrePackagePage_PEL_Click_Proceedtoissuance	0.376	0.438	0.526	0.542	9.0	0.0	0.423	0.507	0.558	0.593	9.0	0.0	0.47250000000000003	0.542
+TC26_Multiline_NewCustomer_PEL_53_Preissuancepage_Click_Saveandcontinue	5.528	6.112	6.387	6.398	9.0	0.0	2.016	2.41	2.612	2.827	10.0	0.0	4.261	4.499499999999999
+TC26_Multiline_NewCustomer_PEL_54_Paymentspage_Select_ExistingBillingAccount	0.868	1.002	1.089	1.273	9.0	0.0	4.376	8.762	14.952	14.986	10.0	0.0	4.882000000000001	8.0205
+TC26_Multiline_NewCustomer_PEL_55_PaymentsPage_ClickSaveandcontinue	3.568	4.549	4.985	7.349	9.0	0.0	9.509	10.163	10.448	10.449	9.0	0.0	7.356	7.7165
+TC26_Multiline_NewCustomer_PEL_55_Subjectivities_ClickIssuepolicy	5.994	7.935	8.735	12.447	9.0	0.0	4.063	7.117	13.435	14.822	40.0	0.0	7.526	11.085
+TC26_Multiline_NewCustomer_PEL_56_Subjectivities_Click_OK	1.21	1.705	2.383	2.474	9.0	0.0	0.77	1.086	1.283	1.619	10.0	0.0	1.3955000000000002	1.833
+TC26_Multiline_NewCustomer_57_PrePackagePage_Select_CollectionQuote	1.224	1.348	1.492	1.551	9.0	0.0	1.2	1.53	1.796	1.973	40.0	0.0	1.439	1.6440000000000001
+TC26_Multiline_NewCustomer_58_PrePackagePage_Collection_Click_Proceedtoissuance	0.412	0.574	0.737	1.061	9.0	0.0	1.814	2.271	2.419	3.234	9.0	0.0	1.4224999999999999	1.578
+TC26_Multiline_NewCustomer_Collection_59_Preissuancepage_Click_AddanotherItem	1.017	1.13	1.224	1.292	9.0	0.0	15.682	16.622	17.063	17.116	10.0	0.0	8.876	9.1435
+TC26_Multiline_NewCustomer_Collection_60_Preissuancepage_Enter_Limitvalue&Clicksave	1.709	1.948	2.253	2.481	9.0	0.0	0.353	0.387	0.428	0.441	9.0	0.0	1.1675	1.3405
+TC26_Multiline_NewCustomer_Collection_61_Preissuancepage_Click_Save&continue	6.95	7.911	8.886	9.377	9.0	0.0	0.366	0.47	0.529	0.605	10.0	0.0	4.1905	4.7075
+TC26_Multiline_NewCustomer_Collection_62_Paymentspage_Select_ExistingBillingAccount	0.957	1.042	1.093	1.328	9.0	0.0	3.008	5.772	9.599	10.477	10.0	0.0	3.407	5.346
+TC26_Multiline_NewCustomer_Collection_63_Paymentspage_ClickSave&continue	4.24	4.514	4.862	5.008	9.0	0.0	2.777	4.548	9.744	10.25	40.0	0.0	4.531000000000001	7.303
+TC26_Multiline_NewCustomer_Collection_64_Subjectivitiespage_ClickIssuepolicy	6.534	9.281	13.14	17.06	9.0	0.0	0.705	1.248	2.301	2.926	10.0	0.0	5.2645	7.7205
+TC26_Multiline_NewCustomer_Collection_65_Subjectivitiespage_Click_OK	0.651	0.797	0.902	0.921	9.0	0.0	9.776	10.179	10.521	10.798	9.0	0.0	5.488	5.7115
+TC18_CopyquoteHO_External_02_EnterCustomerIdandsearch	0.435	0.612	0.882	1.693	25.0	0.0	9.363	10.012	10.581	10.775	10.0	0.0	5.312	5.7315
+TC18_CopyquoteHO_External_03_SelectCustomer	3.87	6.357	9.07	9.545	25.0	0.0	2.825	3.682	4.958	7.407	40.0	0.0	5.0195	7.014
+TC18_CopyquoteHO_External_04_ClickCopyQuote_ HO	2.872	4.115	5.719	7.117	25.0	0.0	1.211	1.5	2.156	2.43	10.0	0.0	2.8075	3.9375
+TC18_CopyquoteCOL_External_08_EnterCustomerIdandsearch	0.454	0.56	0.662	0.728	25.0	0.0	1.85	2.195	2.412	2.495	9.0	0.0	1.3775	1.537
+TC18_CopyquoteCOL_External_09_SelectCustomer	3.458	5.36	6.096	8.992	25.0	0.0	1.278	1.493	1.735	1.838	10.0	0.0	3.4265000000000003	3.9155
+TC18_CopyquoteCOL_External_10_ClickCopyQuote_ COL	2.95	3.689	4.129	7.996	25.0	0.0	0.748	0.879	0.944	1.673	40.0	0.0	2.284	2.5364999999999998
+TC18_CopyquotePEL_External_05_EnterCustomerIdandsearch	0.449	0.57	0.713	0.96	25.0	0.0	0.412	0.474	0.516	0.658	10.0	0.0	0.522	0.6145
+TC18_CopyquotePEL_External_06_SelectCustomer	3.609	6.402	6.922	21.204	25.0	0.0	3.582	3.974	4.379	5.468	40.0	0.0	5.188000000000001	5.650499999999999
+TC18_CopyquotePEL_External_07_ClickCopyQuote_ PEL	2.766	3.85	4.187	10.511	25.0	0.0	5.795	6.795	8.123	8.254	10.0	0.0	5.3225	6.154999999999999
+TC09_External_Endorsement_HO_02a_PoliciesPage_Search_PolicyNumber_and_Click_Search	1.99	2.983	3.646	21.38	148.0	0.0	0.55	0.668	0.759	0.886	40.0	0.0	1.8255000000000001	2.2025
+TC09_External_Endorsement_HO_03_PoliciesPage_Select_Action-Endorse	0.264	0.355	0.422	1.534	148.0	0.0	0.505	0.651	0.731	0.75	10.0	0.0	0.503	0.5765
+TC09_External_Endorsement_HO_04_EndorsePage_EnterReason_and_Click_Save&Continue	9.487	15.511	24.419	32.804	146.0	0.0	9.539	9.88	10.251	10.502	10.0	0.0	12.6955	17.335
+TC09_External_Endorsement_HO_05_InsuredPage_Click_Save&Continue	6.445	8.557	9.507	26.219	146.0	0.0	0.209	0.266	0.309	0.404	40.0	0.0	4.4115	4.9079999999999995
+TC09_External_Endorsement_HO_06_RatingPage_Click_Save&Continue	4.331	5.438	6.075	23.749	144.0	0.0	0.191	0.224	0.254	0.27	10.0	0.0	2.831	3.1645000000000003
+TC09_External_Endorsement_HO_07_CoveragePage_Click_Save&Continue	2.89	3.39	3.822	5.347	144.0	0.0	1.414	1.611	1.621	2.366	10.0	0.0	2.5005	2.7215
+TC09_External_Endorsement_HO_08_DetailsPage_Click_SaveandContinue	10.116	12.051	13.586	16.45	144.0	0.0	4.684	21.283	32.163	34.882	8.0	1.0	16.667	22.874499999999998
+TC09_External_Endorsement_HO_09_ChangeSummaryPage_Click_Issue	6.283	10.274	15.363	21.545	144.0	0.0	1.491	1.909	2.264	2.567	40.0	0.0	6.0915	8.8135
+TC10_External_Endorsement_PEL_02a_PoliciesPage_Search_PolicyNumber_and_Click_Search	1.603	2.038	2.44	3.176	127.0	0.0	0.899	1.899	2.478	2.48	10.0	0.0	1.9685	2.459
+TC10_External_Endorsement_PEL_03_PoliciesPage_Select_Action-Endorse	0.273	0.354	0.471	1.337	127.0	0.0	0.353	0.508	0.586	0.652	40.0	0.0	0.431	0.5285
+TC10_External_Endorsement_PEL_04_EndorsePage_EnterReason_and_Click_Save&Continue	8.971	17.114	28.014	38.897	127.0	0.0	2.241	2.501	2.634	2.743	10.0	0.0	9.807500000000001	15.324
+TC10_External_Endorsement_PEL_05_InsuredPage_Click_Save&Continue	5.36	7.742	8.897	32.139	127.0	0.0	0.374	0.459	0.537	0.562	10.0	0.0	4.1005	4.7170000000000005
+TC10_External_Endorsement_PEL_06_RatingPage_Click_Save&Continue	3.096	3.732	4.252	9.807	125.0	0.0	9.346	10.062	10.722	11.397	40.0	0.0	6.897	7.487
+TC10_External_Endorsement_PEL_07_CoveragePage_Click_Save&Continue	2.125	2.648	3.266	5.023	125.0	0.0	11.121	18.113	26.588	31.323	10.0	0.0	10.3805	14.927
+TC10_External_Endorsement_PEL_08_DetailsPage_Click_SaveandContinue	8.675	10.379	11.988	13.79	124.0	0.0	1.753	2.033	2.344	2.694	40.0	0.0	6.2059999999999995	7.1659999999999995
+TC10_External_Endorsement_PEL_09_ChangeSummaryPage_Click_Issue	4.18	9.472	16.547	28.146	123.0	0.0	9.902	10.245	10.631	11.322	10.0	0.0	9.8585	13.589
+TC10_External_Endorsement_01_PoliciesPage_Search_PolicyNo_Readonly	1.401	1.906	2.32	3.424	121.0	0.0	0.326	0.429	0.546	0.595	40.0	0.0	1.1675	1.4329999999999998
+TC10_External_Endorsement_02_ClickViewPolicyDetails_Readonly	1.047	1.524	1.768	7.434	120.0	0.0	1.44	1.847	2.055	2.591	10.0	0.0	1.6855	1.9115000000000002
+TC10_External_Endorsement_03_Insuredpage_ClickSave&Continue_Readonly	1.982	2.464	2.852	3.899	120.0	0.0	0.362	0.44	0.529	0.539	10.0	0.0	1.452	1.6905
+TC10_External_Endorsement_04_Ratingpage_ClickSave&Continue_Readonly	0.676	0.891	1.109	1.868	120.0	0.0	9.47	10.111	10.658	11.16	40.0	0.0	5.501	5.8835
+TC10_External_Endorsement_05_Coveragepage_ClickSave&Continue_Readonly	0.686	0.862	1.042	2.016	120.0	0.0	1.662	2.198	2.525	3.559	40.0	0.0	1.53	1.7835
+TC10_External_Endorsement_06_Detailspage_ClickSave&Continue_Readonly	6.353	7.776	8.703	12.554	120.0	0.0	9.473	10.061	10.593	11.078	10.0	0.0	8.9185	9.648
+TC11_External_Endorsement_Collections_02a_PoliciesPage_Search_PolicyNumber_and_Click_Search	2.099	2.845	3.343	5.144	55.0	0.0	1.523	1.783	1.938	1.996	10.0	0.0	2.314	2.6405
+TC11_External_Endorsement_Collections_03_PoliciesPage_Select_Action-Endorse	0.266	0.384	0.382	1.707	55.0	0.0	16.081	19.792	22.161	26.532	40.0	0.0	10.088000000000001	11.271500000000001
+TC11_External_Endorsement_Collections_04_EndorsePage_EnterReason_and_Click_Save&Continue	9.429	13.461	17.841	26.089	55.0	0.0	1.01	12.225	17.244	18.529	8.0	2.0	12.843	17.5425
+TC11_External_Endorsement_Collections_05_InsuredPage_Click_Save&Continue	6.127	7.698	8.441	11.101	55.0	0.0	0.591	0.591	0.591	0.591	1.0	0.0	4.1445	4.516
+TC11_External_Endorsement_Collections_06_Ratingpage_Click_Save&Continue	3.063	3.54	3.832	4.461	55.0	0.0	9.38	9.38	9.38	9.38	1.0	0.0	6.460000000000001	6.606
+TC11_External_Endorsement_Collections_07_CoveragePage_Click_Save&Continue	3.358	4.026	4.768	6.732	54.0	0.0	1.756	1.756	1.756	1.756	1.0	0.0	2.891	3.262
+TC11_External_Endorsement_Collections_08_DetailsPage_Click_SaveandContinue	9.822	11.787	13.142	14.444	53.0	0.0	6.703	6.843	7.05	7.081	8.0	0.0	9.315000000000001	10.096
+TC11_External_Endorsement_Collections_09_ChangeSummaryPage_Click_Issue	4.698	8.066	12.063	13.717	52.0	0.0	6.699	6.897	7.038	7.268	10.0	0.0	7.4815000000000005	9.5505
+TC21_BillingList_Internal_03_Enter_BillingAccountNumber_and_Click_Search	1.639	1.96	2.16	2.164	12.0	0.0	6.546	6.844	7.085	7.169	40.0	0.0	4.402	4.6225000000000005
+TC22_Prospecting_Internal_03_Enter_CustomerId_and_Search	2.04	2.284	2.542	2.863	10.0	0.0	6.654	6.862	7.166	7.174	8.0	0.0	4.573	4.854
+TC22_Prospecting_Internal_04_Enter_CustomerName_and_Click_Search	1.269	2.137	3.443	4.433	10.0	0.0	0.377	0.386	0.395	0.395	4.0	0.0	1.2615	1.919
+TC16_Policies_Internal_03_Enter Customer id and Click Search	1.968	2.273	2.626	2.728	12.0	0.0	9.845	10.325	10.946	10.946	4.0	0.0	6.2989999999999995	6.786
+TC16_Policies_Internal_04_Enter Policy id and Click Search	4.134	4.612	5.131	5.212	12.0	0.0	1.8	1.876	1.971	1.971	4.0	0.0	3.2439999999999998	3.551
+TC15_Customers_Internal_02_Search_CustomerID	2.021	2.225	2.503	2.564	9.0	0.0	3.447	4.114	4.779	5.716	26.0	0.0	3.1695	3.641
+TC16_Policies_Internal_05_Enter Billing Account number and Click Search	1.573	1.823	2.01	2.518	12.0	0.0	0.806	3.429	6.192	6.192	4.0	0.0	2.626	4.101
+TC21_BillingList_Internal_05_Enter_Brokercode_and_Click_Search	0.307	0.46	0.558	0.631	12.0	0.0	0.268	0.323	0.414	0.414	4.0	0.0	0.3915	0.486
+TC15_Customers_Internal_03_Search_PolicyID	4.248	4.671	5.003	5.697	9.0	0.0	0.582	2.385	4.633	4.798	5.0	0.0	3.528	4.818
+TC15_Customers_Internal_04_Search_BillingAccount	1.608	1.773	1.915	2.059	9.0	0.0	4.994	5.405	6.138	6.138	4.0	0.0	3.589	4.0265
+TC22_Prospecting_Internal_05_Enter Broker code and search	0.35	1.332	2.744	2.933	10.0	0.0	1.141	1.228	1.307	1.313	5.0	0.0	1.28	2.0255
+TC15_Customers_Internal_05_Search_CustomerName	1.441	2.058	2.36	3.991	9.0	0.0	2.01	2.308	2.764	2.764	4.0	0.0	2.183	2.562
+TC17_Claims_Internal_01_SearchClaimNo	0.548	0.756	0.898	0.919	6.0	0.0	0.989	3.288	5.15	5.15	4.0	0.0	2.022	3.024
+TC15_Customers_Internal_06_ClickEditOption	2.257	2.629	2.842	2.879	9.0	0.0	4.353	6.042	5.485	10.91	5.0	0.0	4.3355	4.1635
+TC15_Customers_Internal_07_Clicksave_Paperlesssettings	0.242	0.328	0.398	0.558	9.0	0.0	0.2	0.271	0.392	0.392	4.0	0.0	0.2995	0.395
+TC16_Policies_Internal_06_Enter Customer Name and Click Search	0.523	2.201	4.244	4.459	12.0	0.0	1.543	1.818	2.024	2.163	5.0	0.0	2.0095	3.134
+TC15_Customers_Internal_08_Search_brokerID	0.233	4.641	10.347	12.335	9.0	0.0	16.771	17.136	17.528	17.528	4.0	0.0	10.8885	13.9375
+TC01_Perf2_CustomerPortal_01A_Launch	0.047	0.128	0.175	3.789	2237.0	0.0	4.305	5.006	5.994	5.994	4.0	0.0	2.567	3.0845
+TC01_Perf2_CustomerPortal_01B_Login	1.094	1.359	1.586	2.365	2223.0	0.0	1.511	1.696	2.038	2.038	4.0	0.0	1.5274999999999999	1.8119999999999998
+TC01_Dashboard_01C_dashboardLoading	1.0	2.331	2.743	23.009	2209.0	0.0	16.272	19.706	21.321	25.243	5.0	0.0	11.0185	12.032
+TC01_Dashboard_01_QuickAction_Paperless	0.131	0.558	0.697	12.303	2195.0	0.0	0.261	0.296	0.33	0.33	4.0	0.0	0.42700000000000005	0.5135
+TC01_Dashboard_02_AccessLegalLinks	0.037	0.137	0.132	8.124	2179.0	0.0	1.457	1.572	1.793	1.793	4.0	0.0	0.8545	0.9624999999999999
+TC05_Coverage-L3_01_Viewpolicydetails	1.203	1.919	2.259	24.408	2165.0	0.0	1.769	1.923	1.962	2.032	5.0	0.0	1.921	2.1105
+TC05_Coverage-L3_02_Policy Action_Paperless 	0.356	0.524	0.623	6.356	2151.0	0.0	13.883	16.08	20.48	20.48	4.0	0.0	8.302	10.5515
+TC05_Coverage-L3_03_Policy Action_Contact Broker	0.203	0.37	0.857	3.295	2137.0	0.0	1.459	1.668	1.923	1.923	4.0	0.0	1.019	1.3900000000000001
+TC06_AccountSettings_Account Information_01_Personal Details	0.272	0.421	0.546	5.04	2121.0	0.0	3.224	3.528	3.468	4.352	5.0	0.0	1.9745	2.007
+TC06_Paperless Settings_02_SelectDetails&ClickSave	0.368	0.468	0.535	2.911	2103.0	0.0	1.138	1.374	1.633	1.633	4.0	0.0	0.921	1.084
+TC07_RiskStrategies_01_Select_RiskStrategiesPage	1.127	2.404	3.175	24.291	2089.0	0.0	4.363	4.685	4.903	4.903	4.0	0.0	3.5444999999999998	4.039
+TC07_RiskStrategies_02_Select_HomeResilencyScores_ClickTab1	0.554	1.193	1.602	19.608	2075.0	0.0	2.198	2.716	2.863	3.413	5.0	0.0	1.9545000000000001	2.2325
+TC02_PCG_External_QuoteExistingCustomer_HO_02_SearchCustomerID_M	0.45	0.905	1.256	3.923	12.0	0.0	1.389	1.712	2.544	2.544	4.0	0.0	1.3085	1.9
+TC02_PCG_External_QuoteExistingCustomer_HO_02_SearchCustomerID_S	0.469	0.557	0.624	0.651	6.0	0.0	1.355	2.767	6.222	6.222	4.0	0.0	1.662	3.423
+TC02_PCG_External_QuoteExistingCustomer_HO_03_SelectCustomer_M	0.987	1.411	1.64	2.239	12.0	0.0	4.969	5.28	5.368	5.709	5.0	0.0	3.3455000000000004	3.504
+TC02_PCG_External_QuoteExistingCustomer_HO_03_SelectCustomer_S	0.942	1.798	1.73	3.602	6.0	0.0	3.138	3.753	4.811	4.811	4.0	0.0	2.7755	3.2705
+TC02_PCG_External_QuoteExistingCustomer_HO_02_SearchCustomerID_L	0.467	0.572	0.678	0.708	6.0	0.0	3.076	3.449	4.107	4.107	4.0	0.0	2.0105	2.3925
+TC02_PCG_External_QuoteExistingCustomer_HO_02_SearchCustomerID_XL	0.452	0.627	0.7	0.859	5.0	0.0	2.981	3.35	3.529	3.668	5.0	0.0	1.9885000000000002	2.1145
+TC02_PCG_External_QuoteExistingCustomer_HO_04_SelectProductandClickSave&Continue_M	5.993	7.006	8.728	9.092	12.0	0.0	1.298	1.648	2.629	2.629	4.0	0.0	4.327	5.6785
+TC02_PCG_External_QuoteExistingCustomer_HO_03_SelectCustomer_L	1.001	1.526	1.972	2.012	6.0	0.0	1.835	1.903	1.963	1.963	4.0	0.0	1.7145000000000001	1.9675
+TC02_PCG_External_QuoteExistingCustomer_HO_04_SelectProductandClickSave&Continue_S	6.049	7.735	9.731	10.162	6.0	0.0	1.634	1.734	1.745	1.899	5.0	0.0	4.734500000000001	5.7379999999999995
+TC02_PCG_External_QuoteExistingCustomer_HO_03_SelectCustomer_XL	1.322	1.595	1.687	2.087	5.0	0.0	1.492	1.723	1.928	1.928	4.0	0.0	1.659	1.8075
+TC02_PCG_External_QuoteExistingCustomer_HO_06_insuredPage_SelectBrokerCode_M	0.33	0.407	0.499	0.531	12.0	0.0	7.348	8.981	12.752	12.752	4.0	0.0	4.694	6.625500000000001
+TC02_PCG_External_QuoteExistingCustomer_HO_06_insuredPage_SelectBrokerCode_S	0.32	0.414	0.428	0.554	6.0	0.0	1.916	2.452	2.711	3.641	5.0	0.0	1.433	1.5695
+TC02_PCG_External_QuoteExistingCustomer_HO_04_SelectProductandClickSave&Continue_L	5.956	6.931	7.583	8.556	6.0	0.0	1.477	2.029	3.508	3.508	4.0	0.0	4.48	5.5455000000000005
+TC02_PCG_External_QuoteExistingCustomer_HO_04_SelectProductandClickSave&Continue_XL	5.766	6.288	6.847	6.944	5.0	0.0	0.635	0.999	0.839	2.023	5.0	0.0	3.6435	3.843
+TC02_PCG_External_QuoteExistingCustomer_HO_08_insuredPage_Clicksave_M	9.695	11.446	13.269	13.368	12.0	0.0	4.95	5.274	6.044	6.044	4.0	0.0	8.36	9.6565
+TC02_PCG_External_QuoteExistingCustomer_HO_06_insuredPage_SelectBrokerCode_L	0.315	0.379	0.393	0.472	6.0	0.0	1.463	2.225	3.968	3.968	4.0	0.0	1.302	2.1805
+TC02_PCG_External_QuoteExistingCustomer_HO_08_insuredPage_Clicksave_S	9.892	10.86	11.069	12.247	6.0	0.0	1.698	2.212	3.094	3.094	4.0	0.0	6.536	7.0815
+TC02_PCG_External_QuoteExistingCustomer_HO_06_insuredPage_SelectBrokerCode_XL	0.343	0.376	0.38	0.413	5.0	0.0	6.974	7.462	7.879	7.879	4.0	0.0	3.919	4.1295
+TC02_PCG_External_QuoteExistingCustomer_HO_10_RatingPage_Selectyearbuilt_M	1.676	1.812	1.908	1.922	12.0	0.0	1.397	1.56	1.774	1.774	4.0	0.0	1.686	1.841
+TC02_PCG_External_QuoteExistingCustomer_HO_08_insuredPage_Clicksave_L	10.169	11.195	11.645	12.168	6.0	0.0	2.957	3.782	4.532	4.532	4.0	0.0	7.4885	8.0885
+TC02_PCG_External_QuoteExistingCustomer_HO_10_RatingPage_Selectyearbuilt_S	1.701	1.929	2.126	2.414	6.0	0.0	1.354	1.48	1.692	1.692	4.0	0.0	1.7045	1.9089999999999998
+TC02_PCG_External_QuoteExistingCustomer_HO_10A_RatingPage_SelectpreviousInsurer_M	1.654	1.873	1.892	2.786	12.0	0.0	0.75	0.87	1.004	1.004	4.0	0.0	1.3715	1.448
+TC02_PCG_External_QuoteExistingCustomer_HO_08_insuredPage_Clicksave_XL	10.735	11.662	12.437	13.22	5.0	0.0	1.521	1.681	1.943	1.943	4.0	0.0	6.6715	7.1899999999999995
+TC02_PCG_External_QuoteExistingCustomer_HO_10_RatingPage_Selectyearbuilt_L	1.7	1.996	2.106	2.754	6.0	0.0	7.0	8.187	9.35	9.35	4.0	0.0	5.0915	5.728
+TC02_PCG_External_QuoteExistingCustomer_HO_10A_RatingPage_SelectpreviousInsurer_S	1.676	1.796	1.817	2.071	6.0	0.0	1.506	1.675	1.892	1.892	4.0	0.0	1.7355	1.8544999999999998
+TC02_PCG_External_QuoteExistingCustomer_HO_11_RatingPage_HomeRenovated_ClickYes_M	1.633	1.821	2.011	2.195	12.0	0.0	1.396	1.7	2.164	2.164	4.0	0.0	1.7605	2.0875000000000004
+TC02_PCG_External_QuoteExistingCustomer_HO_10_RatingPage_Selectyearbuilt_XL	1.746	2.176	2.061	3.266	5.0	0.0	3.097	3.229	3.392	3.392	4.0	0.0	2.7025	2.7264999999999997
+TC02_PCG_External_QuoteExistingCustomer_HO_10A_RatingPage_SelectpreviousInsurer_L	1.624	1.752	1.817	1.979	6.0	0.0	5.301	5.902	7.388	7.388	4.0	0.0	3.827	4.6025
+TC02_PCG_External_QuoteExistingCustomer_HO_11_RatingPage_HomeRenovated_ClickYes_S	1.671	1.872	2.15	2.171	6.0	0.0	3.465	3.855	4.056	4.056	4.0	0.0	2.8635	3.1029999999999998
+TC02_PCG_External_QuoteExistingCustomer_HO_10A_RatingPage_SelectpreviousInsurer_XL	1.665	1.851	1.916	1.969	5.0	0.0	1.625	1.996	2.956	2.956	4.0	0.0	1.9235	2.436
+TC02_PCG_External_QuoteExistingCustomer_HO_13_Ratingpage_ClickNext_M	4.335	5.016	5.637	6.371	12.0	0.0	3.174	4.64	6.097	6.097	4.0	0.0	4.827999999999999	5.867
+TC02_PCG_External_QuoteExistingCustomer_HO_11_RatingPage_HomeRenovated_ClickYes_L	1.619	1.721	1.785	1.865	6.0	0.0	0.857	1.089	1.268	1.268	4.0	0.0	1.405	1.5265
+TC02_PCG_External_QuoteExistingCustomer_HO_13_Ratingpage_ClickNext_S	4.18	4.75	4.926	5.01	6.0	0.0	6.978	9.117	12.153	12.153	4.0	0.0	6.9335	8.5395
+TC02_PCG_External_QuoteExistingCustomer_HO_11_RatingPage_HomeRenovated_ClickYes_XL	1.811	1.89	1.952	2.014	5.0	0.0	0.617	1.703	4.398	4.792	9.0	0.0	1.7965	3.175
+TC02_PCG_External_QuoteExistingCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_M	1.15	1.418	1.746	2.563	12.0	0.0	0.202	0.448	0.648	1.534	9.0	0.0	0.9329999999999999	1.197
+TC02_PCG_External_QuoteExistingCustomer_HO_13_Ratingpage_ClickNext_L	4.449	5.208	5.487	6.063	6.0	0.0	3.78	5.129	6.722	7.843	9.0	0.0	5.1685	6.1045
+TC02_PCG_External_QuoteExistingCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_S	1.162	1.34	1.412	1.621	6.0	0.0	1.72	1.968	2.182	2.303	9.0	0.0	1.654	1.797
+TC02_PCG_External_QuoteExistingCustomer_HO_17_coveragepage_ClickNext_M	2.998	3.425	4.072	4.167	12.0	0.0	16.045	20.725	23.727	26.8	9.0	0.0	12.075000000000001	13.8995
+TC02_PCG_External_QuoteExistingCustomer_HO_13_Ratingpage_ClickNext_XL	4.262	4.77	4.78	5.594	5.0	0.0	1.506	1.81	2.162	2.793	9.0	0.0	3.29	3.471
+TC02_PCG_External_QuoteExistingCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_L	1.258	1.418	1.586	1.601	6.0	0.0	1.384	1.579	1.671	1.772	9.0	0.0	1.4985	1.6285
+TC02_PCG_External_QuoteExistingCustomer_HO_17_coveragepage_ClickNext_S	2.993	3.74	4.576	4.708	6.0	0.0	1.436	1.931	2.559	3.273	9.0	0.0	2.8355	3.5675
+TC02_PCG_External_QuoteExistingCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_M	1.214	1.358	1.513	1.559	12.0	0.0	4.187	5.019	6.168	6.38	9.0	0.0	3.1885000000000003	3.8405
+TC02_PCG_External_QuoteExistingCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_XL	1.197	1.267	1.308	1.311	5.0	0.0	1.033	1.319	1.379	2.25	9.0	0.0	1.293	1.3435000000000001
+TC02_PCG_External_QuoteExistingCustomer_HO_17_coveragepage_ClickNext_L	3.157	3.749	4.136	4.464	6.0	0.0	3.259	3.706	4.021	4.568	9.0	0.0	3.7275	4.0785
+TC02_PCG_External_QuoteExistingCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_S	1.309	1.462	1.575	1.64	6.0	0.0	6.509	7.534	8.139	10.759	9.0	0.0	4.498	4.856999999999999
+TC02_PCG_External_QuoteExistingCustomer_HO_19_Detailspage_ClickViewAdditionalCredits_M	1.82	1.999	2.157	2.431	12.0	0.0	4.268	5.325	6.481	6.632	9.0	0.0	3.662	4.319
+TC02_PCG_External_QuoteExistingCustomer_HO_17_coveragepage_ClickNext_XL	3.096	3.607	3.845	4.068	5.0	0.0	3.508	5.528	8.101	8.753	9.0	0.0	4.5675	5.973000000000001
+TC02_PCG_External_QuoteExistingCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_L	1.247	1.417	1.586	1.626	6.0	0.0	7.352	11.963	16.843	17.285	9.0	0.0	6.6899999999999995	9.2145
+TC02_PCG_External_QuoteExistingCustomer_HO_19_Detailspage_ClickViewAdditionalCredits_S	1.826	2.136	2.436	2.759	6.0	0.0	0.97	1.825	2.857	3.303	9.0	0.0	1.9805000000000001	2.6465
+TC02_PCG_External_QuoteExistingCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_XL	1.251	1.427	1.485	1.804	5.0	0.0	2.518	3.407	4.136	5.23	9.0	0.0	2.417	2.8105
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_M	6.404	6.633	6.898	7.08	12.0	0.0	2.241	3.052	3.802	4.763	9.0	0.0	4.8425	5.35
+TC02_PCG_External_QuoteExistingCustomer_HO_19_Detailspage_ClickViewAdditionalCredits_L	1.898	2.043	2.263	2.356	6.0	0.0	4.823	5.707	6.404	7.149	9.0	0.0	3.875	4.3335
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_S	6.306	6.895	7.364	7.632	6.0	0.0	3.2	3.583	4.112	4.682	9.0	0.0	5.239	5.7379999999999995
+TC02_PCG_External_QuoteExistingCustomer_HO_19_Detailspage_ClickViewAdditionalCredits_XL	1.715	2.022	2.123	2.465	5.0	0.0	3.415	5.247	6.332	6.572	9.0	0.0	3.6345	4.2275
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_QuotepageLoad_M	3.831	4.314	4.673	4.743	12.0	0.0	8.06	10.038	12.356	12.729	9.0	0.0	7.176	8.5145
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_L	6.371	6.813	6.863	8.12	6.0	0.0	1.021	1.415	1.54	2.755	9.0	0.0	4.114	4.2015
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_QuotepageLoad_S	3.907	4.538	4.922	6.105	6.0	0.0	0.955	1.307	1.59	1.994	9.0	0.0	2.9225000000000003	3.256
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_XL	6.337	7.082	7.645	7.672	5.0	0.0	3.19	3.961	4.855	5.457	9.0	0.0	5.5215	6.25
+TC02_PCG_External_QuoteExistingCustomer_HO_24_Quotesummarypage_ClickNext_M	2.044	3.03	3.929	4.561	12.0	0.0	1.0	1.253	1.518	1.683	9.0	0.0	2.1414999999999997	2.7235
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_QuotepageLoad_L	3.774	4.134	4.255	4.526	6.0	0.0	3.531	4.824	5.425	7.877	9.0	0.0	4.479	4.84
+TC02_PCG_External_QuoteExistingCustomer_HO_24_Quotesummarypage_ClickNext_S	2.32	3.131	3.45	3.689	6.0	0.0	5.563	6.725	7.966	9.812	9.0	0.0	4.928	5.708
+TC02_PCG_External_QuoteExistingCustomer_HO_22_Detailspage_ClickNext_QuotepageLoad_XL	4.018	4.291	4.481	4.503	5.0	0.0	3.777	5.016	6.07	7.15	9.0	0.0	4.6535	5.2755
+TC02_PCG_External_QuoteExistingCustomer_HO_26_Prepackage_Clickcreatepackage_M	2.802	3.665	4.53	4.735	12.0	0.0	1.438	3.696	5.23	12.998	9.0	0.0	3.6805000000000003	4.880000000000001
+TC02_PCG_External_QuoteExistingCustomer_HO_24_Quotesummarypage_ClickNext_L	2.807	2.978	3.011	3.288	6.0	0.0	6.495	13.763	21.146	28.518	9.0	0.0	8.3705	12.0785
+TC02_PCG_External_QuoteExistingCustomer_HO_26_Prepackage_Clickcreatepackage_S	2.877	3.72	4.183	4.303	6.0	0.0	1.103	2.05	3.702	4.195	9.0	0.0	2.885	3.9425
+TC02_PCG_External_QuoteExistingCustomer_HO_24_Quotesummarypage_ClickNext_XL	2.429	2.734	2.788	3.335	5.0	0.0	10.2	15.835	27.586	28.219	9.0	0.0	9.284500000000001	15.187
+TC02_PCG_External_QuoteExistingCustomer_HO_27_Prepackage_createpackage_clickclose_M	0.62	0.734	0.971	1.091	12.0	0.0	0.587	0.949	1.135	1.601	9.0	0.0	0.8414999999999999	1.053
+TC02_PCG_External_QuoteExistingCustomer_HO_26_Prepackage_Clickcreatepackage_L	3.154	4.129	4.977	5.589	6.0	0.0	1.046	1.643	2.034	3.036	9.0	0.0	2.8859999999999997	3.5055
+TC02_PCG_External_QuoteExistingCustomer_HO_27_Prepackage_createpackage_clickclose_S	0.673	0.834	0.853	1.269	6.0	0.0	5.591	8.366	12.065	14.547	9.0	0.0	4.6	6.459
+TC02_PCG_External_QuoteExistingCustomer_HO_26_Prepackage_Clickcreatepackage_XL	3.908	4.218	4.315	4.72	5.0	0.0	1.712	2.063	2.22	2.674	9.0	0.0	3.1405000000000003	3.2675
+TC02_PCG_External_QuoteExistingCustomer_HO_27_Prepackage_createpackage_clickclose_L	0.603	0.729	0.756	0.977	6.0	0.0	3.498	5.349	8.443	9.445	9.0	0.0	3.039	4.5995
+TC02_PCG_External_QuoteExistingCustomer_HO_27_Prepackage_createpackage_clickclose_XL	0.669	0.779	0.757	1.099	5.0	0.0	3.467	4.325	5.072	6.751	9.0	0.0	2.552	2.9145
+TC03_PCG_External_QuoteExistingCustomer_PEL_02_SearchCustomerID_L	0.441	0.539	0.606	0.844	8.0	0.0	1.064	1.209	1.435	1.594	9.0	0.0	0.8740000000000001	1.0205
+TC03_PCG_External_QuoteExistingCustomer_PEL_02_SearchCustomerID_XL	0.618	0.673	0.763	0.763	3.0	0.0	4.78	5.702	6.51	7.285	9.0	0.0	3.1875	3.6365
+TC03_PCG_External_QuoteExistingCustomer_PEL_03_SelectCustomer_L	1.128	1.51	1.963	2.064	8.0	0.0	0.845	0.953	1.081	1.145	9.0	0.0	1.2315	1.522
+TC03_PCG_External_QuoteExistingCustomer_PEL_02_SearchCustomerID_S	0.452	0.721	0.702	1.842	8.0	0.0	0.36	0.463	0.544	0.816	9.0	0.0	0.592	0.623
+TC03_PCG_External_QuoteExistingCustomer_PEL_03_SelectCustomer_XL	1.056	1.516	2.434	2.434	3.0	0.0	1.959	2.597	3.071	3.115	9.0	0.0	2.0564999999999998	2.7525000000000004
+TC03_PCG_External_QuoteExistingCustomer_PEL_03_SelectCustomer_S	1.026	1.449	1.815	1.832	8.0	0.0	3.053	3.5	3.656	4.066	9.0	0.0	2.4745	2.7355
+TC03_PCG_External_QuoteExistingCustomer_PEL_04_SelectProductandclick_save&continue_L	5.914	7.445	7.334	12.903	8.0	0.0	15.039	23.599	39.478	39.923	9.0	0.0	15.522	23.406
+TC03_PCG_External_QuoteExistingCustomer_PEL_04_SelectProductandclick_save&continue_XL	6.126	6.631	7.188	7.188	3.0	0.0	1.212	1.942	3.297	3.68	9.0	0.0	4.2865	5.2425
+TC03_PCG_External_QuoteExistingCustomer_PEL_02_SearchCustomerID_M	0.448	0.557	0.685	0.706	5.0	0.0	1.097	1.295	1.404	1.463	9.0	0.0	0.9259999999999999	1.0445
+TC03_PCG_External_QuoteExistingCustomer_PEL_04_SelectProductandclick_save&continue_S	5.877	6.315	6.472	7.323	8.0	0.0	0.375	0.512	0.565	1.019	9.0	0.0	3.4135	3.5185000000000004
+TC03_PCG_External_QuoteExistingCustomer_PEL_03_SelectCustomer_M	1.008	1.683	1.97	2.472	5.0	0.0	5.842	6.701	7.899	7.979	9.0	0.0	4.192	4.9345
+TC03_PCG_External_QuoteExistingCustomer_PEL_07_Insuredpage_Clicksave&continue_L	7.829	9.072	10.07	10.293	8.0	0.0	0.908	1.051	1.171	1.224	9.0	0.0	5.0615	5.6205
+TC03_PCG_External_QuoteExistingCustomer_PEL_07_Insuredpage_Clicksave&continue_XL	7.257	7.763	8.453	8.453	3.0	0.0	3.825	4.294	4.553	5.315	9.0	0.0	6.028499999999999	6.503
+TC03_PCG_External_QuoteExistingCustomer_PEL_07_Insuredpage_Clicksave&continue_S	7.507	9.091	10.226	12.333	8.0	0.0	5.978	8.252	10.784	11.088	9.0	0.0	8.6715	10.505
+TC03_PCG_External_QuoteExistingCustomer_PEL_08A_ratings_enterdetails_Clicksave_L	1.647	2.284	3.213	3.304	8.0	0.0	1.248	1.627	2.074	2.217	9.0	0.0	1.9554999999999998	2.6435
+TC03_PCG_External_QuoteExistingCustomer_PEL_04_SelectProductandclick_save&continue_M	6.079	7.192	7.033	9.546	5.0	0.0	1.156	1.431	1.58	1.913	9.0	0.0	4.3115000000000006	4.3065
+TC03_PCG_External_QuoteExistingCustomer_PEL_08A_ratings_enterdetails_Clicksave_XL	2.033	2.16	2.413	2.413	3.0	0.0	0.394	0.703	0.726	1.914	9.0	0.0	1.4315	1.5695
+TC03_PCG_External_QuoteExistingCustomer_PEL_08A_ratings_enterdetails_Clicksave_S	1.603	2.015	2.359	2.908	8.0	0.0	1.135	1.34	1.423	1.646	9.0	0.0	1.6775000000000002	1.891
+TC03_PCG_External_QuoteExistingCustomer_PEL_09_ratings_Clicknext_L	2.948	3.832	3.885	6.67	8.0	0.0	1.754	2.572	3.005	5.198	9.0	0.0	3.202	3.445
+TC03_PCG_External_QuoteExistingCustomer_PEL_09_ratings_Clicknext_XL	3.075	3.236	3.391	3.391	3.0	0.0	6.566	7.772	8.309	9.843	9.0	0.0	5.5040000000000004	5.85
+TC03_PCG_External_QuoteExistingCustomer_PEL_07_Insuredpage_Clicksave&continue_M	8.02	8.669	8.999	8.999	4.0	0.0	0.832	1.006	1.053	1.576	9.0	0.0	4.8375	5.026
+TC03_PCG_External_QuoteExistingCustomer_PEL_09_ratings_Clicknext_S	2.742	3.146	3.447	3.479	8.0	0.0	4.174	4.765	4.936	5.77	9.0	0.0	3.9555	4.1915
+TC03_PCG_External_QuoteExistingCustomer_PEL_10A_Coverages_Clicknext_L	1.59	2.363	2.624	2.628	8.0	0.0	6.609	9.45	13.095	15.077	9.0	0.0	5.906499999999999	7.859500000000001
+TC03_PCG_External_QuoteExistingCustomer_PEL_10A_Coverages_Clicknext_XL	2.315	2.489	2.762	2.762	3.0	0.0	0.675	0.812	0.967	0.988	9.0	0.0	1.6505	1.8645
+TC03_PCG_External_QuoteExistingCustomer_PEL_08A_ratings_enterdetails_Clicksave_M	1.628	1.71	1.781	1.781	4.0	0.0	0.336	1.471	4.552	5.635	100.0	0.0	1.5905	3.1664999999999996
+TC03_PCG_External_QuoteExistingCustomer_PEL_10A_Coverages_Clicknext_S	0.702	2.641	3.222	4.011	8.0	0.0	0.229	0.323	0.436	0.608	100.0	0.0	1.482	1.829
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_L	5.008	5.342	5.459	5.899	6.0	0.0	2.831	3.927	5.752	7.723	100.0	0.0	4.6345	5.605499999999999
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_XL	4.775	4.95	5.077	5.077	3.0	0.0	0.436	0.685	0.852	1.314	100.0	0.0	2.8175	2.9645
+TC03_PCG_External_QuoteExistingCustomer_PEL_09_ratings_Clicknext_M	2.912	3.172	3.742	3.742	4.0	0.0	0.12	2.468	0.208	230.757	100.0	0.0	2.8200000000000003	1.975
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_S	4.74	5.121	5.22	5.788	7.0	0.0	1.727	2.174	2.477	3.339	100.0	0.0	3.6475	3.8484999999999996
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_QuotePageLoad_L	2.759	3.039	3.178	3.668	6.0	0.0	13.07	15.616	18.292	32.298	100.0	0.0	9.3275	10.735000000000001
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_QuotePageLoad_XL	2.624	2.751	2.84	2.84	3.0	0.0	0.684	0.853	1.033	2.452	100.0	0.0	1.802	1.9364999999999999
+TC03_PCG_External_QuoteExistingCustomer_PEL_10A_Coverages_Clicknext_M	2.332	2.407	2.487	2.487	4.0	0.0	0.681	0.857	0.98	2.054	100.0	0.0	1.6320000000000001	1.7335
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_QuotePageLoad_S	2.769	3.005	3.058	3.827	7.0	0.0	2.023	2.634	3.122	8.946	100.0	0.0	2.8194999999999997	3.09
+TC03_PCG_External_QuoteExistingCustomer_PEL_13_Quotepage_Clicknext_L	2.204	2.457	2.606	2.699	6.0	0.0	1.313	1.814	2.379	9.52	100.0	0.0	2.1355	2.4924999999999997
+TC03_PCG_External_QuoteExistingCustomer_PEL_13_Quotepage_Clicknext_XL	2.255	2.892	3.408	3.408	3.0	0.0	0.908	1.215	1.444	2.316	100.0	0.0	2.0535	2.426
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_M	4.885	5.478	6.345	6.345	4.0	0.0	0.932	1.216	1.579	2.412	100.0	0.0	3.347	3.9619999999999997
+TC03_PCG_External_QuoteExistingCustomer_PEL_13_Quotepage_Clicknext_S	2.331	3.318	4.238	4.385	7.0	0.0	0.98	3.67	2.082	229.614	99.0	0.0	3.4939999999999998	3.16
+TC03_PCG_External_QuoteExistingCustomer_PEL_15_Prepackage_CreateQuotepackage_XL	1.8	2.438	2.956	2.956	3.0	0.0	0.908	3.565	1.747	227.779	98.0	0.0	3.0015	2.3515
+TC03_PCG_External_QuoteExistingCustomer_PEL_15_Prepackage_CreateQuotepackage_S	1.735	2.206	2.524	2.718	6.0	0.0	0.953	1.192	1.479	2.368	98.0	0.0	1.6989999999999998	2.0015
+TC03_PCG_External_QuoteExistingCustomer_PEL_12_Details_ClickNext_QuotePageLoad_M	3.035	6.073	14.151	14.151	4.0	0.0	0.895	3.675	1.662	223.792	91.0	0.0	4.8740000000000006	7.906499999999999
+TC03_PCG_External_QuoteExistingCustomer_PEL_15_Prepackage_CreateQuotepackage_L	1.637	5.539	2.524	22.515	6.0	0.0	0.956	1.25	1.697	3.267	84.0	0.0	3.3945	2.1105
+TC03_PCG_External_QuoteExistingCustomer_PEL_16_Prepackage_Clickclose_XL	0.708	0.75	0.777	0.777	3.0	0.0	0.922	1.276	1.989	3.957	77.0	0.0	1.013	1.383
+TC03_PCG_External_QuoteExistingCustomer_PEL_16_Prepackage_Clickclose_S	0.595	0.869	0.731	1.732	6.0	0.0	2.315	2.976	3.811	7.057	75.0	0.0	1.9224999999999999	2.271
+TC03_PCG_External_QuoteExistingCustomer_PEL_16_Prepackage_Clickclose_L	0.606	0.78	0.962	1.044	6.0	0.0	5.678	6.673	6.749	17.957	75.0	0.0	3.7265	3.8554999999999997
+TC03_PCG_External_QuoteExistingCustomer_PEL_13_Quotepage_Clicknext_M	2.025	4.438	10.036	10.036	4.0	0.0	1.408	1.828	2.171	3.669	75.0	0.0	3.133	6.1034999999999995
+TC03_PCG_External_QuoteExistingCustomer_PEL_15_Prepackage_CreateQuotepackage_M	2.011	2.344	2.948	2.948	4.0	0.0	0.758	0.969	1.132	3.374	75.0	0.0	1.6564999999999999	2.04
+TC03_PCG_External_QuoteExistingCustomer_PEL_16_Prepackage_Clickclose_M	0.363	0.72	0.93	0.93	4.0	0.0	0.848	4.019	1.306	222.535	75.0	0.0	2.3695	1.118
+TC04_PCG_External_QuoteExistingCustomer_Collections_02_SearchCustomerID_M	0.437	0.536	0.693	0.693	3.0	0.0	4.924	6.051	6.746	15.432	75.0	0.0	3.2935	3.7195
+TC04_PCG_External_QuoteExistingCustomer_Collections_02_SearchCustomerID_S	0.425	0.484	0.479	0.599	6.0	0.0	0.541	3.683	0.847	221.672	75.0	0.0	2.0835	0.663
+TC04_PCG_External_QuoteExistingCustomer_Collections_03_SelectCustomer_M	1.227	1.656	2.085	2.085	3.0	0.0	0.244	0.321	0.39	0.54	75.0	0.0	0.9884999999999999	1.2375
+TC04_PCG_External_QuoteExistingCustomer_Collections_02_SearchCustomerID_L	0.461	0.575	0.606	0.705	5.0	0.0	1.653	2.212	2.598	4.067	75.0	0.0	1.3935	1.6019999999999999
+TC04_PCG_External_QuoteExistingCustomer_Collections_03_SelectCustomer_S	1.41	1.924	2.318	2.561	6.0	0.0	1.949	2.339	2.603	4.414	75.0	0.0	2.1315	2.4605
+TC04_PCG_External_QuoteExistingCustomer_Collections_02_SearchCustomerID_XL	0.436	0.493	0.611	0.611	4.0	0.0	5.604	6.673	8.169	10.553	75.0	0.0	3.583	4.390000000000001
+TC04_PCG_External_QuoteExistingCustomer_Collections_03_SelectCustomer_L	1.172	1.665	2.005	2.013	5.0	0.0	0.903	2.746	3.745	6.158	346.0	0.0	2.2055	2.875
+TC04_PCG_External_QuoteExistingCustomer_Collections_04_SelectProductandClickSave&Continue_M	6.219	6.708	7.54	7.54	3.0	0.0	0.557	0.896	1.176	2.614	87.0	0.0	3.802	4.358
+TC04_PCG_External_QuoteExistingCustomer_Collections_03_SelectCustomer_XL	1.482	2.028	3.568	3.568	4.0	0.0	1.529	2.311	2.9	6.056	87.0	0.0	2.1695	3.234
+TC04_PCG_External_QuoteExistingCustomer_Collections_04_SelectProductandClickSave&Continue_S	5.845	7.319	7.87	11.488	6.0	0.0	0.546	0.842	0.992	5.567	87.0	0.0	4.0805	4.431
+TC04_PCG_External_QuoteExistingCustomer_Collections_04_SelectProductandClickSave&Continue_L	6.043	6.599	6.684	7.378	5.0	0.0	1.249	3.42	4.572	5.082	85.0	0.0	5.0095	5.628
+TC04_PCG_External_QuoteExistingCustomer_Collections_08_insuredPage_Clicksave_M	6.952	7.869	9.161	9.161	3.0	0.0	0.936	2.724	3.717	5.847	84.0	0.0	5.2965	6.439
+TC04_PCG_External_QuoteExistingCustomer_Collections_04_SelectProductandClickSave&Continue_XL	6.085	7.864	10.952	10.952	4.0	0.0	1.158	3.185	3.952	6.087	210.0	0.0	5.5245	7.452
+TC04_PCG_External_QuoteExistingCustomer_Collections_08_insuredPage_Clicksave_S	6.984	7.47	7.777	8.192	6.0	0.0	0.583	1.059	1.528	3.348	105.0	0.0	4.2645	4.6525
+TC04_PCG_External_QuoteExistingCustomer_Collections_09_RatingPage_SelectJewelry_M	1.149	1.266	1.379	1.379	3.0	0.0	0.7	2.503	4.381	4.981	105.0	0.0	1.8845	2.88
+TC04_PCG_External_QuoteExistingCustomer_Collections_08_insuredPage_Clicksave_L	6.95	7.934	7.558	10.21	5.0	0.0	0.356	0.584	0.798	2.558	180.0	0.0	4.259	4.178
+TC04_PCG_External_QuoteExistingCustomer_Collections_09_RatingPage_SelectJewelry_S	1.147	1.19	1.203	1.222	6.0	0.0	1.168	3.12	3.7	4.853	105.0	0.0	2.1550000000000002	2.4515000000000002
+TC04_PCG_External_QuoteExistingCustomer_Collections_08_insuredPage_Clicksave_XL	7.553	8.17	8.83	8.83	4.0	0.0	0.566	0.843	1.049	1.502	90.0	0.0	4.5065	4.9395
+TC04_PCG_External_QuoteExistingCustomer_Collections_10_RatingPage_SelectScheduled_M	1.132	1.2	1.273	1.273	3.0	0.0	0.355	0.497	0.647	0.844	90.0	0.0	0.8485	0.96
+TC04_PCG_External_QuoteExistingCustomer_Collections_09_RatingPage_SelectJewelry_L	1.098	1.161	1.2	1.247	5.0	0.0	0.79	0.79	0.79	0.79	1.0	0.0	0.9755	0.995
+TC04_PCG_External_QuoteExistingCustomer_Collections_10_RatingPage_SelectScheduled_S	1.113	1.202	1.229	1.266	6.0	0.0	0.551	0.911	1.209	1.48	54.0	0.0	1.0565	1.219
+TC04_PCG_External_QuoteExistingCustomer_Collections_09_RatingPage_SelectJewelry_XL	1.105	1.303	1.765	1.765	4.0	0.0	1.542	2.639	3.547	5.929	54.0	0.0	1.9709999999999999	2.656
+TC04_PCG_External_QuoteExistingCustomer_Collections_10_RatingPage_SelectScheduled_L	1.141	1.199	1.239	1.268	5.0	0.0	0.521	0.828	0.999	5.389	54.0	0.0	1.0135	1.119
+TC04_PCG_External_QuoteExistingCustomer_Collections_11_RatingPage_Coveragelimit&ClickNext_M	2.651	2.829	2.946	2.946	3.0	0.0	1.265	3.577	4.497	4.765	54.0	0.0	3.2030000000000003	3.7215
+TC04_PCG_External_QuoteExistingCustomer_Collections_11_RatingPage_Coveragelimit&ClickNext_S	2.623	3.061	3.196	3.706	6.0	0.0	0.578	1.002	1.442	3.123	99.0	0.0	2.0315	2.319
+TC04_PCG_External_QuoteExistingCustomer_Collections_10_RatingPage_SelectScheduled_XL	1.174	1.213	1.248	1.248	4.0	0.0	0.978	1.383	1.762	3.036	98.0	0.0	1.298	1.505
+TC04_PCG_External_QuoteExistingCustomer_Collections_12_CoveragePage_SelectRoofTypeMaterial_M	1.545	1.743	2.015	2.015	3.0	0.0	2.362	3.732	5.048	11.602	98.0	0.0	2.7375000000000003	3.5315000000000003
+TC04_PCG_External_QuoteExistingCustomer_Collections_11_RatingPage_Coveragelimit&ClickNext_L	2.678	3.153	3.228	3.746	5.0	0.0	0.63	0.969	1.388	2.752	93.0	0.0	2.061	2.308
+TC04_PCG_External_QuoteExistingCustomer_Collections_12_CoveragePage_SelectRoofTypeMaterial_S	1.7	2.051	2.103	2.795	6.0	0.0	0.937	1.408	1.867	5.917	92.0	0.0	1.7295	1.985
+TC04_PCG_External_QuoteExistingCustomer_Collections_11_RatingPage_Coveragelimit&ClickNext_XL	2.683	3.147	3.77	3.77	4.0	0.0	2.344	3.964	6.883	11.112	92.0	0.0	3.5555	5.3265
+TC04_PCG_External_QuoteExistingCustomer_Collections_13a_CoveragePage_SelectContructiontype_M	1.605	1.792	2.096	2.096	3.0	0.0	0.635	1.016	1.477	2.994	89.0	0.0	1.404	1.7865000000000002
+TC04_PCG_External_QuoteExistingCustomer_Collections_12_CoveragePage_SelectRoofTypeMaterial_L	1.644	1.807	1.865	2.029	5.0	0.0	0.935	1.396	1.873	2.671	89.0	0.0	1.6015	1.869
+TC04_PCG_External_QuoteExistingCustomer_Collections_13a_CoveragePage_SelectContructiontype_S	1.73	1.854	1.899	2.098	6.0	0.0	2.578	3.881	5.58	10.681	88.0	0.0	2.8674999999999997	3.7395
+TC04_PCG_External_QuoteExistingCustomer_Collections_12_CoveragePage_SelectRoofTypeMaterial_XL	1.708	2.041	2.654	2.654	4.0	0.0	0.648	1.011	1.378	1.853	57.0	0.0	1.5259999999999998	2.016
+TC04_PCG_External_QuoteExistingCustomer_Collections_13b_CoveragePage_occupancytype_M	1.823	1.844	1.867	1.867	3.0	0.0	1.001	1.38	1.748	2.237	57.0	0.0	1.612	1.8075
+TC04_PCG_External_QuoteExistingCustomer_Collections_13a_CoveragePage_SelectContructiontype_L	1.605	1.793	1.891	2.033	5.0	0.0	0.577	0.975	1.488	5.848	57.0	0.0	1.384	1.6895
+TC04_PCG_External_QuoteExistingCustomer_Collections_13b_CoveragePage_occupancytype_S	1.62	1.896	2.04	2.091	6.0	0.0	0.941	1.296	1.653	2.258	57.0	0.0	1.596	1.8465
+TC04_PCG_External_QuoteExistingCustomer_Collections_13a_CoveragePage_SelectContructiontype_XL	1.711	1.84	2.004	2.004	4.0	0.0	3.958	8.204	6.106	233.077	77.0	0.0	5.022	4.055
+TC04_PCG_External_QuoteExistingCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_M	1.75	2.005	2.392	2.392	3.0	0.0	2.092	3.011	3.646	4.067	39.0	0.0	2.508	3.019
+TC04_PCG_External_QuoteExistingCustomer_Collections_13b_CoveragePage_occupancytype_L	1.704	1.869	2.056	2.093	5.0	0.0	2.301	9.046	4.339	224.579	38.0	0.0	5.4575	3.1975000000000002
+TC04_PCG_External_QuoteExistingCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_S	1.638	1.966	2.134	2.207	6.0	0.0	12.421	30.406	70.812	92.895	38.0	0.0	16.186	36.473
+TC04_PCG_External_QuoteExistingCustomer_Collections_13b_CoveragePage_occupancytype_XL	1.574	1.806	2.09	2.09	4.0	0.0	2.186	3.026	3.604	17.987	206.0	0.0	2.416	2.847
+TC04_PCG_External_QuoteExistingCustomer_Collections_13d_CoveragePage_SquareFootage_M	1.598	1.808	1.914	1.914	3.0	0.0	0.262	0.445	0.623	5.028	206.0	0.0	1.1265	1.2685
+TC04_PCG_External_QuoteExistingCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_L	1.687	1.949	2.089	2.24	5.0	0.0	2.027	17.021	37.96	81.611	131.0	75.0	9.485000000000001	20.0245
+TC04_PCG_External_QuoteExistingCustomer_Collections_13d_CoveragePage_SquareFootage_S	1.629	1.902	1.697	3.062	6.0	0.0	6.837	9.135	11.37	22.523	131.0	0.0	5.5184999999999995	6.5335
+TC04_PCG_External_QuoteExistingCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_XL	1.715	1.769	1.822	1.822	4.0	0.0	4.217	5.749	7.261	15.341	130.0	0.0	3.759	4.5415
+TC04_PCG_External_QuoteExistingCustomer_Collections_13d_CoveragePage_SquareFootage_L	1.591	1.807	1.822	2.291	5.0	0.0	1.924	3.676	4.684	6.385	128.0	1.0	2.7415000000000003	3.253
+TC04_PCG_External_QuoteExistingCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_M	1.696	2.434	3.894	3.894	3.0	0.0	0.813	13.756	16.55	26.405	127.0	0.0	8.095	10.222000000000001
+TC04_PCG_External_QuoteExistingCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_S	1.652	1.845	1.972	2.118	6.0	0.0	7.929	20.798	37.145	93.237	126.0	0.0	11.321499999999999	19.558500000000002
+TC04_PCG_External_QuoteExistingCustomer_Collections_13d_CoveragePage_SquareFootage_XL	1.839	2.485	3.12	3.12	4.0	0.0	1.599	2.177	2.577	3.875	164.0	0.0	2.331	2.8485
+TC04_PCG_External_QuoteExistingCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_L	1.641	1.815	1.824	2.098	5.0	0.0	0.263	0.419	0.613	2.892	164.0	0.0	1.117	1.2185000000000001
+TC04_PCG_External_QuoteExistingCustomer_Collections_13f_CoveragePage_selectprotectionclass_M	1.682	1.838	2.01	2.01	3.0	0.0	1.912	24.298	58.422	152.164	115.0	49.0	13.068	30.215999999999998
+TC04_PCG_External_QuoteExistingCustomer_Collections_13f_CoveragePage_selectprotectionclass_S	1.656	2.237	2.669	3.195	6.0	0.0	6.232	8.217	11.135	14.677	114.0	0.0	5.227	6.902
+TC04_PCG_External_QuoteExistingCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_XL	1.74	2.857	5.551	5.551	4.0	0.0	3.169	3.943	4.947	7.121	112.0	0.0	3.4000000000000004	5.2490000000000006
+TC04_PCG_External_QuoteExistingCustomer_Collections_13f_CoveragePage_selectprotectionclass_L	1.581	1.759	1.814	1.932	5.0	0.0	2.128	2.741	3.479	6.328	110.0	0.0	2.25	2.6465
+TC04_PCG_External_QuoteExistingCustomer_Collections_13g_CoveragePage_selectno0fStories_M	1.66	1.726	1.789	1.789	3.0	0.0	9.21	11.591	12.93	22.63	110.0	0.0	6.6585	7.3595
+TC04_PCG_External_QuoteExistingCustomer_Collections_13g_CoveragePage_selectno0fStories_S	1.633	1.833	1.795	2.483	6.0	0.0	5.502	18.159	33.241	64.891	109.0	0.0	9.995999999999999	17.518
+TC04_PCG_External_QuoteExistingCustomer_Collections_13f_CoveragePage_selectprotectionclass_XL	1.676	2.172	2.725	2.725	4.0	0.0	1.637	2.269	2.906	7.176	109.0	0.0	2.2205000000000004	2.8155
+TC04_PCG_External_QuoteExistingCustomer_Collections_13g_CoveragePage_selectno0fStories_L	1.602	1.756	1.835	2.0	5.0	0.0	1.028	1.569	2.082	3.43	109.0	0.0	1.6625	1.9585
+TC04_PCG_External_QuoteExistingCustomer_Collections_13h_CoveragePage_PercentageofCoverage_M	1.623	1.759	1.95	1.95	3.0	0.0	2.027	2.64	3.244	5.518	108.0	0.0	2.1995	2.597
+TC04_PCG_External_QuoteExistingCustomer_Collections_13h_CoveragePage_PercentageofCoverage_S	1.634	1.975	1.745	3.443	6.0	0.0	0.722	1.028	1.601	3.005	107.0	0.0	1.5015	1.673
+TC04_PCG_External_QuoteExistingCustomer_Collections_13g_CoveragePage_selectno0fStories_XL	1.733	2.077	2.685	2.685	4.0	0.0	0.709	0.973	1.196	2.454	107.0	0.0	1.525	1.9405000000000001
+TC04_PCG_External_QuoteExistingCustomer_Collections_13h_CoveragePage_PercentageofCoverage_L	1.642	1.787	1.866	1.938	5.0	0.0	6.78	8.31	9.304	17.853	107.0	0.0	5.048500000000001	5.585
+TC04_PCG_External_QuoteExistingCustomer_Collections_13i_CoveragePage_ClickNext_M	3.676	3.866	4.045	4.045	3.0	0.0	2.396	2.928	3.408	4.857	66.0	0.0	3.3970000000000002	3.7264999999999997
+TC04_PCG_External_QuoteExistingCustomer_Collections_13i_CoveragePage_ClickNext_S	3.716	4.086	4.389	4.633	6.0	0.0	0.268	0.354	0.394	1.26	66.0	0.0	2.22	2.3915
+TC04_PCG_External_QuoteExistingCustomer_Collections_13h_CoveragePage_PercentageofCoverage_XL	1.738	2.07	2.848	2.848	4.0	0.0	1.813	14.734	25.56	39.952	48.0	18.0	8.402	14.203999999999999
+TC04_PCG_External_QuoteExistingCustomer_Collections_13i_CoveragePage_ClickNext_L	3.809	4.22	4.451	4.852	5.0	0.0	6.302	13.366	12.676	181.176	47.0	1.0	8.793	8.5635
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_M	4.737	4.979	5.137	5.137	3.0	0.0	3.279	4.264	4.945	5.718	47.0	0.0	4.6215	5.041
+TC04_PCG_External_QuoteExistingCustomer_Collections_13i_CoveragePage_ClickNext_XL	3.684	4.579	6.534	6.534	4.0	0.0	3.247	3.97	4.871	6.26	47.0	0.0	4.2745	5.702500000000001
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_S	4.956	5.134	5.189	5.639	6.0	0.0	10.544	12.649	14.634	18.906	47.0	0.0	8.8915	9.9115
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_L	4.827	5.455	5.823	5.934	5.0	0.0	5.724	12.646	25.415	38.57	47.0	0.0	9.0505	15.619
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_QuotepageLoad_M	3.52	4.101	4.839	4.839	3.0	0.0	0.459	0.541	0.679	0.689	10.0	0.0	2.321	2.7590000000000003
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_QuotepageLoad_S	3.251	3.606	3.852	4.046	6.0	0.0	0.544	1.847	4.813	4.833	10.0	0.0	2.7264999999999997	4.3325
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_XL	4.76	5.096	5.534	5.534	4.0	0.0	0.593	1.841	4.898	4.958	10.0	0.0	3.4685	5.215999999999999
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_QuotepageLoad_L	3.222	3.741	4.244	4.495	5.0	0.0	4.402	4.757	5.13	5.546	11.0	0.0	4.249	4.686999999999999
+TC04_PCG_External_QuoteExistingCustomer_Collections_15_QuotePage_Next_M	3.195	3.497	3.94	3.94	3.0	0.0	0.196	0.254	0.278	0.481	10.0	0.0	1.8755	2.109
+TC04_PCG_External_QuoteExistingCustomer_Collections_15_QuotePage_Next_S	2.559	2.843	3.091	3.156	6.0	0.0	0.197	0.298	0.497	0.691	10.0	0.0	1.5705	1.794
+TC04_PCG_External_QuoteExistingCustomer_Collections_14b_DetailsPage_ClickNext_QuotepageLoad_XL	3.503	3.532	3.594	3.594	4.0	0.0	1.154	1.442	1.737	1.869	10.0	0.0	2.487	2.6654999999999998
+TC04_PCG_External_QuoteExistingCustomer_Collections_15_QuotePage_Next_L	2.316	2.986	3.052	4.055	5.0	0.0	0.204	0.314	0.572	0.592	11.0	0.0	1.6500000000000001	1.812
+TC04_PCG_External_QuoteExistingCustomer_Collections_17_PrepackagePage_CreatePackage_M	3.857	3.988	4.065	4.065	3.0	0.0	3.474	5.101	7.031	7.403	10.0	0.0	4.5445	5.548
+TC04_PCG_External_QuoteExistingCustomer_Collections_15_QuotePage_Next_XL	2.55	2.888	3.612	3.612	4.0	0.0	3.198	5.155	6.632	6.996	10.0	0.0	4.0215	5.122
+TC04_PCG_External_QuoteExistingCustomer_Collections_17_PrepackagePage_CreatePackage_S	2.882	3.691	4.078	4.61	6.0	0.0	3.303	5.465	7.375	10.047	11.0	0.0	4.577999999999999	5.7265
+TC04_PCG_External_QuoteExistingCustomer_Collections_17_PrepackagePage_CreatePackage_L	2.911	3.266	3.444	3.594	5.0	0.0	6.655	8.986	11.117	11.747	10.0	0.0	6.126	7.2805
+TC04_PCG_External_QuoteExistingCustomer_Collections_18_PrepackagePage_Click_Close_M	0.68	0.757	0.906	0.906	3.0	0.0	0.785	1.511	2.072	2.215	10.0	0.0	1.134	1.489
+TC04_PCG_External_QuoteExistingCustomer_Collections_18_PrepackagePage_Click_Close_S	0.619	0.746	0.892	0.949	6.0	0.0	1.188	1.74	2.225	2.278	10.0	0.0	1.2429999999999999	1.5585
+TC04_PCG_External_QuoteExistingCustomer_Collections_17_PrepackagePage_CreatePackage_XL	3.354	3.755	4.426	4.426	4.0	0.0	1.179	1.674	2.129	2.875	11.0	0.0	2.7145	3.2775
+TC04_PCG_External_QuoteExistingCustomer_Collections_18_PrepackagePage_Click_Close_L	0.647	0.782	0.788	1.065	5.0	0.0	1.386	2.127	2.873	3.694	10.0	0.0	1.4545	1.8305000000000002
+TC04_PCG_External_QuoteExistingCustomer_Collections_18_PrepackagePage_Click_Close_XL	0.635	0.727	0.938	0.938	4.0	0.0	0.236	0.336	0.432	0.627	9.0	0.0	0.5315	0.6849999999999999
+TC05_PCG_External_QuoteNewCustomer_HO_02_SearchCustomer_LargeBroker	0.863	2.958	4.908	4.908	4.0	0.0	1.619	1.955	2.269	2.408	10.0	0.0	2.4565	3.5885000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_03_Click_CreateQuotefornewCustomer_LargeBroker	0.203	0.223	0.254	0.254	4.0	0.0	1.684	2.213	2.671	2.753	11.0	0.0	1.218	1.4625
+TC06_PCG_External_QuoteNewCustomer_PEL_02_SearchCustomername_LargeBroker	0.749	2.518	4.583	5.129	5.0	0.0	1.93	2.522	2.846	3.845	10.0	0.0	2.5199999999999996	3.7145
+TC05_PCG_External_QuoteNewCustomer_HO_04_SelectProductandClickSave&Continue_LargeBroker	4.026	4.707	6.26	6.26	4.0	0.0	12.772	20.537	26.702	30.838	10.0	1.0	12.622	16.481
+TC06_PCG_External_QuoteNewCustomer_PEL_03_CreateQuotefor_NewCustomer_LargeBroker	0.984	1.314	1.542	1.583	5.0	0.0	8.789	14.027	16.951	25.884	10.0	0.0	7.6705	9.246500000000001
+TC05_PCG_External_QuoteNewCustomer_HO_07_insuredPage_SelectLocationInfoAddress_LargeBroker	2.204	2.323	2.42	2.42	4.0	0.0	14.44	20.392	26.28	29.747	9.0	0.0	11.3575	14.350000000000001
+TC07_PCG_External_NewCustomer_Collections_02_SearchCustomerID_LargeBroker	1.056	2.932	4.742	4.742	4.0	0.0	15.612	22.1	27.58	32.07	10.0	0.0	12.516	16.160999999999998
+TC06_PCG_External_QuoteNewCustomer_PEL_04_SelectProductandclick_save&continue_LargeBroker	4.1	4.664	5.275	5.447	5.0	0.0	1.719	2.218	2.922	3.085	10.0	0.0	3.441	4.0985000000000005
+TC07_PCG_External_NewCustomer_Collections_03_CreateQuotefor_NewCustomer_LargeBroker	0.216	0.24	0.277	0.277	4.0	0.0	3.574	5.018	5.917	7.333	10.0	0.0	2.629	3.097
+TC06_PCG_External_QuoteNewCustomer_PEL_08_Insuredpage_SelectLocationinfo_LargeBroker	1.933	2.046	2.16	2.198	5.0	0.0	1.057	1.284	1.469	1.544	8.0	0.0	1.665	1.8145000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_08_insuredPage_Clicksave_LargeBroker	16.92	17.794	18.981	18.981	4.0	0.0	1.684	2.213	2.377	4.25	9.0	0.0	10.0035	10.679
+TC07_PCG_External_NewCustomer_Collections_04_SelectProductandClickSave&Continue_LargeBroker	4.015	4.659	5.926	5.926	4.0	0.0	2.901	4.706	3.948	16.138	10.0	0.0	4.6825	4.937
+TC05_PCG_External_QuoteNewCustomer_HO_10_RatingPage_Selectyearbuilt_LargeBroker	1.762	1.869	2.088	2.088	4.0	0.0	1.085	2.027	2.018	6.951	8.0	0.0	1.948	2.053
+TC06_PCG_External_QuoteNewCustomer_PEL_09_Insuredpage_Clicksave&continue_LargeBroker	14.841	15.994	16.698	17.743	5.0	0.0	2.028	2.747	3.586	3.767	10.0	0.0	9.3705	10.142
+TC07_PCG_External_NewCustomer_Collections_08_InsuredPage_SelectLocationInfoAddress_LargeBroker	0.231	0.289	0.385	0.385	4.0	0.0	2.114	3.5	4.497	6.253	8.0	0.0	1.8945	2.441
+TC05_PCG_External_QuoteNewCustomer_HO_10A_RatingPage_Noofstories_LargeBroker	1.777	1.908	2.059	2.059	4.0	0.0	2.538	4.018	4.575	8.979	9.0	0.0	2.963	3.317
+TC06_PCG_External_QuoteNewCustomer_PEL_10A_ratings_enterdetails_Clicksave_LargeBroker	1.92	2.293	2.455	3.062	5.0	0.0	1.829	2.783	2.994	5.978	8.0	0.0	2.5380000000000003	2.7245
+TC05_PCG_External_QuoteNewCustomer_HO_10B_RatingPage_SelectpreviousInsurer_LargeBroker	1.793	1.863	1.893	1.893	4.0	0.0	1.396	5.315	6.674	13.615	8.0	0.0	3.5890000000000004	4.2835
+TC07_PCG_External_NewCustomer_Collections_09_insuredPage_Clicksave_LargeBroker	13.921	14.86	15.748	15.748	4.0	0.0	7.719	9.877	11.799	11.936	9.0	0.0	12.368500000000001	13.773499999999999
+TC06_PCG_External_QuoteNewCustomer_PEL_11_ratings_Clicknext_LargeBroker	2.934	3.666	3.124	6.232	5.0	0.0	10.513	14.059	16.363	23.529	10.0	0.0	8.862499999999999	9.7435
+TC07_PCG_External_NewCustomer_Collections_10_RatingPage_SelectJewelry_LargeBroker	1.225	1.335	1.534	1.534	4.0	0.0	1.989	2.669	2.858	4.616	8.0	0.0	2.002	2.196
+TC05_PCG_External_QuoteNewCustomer_HO_13_Ratingpage_ClickNext_LargeBroker	4.41	4.688	5.047	5.047	4.0	0.0	1.477	2.004	2.33	2.441	7.0	0.0	3.346	3.6885
+TC06_PCG_External_QuoteNewCustomer_PEL_12A_Coverages_Clicknext_LargeBroker	2.287	2.641	2.898	3.183	5.0	0.0	1.257	2.04	3.357	3.394	9.0	0.0	2.3405	3.1275000000000004
+TC07_PCG_External_NewCustomer_Collections_11_RatingPage_SelectScheduled_LargeBroker	1.163	1.266	1.37	1.37	4.0	0.0	1.328	2.45	4.182	4.456	10.0	0.0	1.858	2.7760000000000002
+TC05_PCG_External_QuoteNewCustomer_HO_14_coveragepage_Enter_EstimatedHomeReplacementValue_LargeBroker	1.213	1.309	1.358	1.358	4.0	0.0	1.852	2.275	2.812	2.949	8.0	0.0	1.7919999999999998	2.085
+TC06_PCG_External_QuoteNewCustomer_PEL_13b_Details_ClickNext_LargeBroker	4.786	5.484	5.749	6.837	5.0	0.0	1.658	1.814	1.846	2.141	7.0	0.0	3.649	3.7975
+TC07_PCG_External_NewCustomer_Collections_12_RatingPage_Coveragelimit&ClickNext_LargeBroker	2.724	3.006	3.535	3.535	4.0	0.0	1.768	3.51	6.375	7.256	9.0	0.0	3.258	4.955
+TC05_PCG_External_QuoteNewCustomer_HO_17_coveragepage_ClickNext_LargeBroker	3.205	3.428	3.926	3.926	4.0	0.0	1.569	1.93	2.168	2.426	6.0	0.0	2.679	3.047
+TC06_PCG_External_QuoteNewCustomer_PEL_13c_Details_ClickNext_QuotepagLoad_LargeBroker	2.922	3.111	3.077	3.613	5.0	0.0	5.748	6.775	7.678	8.423	7.0	0.0	4.9430000000000005	5.3774999999999995
+TC07_PCG_External_NewCustomer_Collections_13_CoveragePage_SelectRoofTypeMaterial_LargeBroker	1.762	1.862	2.067	2.067	4.0	0.0	2.018	3.977	5.971	7.467	10.0	0.0	2.9195	4.019
+TC05_PCG_External_QuoteNewCustomer_HO_18_Detailspage_Qualifyingcredits_selectAlarm_LargeBroker	1.289	1.341	1.391	1.391	4.0	0.0	1.605	1.948	2.236	2.369	6.0	0.0	1.6444999999999999	1.8135000000000001
+TC06_PCG_External_QuoteNewCustomer_PEL_14_Quotepage_Clicknext_LargeBroker	1.333	1.715	1.762	2.471	5.0	0.0	1.621	2.062	2.371	2.933	7.0	0.0	1.8885	2.0665
+TC07_PCG_External_NewCustomer_Collections_13a_CoveragePage_SelectContructiontype_LargeBroker	1.63	1.733	1.835	1.835	4.0	0.0	1.498	1.735	1.903	1.913	6.0	0.0	1.734	1.869
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_LargeBroker	6.312	6.622	6.837	6.837	4.0	0.0	1.561	1.778	1.822	2.293	6.0	0.0	4.2	4.3294999999999995
+TC06_PCG_External_QuoteNewCustomer_PEL_16_Prepackage_CreateQuotepackage_LargeBroker	1.544	2.793	3.153	4.682	5.0	0.0	1.544	2.069	2.217	2.726	5.0	0.0	2.431	2.685
+TC07_PCG_External_NewCustomer_Collections_13b_CoveragePage_occupancytype_LargeBroker	1.753	2.303	3.069	3.069	4.0	0.0	4.271	5.282	6.018	6.101	6.0	0.0	3.7925	4.5435
+TC05_PCG_External_QuoteNewCustomer_HO_22_Detailspage_ClickNext_QuotePageLoad_LargeBroker	4.334	4.897	5.584	5.584	4.0	0.0	1.58	1.864	1.771	2.561	5.0	0.0	3.3805	3.6774999999999998
+TC06_PCG_External_QuoteNewCustomer_PEL_17_Prepackage_Clickclose_LargeBroker	0.717	0.798	0.846	0.94	5.0	0.0	1.582	1.941	2.25	2.593	5.0	0.0	1.3695	1.548
+TC07_PCG_External_NewCustomer_Collections_13c_CoveragePage_DetailsYearBuilt_LargeBroker	1.902	2.03	2.231	2.231	4.0	0.0	16.27	17.198	18.084	18.146	5.0	0.0	9.614	10.157499999999999
+TC05_PCG_External_QuoteNewCustomer_HO_24_Quotesummarypage_ClickNext_LargeBroker	1.536	1.764	2.095	2.095	4.0	0.0	4.46	4.86	4.984	5.356	5.0	0.0	3.3120000000000003	3.5395000000000003
+TC06_PCG_External_QuoteNewCustomer_PEL_18_Packagepage_SendToUnderwriter_LargeBroker	6.611	7.036	7.061	7.675	5.0	0.0	2.55	3.95	4.96	5.076	5.0	0.0	5.493	6.0105
+TC07_PCG_External_NewCustomer_Collections_13d_CoveragePage_SquareFootage_LargeBroker	1.58	1.641	1.712	1.712	4.0	0.0	13.065	13.916	13.735	15.909	5.0	0.0	7.7785	7.7235
+TC05_PCG_External_QuoteNewCustomer_HO_26_Prepackage_Clickcreatepackage_LargeBroker	2.977	3.795	4.878	4.878	4.0	0.0	9.853	11.067	12.27	12.504	5.0	0.0	7.431	8.574
+TC07_PCG_External_NewCustomer_Collections_13e_CoveragePage_SelectFamiliesinHome_LargeBroker	1.649	2.098	2.671	2.671	4.0	0.0	3.979	4.316	4.487	4.531	5.0	0.0	3.207	3.5789999999999997
+TC05_PCG_External_QuoteNewCustomer_HO_27_Prepackage_createpackage_clickclose_LargeBroker	0.669	0.73	0.794	0.794	4.0	0.0	8.899	11.072	13.097	13.229	5.0	0.0	5.901	6.9455
+TC07_PCG_External_NewCustomer_Collections_13f_CoveragePage_selectprotectionclass_LargeBroker	1.598	1.889	2.676	2.676	4.0	0.0	0.606	1.335	2.722	3.638	9.0	0.0	1.612	2.699
+TC05_PCG_External_QuoteNewCustomer_HO_28_PackagePage_SendToUnderwriter_LargeBroker	7.755	8.096	8.345	8.345	4.0	0.0	0.589	1.541	2.288	3.174	10.0	0.0	4.8185	5.3165000000000004
+TC07_PCG_External_NewCustomer_Collections_13g_CoveragePage_selectno0fStories_LargeBroker	1.644	1.83	1.957	1.957	4.0	0.0	1.909	2.564	3.065	3.266	5.0	0.0	2.197	2.511
+TC07_PCG_External_NewCustomer_Collections_14_CoveragePage_PercentageofCoverage_LargeBroker	1.576	1.672	1.896	1.896	4.0	0.0	1.107	2.262	3.016	3.149	5.0	0.0	1.967	2.456
+TC07_PCG_External_NewCustomer_Collections_15_CoveragePage_ClickNext_LargeBroker	3.183	3.328	3.572	3.572	4.0	0.0	4.353	4.613	4.804	4.957	10.0	0.0	3.9705000000000004	4.188000000000001
+TC07_PCG_External_NewCustomer_Collections_16b_DetailsPage_ClickNext_LargeBroker	4.916	5.147	5.345	5.345	4.0	0.0	4.964	5.698	5.859	7.083	8.0	0.0	5.4225	5.602
+TC07_PCG_External_NewCustomer_Collections_16C_DetailsPage_ClickNext_QuotepageLoad_LargeBroker	3.3	4.136	5.145	5.145	4.0	0.0	5.132	5.548	5.783	5.873	10.0	0.0	4.8420000000000005	5.464
+TC07_PCG_External_NewCustomer_Collections_17_QuotePage_ClickNext_LargeBroker	1.521	1.654	1.774	1.774	4.0	0.0	0.156	0.237	0.279	0.441	8.0	0.0	0.9455	1.0265
+TC07_PCG_External_NewCustomer_Collections_19_PrePackagePage_ClickCreatePackage_LargeBroker	3.295	3.836	4.496	4.496	4.0	0.0	2.853	3.412	4.262	5.137	10.0	0.0	3.6239999999999997	4.379
+TC07_PCG_External_NewCustomer_Collections_20_PrePackagePage_ClickClosePopUp_LargeBroker	0.676	0.949	1.546	1.546	4.0	0.0	3.025	3.724	4.626	5.57	10.0	0.0	2.3365	3.0860000000000003
+TC07_PCG_External_NewCustomer_Collections_21_PackagePage_SendToUnderwriter_LargeBroker	7.07	7.656	8.161	8.161	4.0	0.0	4.021	5.667	5.835	11.534	10.0	0.0	6.6615	6.997999999999999
+TC29_PCG_Internal_Renewal_Coll_02_SearchCustomer	0.317	1.452	4.502	4.956	100.0	0.0	6.744	9.263	11.358	12.075	8.0	0.0	5.3575	7.93
+TC29_PCG_Internal_Renewal_Coll_03_Click_CreateQuoteforNewCustomer	0.212	0.34	0.497	0.894	100.0	0.0	4.093	7.955	11.898	14.002	10.0	0.0	4.1475	6.1975
+TC29_PCG_Internal_Renewal_Coll_04_Productpage_Select_Renewal_Collection_and_Click_Save&Continue	2.614	4.089	4.71	40.711	100.0	0.0	6.198	7.743	9.015	10.487	10.0	0.0	5.916	6.862500000000001
+TC29_PCG_Internal_Renewal_Coll_05_Insuredpage_Select_Brokercode	0.478	0.744	0.971	2.369	100.0	0.0	6.073	9.295	11.598	12.945	8.0	0.0	5.0195	6.2845
+TC29_PCG_Internal_Renewal_Coll_06_Insuredpage_Enter_LocationInfo	0.117	0.163	0.217	0.372	100.0	0.0	6.945	9.484	11.524	11.605	10.0	0.0	4.8235	5.8705
+TC29_PCG_Internal_Renewal_Coll_07_Insuredpage_Enter_Efffectivedate	1.646	2.126	2.547	3.512	100.0	0.0	2.133	2.844	3.676	4.919	10.0	0.0	2.485	3.1115000000000004
+TC29_PCG_Internal_Renewal_Coll_10_Ratingpage_Select_Jewelry	0.662	0.799	0.967	1.178	98.0	0.0	2.223	3.249	3.736	6.197	8.0	0.0	2.024	2.3515
+TC29_PCG_Internal_Renewal_Coll_11_Ratingpage_Select_Scheduled	0.658	0.81	0.955	1.706	98.0	0.0	2.965	4.07	4.938	5.257	10.0	0.0	2.4400000000000004	2.9465
+TC29_PCG_Internal_Renewal_Coll_12_Ratingpage_Click_Save&Continue	1.753	2.119	2.284	8.106	98.0	0.0	1.675	2.21	3.086	3.595	10.0	0.0	2.1645000000000003	2.6849999999999996
+TC29_PCG_Internal_Renewal_Coll_13_Coveragepage_Click_View/EditLocationDetails	1.378	1.803	1.867	21.429	98.0	0.0	2.444	4.061	5.757	6.142	8.0	0.0	2.932	3.812
+TC29_PCG_Internal_Renewal_Coll_14_Coveragepage_Select_ContructionType	0.914	1.231	1.707	3.602	98.0	0.0	2.444	3.702	4.342	5.783	10.0	0.0	2.4665	3.0244999999999997
+TC29_PCG_Internal_Renewal_Coll_15_Coveragepage_Select_OccupancyType	0.914	1.157	1.377	1.999	98.0	0.0	6.805	8.614	9.782	10.213	10.0	0.0	4.8855	5.5795
+TC29_PCG_Internal_Renewal_Coll_16_Coveragepage_Select_YearBuilt	0.972	1.499	1.962	24.352	98.0	0.0	8.021	10.528	12.258	13.037	8.0	0.0	6.0135000000000005	7.109999999999999
+TC29_PCG_Internal_Renewal_Coll_17_Coveragepage_Enter_AggregateSquareFootageValue	0.885	1.19	1.43	2.143	98.0	0.0	0.227	0.379	0.502	0.651	10.0	0.0	0.7845	0.966
+TC29_PCG_Internal_Renewal_Coll_18_Coveragepage_Select_FamiliesInHome	0.931	1.305	1.256	19.23	98.0	0.0	10.509	13.54	15.848	15.895	10.0	0.0	7.422499999999999	8.552
+TC29_PCG_Internal_Renewal_Coll_19_Coveragepage_SelectProtectionClass	0.921	1.208	1.649	2.485	94.0	0.0	0.377	0.521	0.612	0.635	8.0	0.0	0.8645	1.1305
+TC29_PCG_Internal_Renewal_Coll_20_Coveragepage_Select_Stories	0.918	1.189	1.93	2.925	86.0	0.0	0.294	0.448	0.58	0.877	10.0	0.0	0.8185	1.255
+TC29_PCG_Internal_Renewal_Coll_21_Coveragepage_Enter_LimtAmount_for_Coverage	0.884	1.132	1.354	2.153	78.0	0.0	5.385	6.348	7.684	7.783	10.0	0.0	3.7399999999999998	4.519
+TC29_PCG_Internal_Renewal_Coll_22_Coveragepage_Click_Save&Continue	2.296	2.599	2.861	3.603	75.0	0.0	5.181	7.041	8.535	8.711	8.0	0.0	4.82	5.698
+TC29_PCG_Internal_Renewal_Coll_23_Detailspage_Click_Save&Continue	5.369	6.05	6.64	8.141	75.0	0.0	2.98	4.233	5.13	5.167	10.0	0.0	5.1415	5.885
+TC29_PCG_Internal_Renewal_Coll_24_Quotepage_Click_ProceedtoIssuance	1.299	1.72	2.093	2.665	75.0	0.0	2.852	3.139	3.339	3.791	10.0	0.0	2.4295	2.716
+TC29_PCG_Internal_Renewal_Coll_25_Preissuancepage_Click_AddAnotherItem_to_AddItem1	0.707	0.866	0.967	1.332	75.0	0.0	0.747	0.864	1.002	1.185	10.0	0.0	0.865	0.9844999999999999
+TC29_PCG_Internal_Renewal_Coll_27_Preissuancepage_Click_Save_forItem1	0.815	0.995	1.224	1.893	75.0	0.0	2.789	4.306	3.783	10.229	8.0	0.0	2.6505	2.5035
+TC29_PCG_Internal_Renewal_Coll_40_Preissuancepage_Click_Save	4.894	5.557	6.071	7.687	75.0	0.0	0.688	0.998	1.133	2.349	10.0	0.0	3.2775000000000003	3.602
+TC29_PCG_Internal_Renewal_Coll_41a_SelectBillingType	0.554	0.715	0.83	0.985	75.0	0.0	4.856	14.837	24.664	29.91	10.0	0.0	7.776	12.747
+TC29_PCG_Internal_Renewal_Coll_41b_SelectPaymentPlan	0.225	0.297	0.357	0.512	75.0	0.0	3.48	4.132	4.473	6.462	10.0	0.0	2.2144999999999997	2.415
+TC29_PCG_Internal_Renewal_Coll_41c_Paymentspage_Click_Save&Continue	1.576	2.004	2.263	2.574	75.0	0.0	7.734	14.914	19.703	26.593	8.0	0.0	8.459	10.983
+TC29_PCG_Internal_Renewal_Coll_41d_Paymentspage_ClickOk	1.902	2.306	2.529	2.922	75.0	0.0	3.288	4.664	4.485	10.775	10.0	0.0	3.485	3.507
+TC29_PCG_Internal_Renewal_Coll_42_Subjectivitiespage_Click_IssuePolicy	5.206	6.064	6.938	7.738	75.0	0.0	9.568	19.366	24.686	30.707	10.0	0.0	12.715	15.812
+TC15_Customers_External_01_LoadingSummarypage_Customer	0.908	2.624	3.484	8.104	346.0	0.0	8.254	8.536	8.818	8.818	2.0	0.0	5.58	6.151
+TC15_Customers_External_02_Search_CustomerID	0.564	0.907	1.167	2.935	87.0	0.0	3.492	3.628	3.778	4.033	10.0	0.0	2.2675	2.4725
+TC15_Customers_External_03_Search_PolicyID	1.432	2.195	2.805	3.664	87.0	0.0	3.533	3.64	3.742	3.744	8.0	0.0	2.9175	3.2735000000000003
+TC15_Customers_External_04_Search_BillingAccount	0.523	0.784	1.002	2.064	87.0	0.0	3.51	3.604	3.686	3.69	10.0	0.0	2.194	2.344
+TC15_Customers_External_05_Search_CustomerName	1.272	3.458	4.476	5.367	85.0	0.0	1.664	1.959	2.206	2.297	12.0	0.0	2.7085	3.341
+TC15_Customers_External_09_Search_brokerID	0.892	2.693	3.698	4.758	84.0	0.0	1.98	2.305	2.491	2.987	10.0	0.0	2.499	3.0945
+TC22_Prospecting_External_02_LoadingProspectingpage_ClickProspectingBackpage	1.125	3.227	3.907	12.743	210.0	0.0	1.273	2.114	3.545	4.358	10.0	0.0	2.6704999999999997	3.726
+TC22_Prospecting_External_03_Enter_CustomerId_and_Search	0.608	0.998	1.338	4.072	105.0	0.0	1.996	2.373	2.638	2.695	12.0	0.0	1.6855000000000002	1.988
+TC22_Prospecting_External_04_Enter_CustomerName_and_Click_Search	0.728	2.581	4.432	5.33	105.0	0.0	4.465	5.656	6.176	13.478	12.0	0.0	4.1185	5.304
+TC21_BillingList_External_02_LoadingBillinglist_ClickBillingBackpage	0.362	0.605	0.847	2.349	180.0	0.0	1.969	2.278	2.315	3.239	9.0	0.0	1.4415	1.581
+TC22_Prospecting_External_05_Enter Broker code and search	1.372	3.061	3.663	6.102	105.0	0.0	1.629	1.832	2.028	2.061	12.0	0.0	2.4465	2.8455
+TC21_BillingList_External_03_Enter_BillingAccountNumber_and_Click_Search	0.554	0.926	1.193	2.325	90.0	0.0	0.345	0.523	0.684	0.799	12.0	0.0	0.7245	0.9385000000000001
+TC21_BillingList_External_05_Enter_Brokercode_and_Click_Search	0.381	0.488	0.642	0.742	90.0	0.0	4.324	4.83	5.075	6.139	9.0	0.0	2.659	2.8585000000000003
+TC42_Claims_External_01_SearchClaimNo	0.574	0.574	0.574	0.574	1.0	0.0	1.685	1.816	1.961	2.036	9.0	0.0	1.195	1.2675
+TC16_Policies_External_03_Enter Customer id and Click Search	0.585	0.977	1.228	3.957	54.0	0.0	0.335	1.547	3.256	3.58	10.0	0.0	1.262	2.242
+TC16_Policies_External_04_Enter Policy id and Click Search	1.643	2.467	3.062	4.823	54.0	0.0	1.472	2.089	2.51	4.284	9.0	0.0	2.278	2.7859999999999996
+TC16_Policies_External_05_Enter Billing Account number and Click Search	0.527	0.831	1.28	2.409	54.0	0.0	0.693	0.779	0.831	0.885	6.0	0.0	0.8049999999999999	1.0554999999999999
+TC16_Policies_External_06_Enter Customer Name and Click Search	1.273	3.615	4.616	5.13	54.0	0.0	2.304	2.761	3.001	3.502	9.0	0.0	3.188	3.8084999999999996
+TC39_Reissue_PEL_01_SearchpolicyNo_Frompolicies	4.295	4.696	5.081	5.144	10.0	0.0	0.252	0.376	0.476	0.535	9.0	0.0	2.536	2.7785
+TC41_Reissue_COL_01_SearchpolicyNo_Frompolicies	4.962	5.392	5.622	5.958	8.0	0.0	0.427	2.222	4.25	4.748	12.0	0.0	3.8070000000000004	4.936
+TC40_Reissue_HO_01_SearchpolicyNo_Frompolicies	5.068	5.499	5.814	5.948	9.0	0.0	0.186	3.379	7.446	7.667	9.0	0.0	4.439	6.63
+TC41_Reissue_COL_02_SelectReissue	0.154	0.177	0.202	0.206	8.0	0.0	0.327	1.487	4.608	5.035	100.0	0.0	0.8320000000000001	2.405
+TC39_Reissue_PEL_02_SelectReissue	2.912	3.185	3.381	3.789	10.0	0.0	0.232	0.355	0.531	0.727	100.0	0.0	1.77	1.956
+TC40_Reissue_HO_02_SelectReissue	3.083	3.565	4.267	4.687	9.0	0.0	2.742	3.857	5.569	9.81	100.0	0.0	3.7110000000000003	4.918
+TC39_Reissue_PEL_03_SelectEffectivedate_Clicksave& continue	3.599	6.054	7.959	9.543	10.0	0.0	0.466	0.691	0.794	1.9	100.0	0.0	3.3725	4.3765
+TC41_Reissue_COL_03_SelectEffectivedate_Clicksave& continue	6.634	8.776	9.718	9.749	8.0	0.0	1.93	2.435	2.965	3.572	100.0	0.0	5.6055	6.3415
+TC40_Reissue_HO_03_SelectEffectivedate_Clicksave& continue	5.762	7.344	8.933	11.501	9.0	0.0	1.777	2.224	2.616	4.833	100.0	0.0	4.784000000000001	5.7745
+TC39_Reissue_PEL_04_InsuredPage_Save&continue	6.342	7.661	8.651	8.711	10.0	0.0	15.787	18.046	20.19	26.479	100.0	0.0	12.8535	14.4205
+TC41_Reissue_COL_04_InsuredPage_Save&continue	7.075	7.91	8.462	10.297	8.0	0.0	1.689	4.291	2.348	229.604	100.0	0.0	6.1005	5.404999999999999
+TC40_Reissue_HO_04_InsuredPage_Save&continue	8.174	8.899	9.672	10.05	9.0	0.0	0.312	1.469	4.632	4.961	99.0	0.0	5.183999999999999	7.152
+TC39_Reissue_PEL_05_RatingPage_ClickSave&continue	1.84	2.451	2.67	3.609	10.0	0.0	1.652	2.113	2.638	6.631	100.0	0.0	2.282	2.654
+TC41_Reissue_COL_05_RatingPage_ClickSave&continue	1.936	2.65	3.206	3.481	8.0	0.0	0.224	0.348	0.47	1.169	99.0	0.0	1.4989999999999999	1.838
+TC40_Reissue_HO_05_RatingPage_ClickSave&continue	1.994	2.253	2.62	2.844	9.0	0.0	1.624	2.039	2.389	6.766	100.0	0.0	2.146	2.5045
+TC39_Reissue_PEL_06_CoveragePage_ClickSave&continue	1.659	1.931	2.441	2.65	10.0	0.0	2.773	4.183	5.934	10.751	99.0	0.0	3.057	4.1875
+TC40_Reissue_HO_06_CoveragePage_ClickSave&continue	2.191	2.786	3.103	3.821	9.0	0.0	3.579	4.666	5.962	14.855	100.0	0.0	3.726	4.5325
+TC41_Reissue_COL_06_CoveragePage_ClickSave&continue	2.518	3.542	4.578	5.156	8.0	0.0	0.47	0.659	0.793	1.051	99.0	0.0	2.1005	2.6855
+TC39_Reissue_PEL_07_DetailsPage_ClickSave&continue	6.404	7.834	8.858	9.993	10.0	0.0	0.798	1.148	1.364	5.59	100.0	0.0	4.491	5.111000000000001
+TC41_Reissue_COL_07_DetailsPage_ClickSave&continue	7.704	9.082	9.868	10.388	8.0	0.0	1.843	2.378	2.818	4.289	99.0	0.0	5.73	6.343
+TC40_Reissue_HO_07_DetailsPage_ClickSave&continue	9.538	10.304	10.905	11.06	9.0	0.0	1.162	1.52	1.837	4.037	100.0	0.0	5.912	6.3709999999999996
+TC39_Reissue_PEL_08_Quotepage_ClickProceedtoissuance	0.22	0.335	0.45	0.544	10.0	0.0	1.682	2.184	2.701	4.621	99.0	0.0	1.2595	1.5755000000000001
+TC41_Reissue_COL_08_Quotepage_ClickProceedtoissuance	0.282	0.392	0.445	0.528	8.0	0.0	2.592	3.541	4.431	7.909	100.0	0.0	1.9665	2.438
+TC40_Reissue_HO_08_Quotepage_ClickProceedtoissuance	0.251	0.351	0.332	0.9	9.0	0.0	13.996	18.422	18.572	245.685	99.0	0.0	9.3865	9.452
+TC39_Reissue_PEL_09_PreissuancePage_ClickSave&continue	4.367	5.204	6.257	6.402	10.0	0.0	7.61	9.717	12.145	18.34	100.0	0.0	7.4605	9.201
+TC40_Reissue_HO_09_PreissuancePage_ClickSave&continue	2.845	3.412	3.874	4.175	9.0	0.0	0.859	1.049	1.164	2.975	99.0	0.0	2.2305	2.519
+TC41_Reissue_COL_09_PreissuancePage_ClickSave&continue	4.979	6.008	6.836	7.543	8.0	0.0	2.245	3.164	4.424	11.522	100.0	0.0	4.586	5.630000000000001
+TC39_Reissue_PEL_10_Paymentpage_Clicksave&continue	2.362	2.735	2.975	3.048	10.0	0.0	0.919	1.101	1.192	3.629	99.0	0.0	1.918	2.0835
+TC40_Reissue_HO_10_Inspectionpage_ClickNO	0.685	0.791	0.841	1.065	9.0	0.0	2.477	3.302	4.301	6.305	100.0	0.0	2.0465	2.571
+TC41_Reissue_COL_10_Paymentpage_Clicksave&continue	2.86	3.145	3.493	3.612	8.0	0.0	0.916	1.077	1.25	2.447	99.0	0.0	2.1109999999999998	2.3715
+TC40_Reissue_HO_11_Inspectionpage_SelectReason	0.669	0.741	0.818	0.83	9.0	0.0	0.661	0.815	0.885	1.969	100.0	0.0	0.778	0.8514999999999999
+TC39_Reissue_PEL_11_ClickIssuepolicy	4.293	8.648	11.331	11.515	10.0	0.0	0.953	1.188	1.349	3.328	99.0	0.0	4.918	6.34
+TC41_Reissue_COL_11_ClickIssuepolicy	4.995	8.783	11.21	12.311	8.0	0.0	3.252	3.935	4.291	19.021	100.0	0.0	6.359	7.750500000000001
+TC40_Reissue_HO_12_Inspectionpage_Clicksave&continue	3.291	3.707	4.016	4.121	9.0	0.0	1.0	1.214	1.369	2.245	99.0	0.0	2.4604999999999997	2.6925
+TC40_Reissue_HO_13_Paymentpage_Clicksave&continue	2.944	3.583	4.254	4.765	9.0	0.0	0.555	0.699	0.804	0.944	100.0	0.0	2.141	2.529
+TC40_Reissue_HO_14_ClickIssuepolicy	6.333	8.564	11.328	13.672	9.0	0.0	0.911	1.165	1.387	3.07	99.0	0.0	4.8645	6.3575
+TC15_Customers_Internal_09_Search_brokerID_${P_Size}	8.887	10.385	11.883	11.883	2.0	0.0	0.236	2.554	0.35	226.485	100.0	0.0	6.4695	6.116499999999999
+TC39_Reissue_PEL_12_ClickOK	3.284	3.37	3.519	3.584	10.0	0.0	1.015	1.323	1.533	2.284	99.0	0.0	2.3465	2.526
+TC41_Reissue_COL_12_ClickOK	3.306	3.405	3.495	3.616	8.0	0.0	1.511	2.06	2.38	2.958	100.0	0.0	2.7325	2.9375
+TC40_Reissue_HO_15_ClickOK	3.299	3.424	3.518	3.524	9.0	0.0	1.027	1.267	1.412	2.507	99.0	0.0	2.3455	2.465
+TC20_Proposals_External_PEL_15_Enter_CustomerId_and_Click_Search	0.627	0.892	1.164	1.461	99.0	0.0	2.053	2.495	3.035	3.642	100.0	0.0	1.6935	2.0995
+TC20_Proposals_External_PEL_16_Click_Proposals	0.976	1.312	1.621	2.341	98.0	0.0	0.993	1.221	1.41	2.455	99.0	0.0	1.2665000000000002	1.5154999999999998
+TC20_Proposals_External_PEL_17_Click_EditQuote	2.372	3.117	3.748	7.751	98.0	0.0	1.009	1.291	1.587	2.614	99.0	0.0	2.2039999999999997	2.6675
+TC20_Proposals_External_HO_03_Enter_CustomerId_and_Click_Search	0.587	0.926	1.214	2.391	93.0	0.0	2.09	4.929	3.354	230.209	99.0	0.0	2.9275	2.284
+TC20_Proposals_External_HO_04_Click_Proposals	0.95	1.262	1.494	1.876	93.0	0.0	0.674	0.915	1.014	8.248	98.0	0.0	1.0885	1.254
+TC20_Proposals_External_HO_05_Click_EditQuote	2.345	3.163	3.76	5.497	92.0	0.0	1.354	1.786	2.247	4.531	98.0	0.0	2.4745	3.0035
+TC20_Proposals_External_Collections_19_Enter_CustomerId_and_Click_Search	0.608	0.958	1.153	5.223	89.0	0.0	5.096	6.255	7.801	16.81	97.0	0.0	3.6065	4.477
+TC20_Proposals_External_Collections_20_Click_Proposals	0.981	1.336	1.683	2.594	89.0	0.0	1.754	2.438	3.283	4.218	95.0	0.0	1.887	2.483
+TC20_Proposals_External_Collections_21_Click_EditQuote	2.479	3.128	3.745	5.148	88.0	0.0	0.665	0.926	1.158	7.234	90.0	0.0	2.027	2.4515000000000002
+TC20_Proposals_External_Viewquote_03_Enter_CustomerId_and_Click_Search	0.589	0.897	1.157	2.95	57.0	0.0	0.643	3.626	1.085	228.837	82.0	0.0	2.2615	1.121
+TC20_Proposals_External_Viewquote_04_Click_Proposals	0.959	1.281	1.582	2.4	57.0	0.0	0.626	0.833	1.001	1.848	77.0	0.0	1.057	1.2915
+TC20_Proposals_External_Viewquote_07_Enter_CustomerId_and_Click_Search	0.547	0.727	0.943	1.206	57.0	0.0	0.659	0.91	1.095	3.003	75.0	0.0	0.8185	1.019
+TC20_Proposals_External_Viewquote_08_Click_Proposals	0.937	1.242	1.487	1.938	57.0	0.0	4.671	5.737	6.431	14.925	75.0	0.0	3.4895	3.959
+TC12_Cancel_Internal_03_Search_PolicyID_fromPoliciespage	4.815	5.309	5.72	6.141	6.0	0.0	0.609	0.763	0.87	1.199	75.0	0.0	3.036	3.295
+TC12_Cancel_Internal_04_Select_Cancel	3.676	3.945	4.041	4.418	6.0	0.0	0.226	0.324	0.413	0.597	75.0	0.0	2.1345	2.2270000000000003
+TC25_Rewrite_PEL_02_SearchPolicyID_fromPolicies	4.184	4.718	5.122	5.403	10.0	0.0	1.638	2.008	2.339	2.614	75.0	0.0	3.363	3.7305
+TC25_Rewrite_PEL_03_SelectRewrite_InAction	0.16	0.2	0.258	0.312	10.0	0.0	2.15	2.56	2.806	3.192	75.0	0.0	1.3800000000000001	1.532
+TC25_Rewrite_PEL_04_SelectEffectivedate&Click_save&continue	3.268	3.785	4.441	4.688	10.0	0.0	5.51	6.639	7.486	11.088	100.0	0.0	5.212	5.9635
+TC25_Rewrite_PEL_05_SelectTerm&Click_OK	3.968	6.292	9.409	11.513	10.0	0.0	5.55	6.503	7.471	11.702	75.0	0.0	6.3975	8.440000000000001
+TC17_Rewrite_Coll_02_SearchPolicyID_fromPolicies	4.999	5.172	5.291	5.31	5.0	0.0	0.782	1.133	1.639	1.639	4.0	0.0	3.1525	3.4650000000000003
+TC25_Rewrite_PEL_06_InsuredPage_SelectCashtransfer_No	3.002	3.518	3.984	4.281	10.0	0.0	1.107	1.268	1.435	1.435	4.0	0.0	2.393	2.7095000000000002
+TC17_Rewrite_Coll_03_Select_Rewrite	0.148	0.173	0.174	0.199	5.0	0.0	0.807	0.988	1.05	1.259	5.0	0.0	0.5805	0.612
+TC25_Rewrite_PEL_07_InsuredPage_ClickSave&Continue	6.198	7.375	8.713	9.124	10.0	0.0	4.194	4.441	4.562	4.562	4.0	0.0	5.9079999999999995	6.637499999999999
+TC17_Rewrite_Coll_04_SelectEffectivedate&Click_save&continue	3.469	4.445	4.72	6.348	5.0	0.0	1.156	1.561	1.682	2.184	5.0	0.0	3.003	3.2009999999999996
+TC23_Rewrite_HO_02_SearchPolicyID_fromPolicies	5.042	5.644	6.053	7.191	9.0	0.0	1.53	2.016	3.309	3.309	4.0	0.0	3.83	4.681
+TC25_Rewrite_PEL_08_RatingPage_ClickSave&Continue	1.93	2.107	2.279	2.548	10.0	0.0	1.82	3.48	4.782	5.891	5.0	0.0	2.7935	3.5305
+TC23_Rewrite_HO_03_SelectRewrite	0.144	0.192	0.254	0.259	9.0	0.0	0.911	1.167	1.58	1.58	4.0	0.0	0.6795	0.917
+TC12_Cancel_Internal_05_Select_Reason_and_click_saveandcontinue	15.099	24.028	29.335	38.493	6.0	0.0	4.548	5.146	6.436	6.436	4.0	0.0	14.587	17.8855
+TC17_Rewrite_Coll_05_SelectTerm_ClickOk	4.569	5.925	6.401	7.203	5.0	0.0	1.184	1.286	1.379	1.379	4.0	0.0	3.6055	3.8899999999999997
+TC25_Rewrite_PEL_09_CoveragePage_ClickSave&Continue	1.454	1.748	2.028	2.209	10.0	0.0	1.11	1.221	1.399	1.399	4.0	0.0	1.4845000000000002	1.7135
+TC23_Rewrite_HO_04_SelectEffectivedate&Click_save&continue	3.274	3.606	3.681	4.341	9.0	0.0	4.335	5.059	6.865	6.865	4.0	0.0	4.3325	5.273
+TC17_Rewrite_Coll_06_InsuredPage_SelectCashtransfer_No	3.044	4.444	4.837	4.9	5.0	0.0	3.66	4.88	7.976	7.976	4.0	0.0	4.662	6.406499999999999
+TC25_Rewrite_PEL_10_DetailsPage_ClickSave&Continue	6.776	7.555	8.307	8.804	10.0	0.0	3.402	4.493	5.939	5.939	4.0	0.0	6.024	7.123
+TC23_Rewrite_HO_05_SelectTerm_ClickOk	4.931	6.789	8.415	11.146	9.0	0.0	0.905	1.078	1.296	1.296	4.0	0.0	3.9335	4.855499999999999
+TC25_Rewrite_PEL_11_PrepackagePage_ClickProceedtoissuance	0.258	0.3	0.315	0.434	10.0	0.0	7.364	7.661	7.908	7.908	4.0	0.0	3.9804999999999997	4.1115
+TC17_Rewrite_Coll_07_InsuredPage_ClickSave&continue	8.215	9.088	9.419	9.991	5.0	0.0	1.28	1.736	2.947	2.947	4.0	0.0	5.412	6.183
+TC23_Rewrite_HO_06_InsuredPage_SelectCashtransfer_No	2.894	3.725	4.507	4.836	9.0	0.0	4.647	5.348	6.792	6.792	4.0	0.0	4.5365	5.6495
+TC17_Rewrite_Coll_08_RatingPage_ClickSave&continue	2.102	2.439	2.733	2.886	5.0	0.0	0.873	0.958	1.053	1.053	4.0	0.0	1.6985000000000001	1.893
+TC25_Rewrite_PEL_12_PreissuancePage_ClickSave&continue	4.809	5.404	5.931	6.323	10.0	0.0	2.901	3.616	4.55	4.55	4.0	0.0	4.51	5.2405
+TC23_Rewrite_HO_07_InsuredPage_ClickSave&Continue	7.136	8.336	9.185	9.648	9.0	0.0	0.94	1.0	1.073	1.073	4.0	0.0	4.668	5.1290000000000004
+TC17_Rewrite_Coll_09_CoveragePage_ClickSave&continue	2.752	3.065	3.148	3.405	5.0	0.0	0.371	0.409	0.455	0.455	4.0	0.0	1.7369999999999999	1.8015
+TC25_Rewrite_PEL_13_PaymentPage_Cicksave&continue	2.221	2.763	2.984	3.859	10.0	0.0	1.121	1.175	1.268	1.268	4.0	0.0	1.9689999999999999	2.126
+TC23_Rewrite_HO_08_RatingPage_ClickSave&Continue	1.855	2.158	2.444	2.477	9.0	0.0	0.41	0.455	0.511	0.511	4.0	0.0	1.3065	1.4775
+TC17_Rewrite_Coll_10_DetailsPage_ClickSave&continue	8.571	9.646	9.942	10.553	5.0	0.0	1.941	2.085	2.233	2.233	4.0	0.0	5.865500000000001	6.0875
+TC23_Rewrite_HO_09_CoveragePage_ClickSave&Continue	2.285	2.636	2.817	3.242	9.0	0.0	2.038	2.46	2.759	2.759	4.0	0.0	2.548	2.7880000000000003
+TC25_Rewrite_PEL_14_Click_Issuepolicy	7.241	10.519	14.663	17.426	10.0	0.0	1.724	1.825	1.978	1.978	4.0	0.0	6.172	8.320500000000001
+TC17_Rewrite_Coll_11_Quotepage_ClickProceedtoissuance	0.311	0.353	0.351	0.444	5.0	0.0	2.982	3.313	3.73	3.73	4.0	0.0	1.8330000000000002	2.0404999999999998
+TC23_Rewrite_HO_10_DetailsPage_ClickSave&Continue	9.176	10.345	11.26	11.634	9.0	0.0	2.586	2.891	3.061	3.061	4.0	0.0	6.618	7.1605
+TC17_Rewrite_Coll_12_PreissuancePage_ClickSave&continue	5.799	6.042	6.115	6.46	5.0	0.0	8.38	9.403	11.91	11.91	4.0	0.0	7.7225	9.0125
+TC23_Rewrite_HO_11_ClickProceedtoissuance	0.273	0.328	0.35	0.38	9.0	0.0	14.886	16.339	19.343	19.343	4.0	0.0	8.333499999999999	9.8465
+TC17_Rewrite_Coll_13_Paymentpage_Clicksave&continue	2.823	3.238	3.304	3.633	5.0	0.0	6.748	10.504	20.773	20.773	4.0	0.0	6.8709999999999996	12.038499999999999
+TC23_Rewrite_HO_12_PreissuancePage_ClickSave&continue	2.224	2.497	2.687	2.701	9.0	0.0	0.885	1.006	1.226	1.226	4.0	0.0	1.7515	1.9565
+TC23_Rewrite_HO_13_Inspectionpage_ClickNo	0.71	0.774	0.85	0.899	9.0	0.0	2.901	3.333	3.661	3.661	4.0	0.0	2.0535	2.2555
+TC23_Rewrite_HO_14_Inpectionpage_SelectReason	0.651	0.774	0.85	0.892	9.0	0.0	2.943	3.34	4.025	4.025	4.0	0.0	2.057	2.4375
+TC23_Rewrite_HO_15_Inpectionpage_Clicksave&continue	3.477	3.732	4.057	4.18	9.0	0.0	0.381	0.512	0.86	0.86	4.0	0.0	2.122	2.4585000000000004
+TC23_Rewrite_HO_16_Paymentpage_Clicksave&continue	2.989	3.651	4.427	4.489	9.0	0.0	2.003	2.467	2.842	2.842	4.0	0.0	3.059	3.6345
+TC23_Rewrite_HO_17_ClickIssuepolicy	9.706	13.47	17.778	20.249	9.0	0.0	2.915	3.144	3.445	3.445	4.0	0.0	8.307	10.6115
+TC25_Rewrite_PEL_15_ClickOk	3.278	3.457	3.646	3.729	10.0	0.0	7.846	8.373	9.612	9.612	4.0	0.0	5.914999999999999	6.629
+TC17_Rewrite_Coll_14_ClickIssuepolicy	8.679	10.683	12.111	12.771	5.0	0.0	3.077	3.558	4.222	4.222	4.0	0.0	7.1205	8.166500000000001
+TC23_Rewrite_HO_18_ClickOk	3.289	3.392	3.475	3.491	9.0	0.0	0.7	1.061	1.463	1.463	4.0	0.0	2.2264999999999997	2.4690000000000003
+							1.104	1.702	2.288	2.288	4.0	0.0	1.702	2.288
+							1.581	1.933	2.132	2.132	4.0	0.0	1.933	2.132
+							1.018	1.263	1.545	1.545	4.0	0.0	1.263	1.545
+							1.119	1.279	1.374	1.374	4.0	0.0	1.279	1.374
+							1.181	1.445	1.895	1.895	4.0	0.0	1.445	1.895
+							0.801	1.009	1.127	1.294	6.0	0.0	1.009	1.127
+							3.203	4.023	5.245	5.245	4.0	0.0	4.023	5.245
+							1.575	1.969	2.367	2.367	4.0	0.0	1.969	2.367
+							0.975	1.316	1.483	1.695	6.0	0.0	1.316	1.483
+							1.146	1.41	1.895	1.895	4.0	0.0	1.41	1.895
+							1.296	1.875	2.344	2.58	6.0	0.0	1.875	2.344
+							7.451	7.684	7.867	7.867	4.0	0.0	7.684	7.867
+							0.822	0.999	1.087	1.455	8.0	0.0	0.999	1.087
+							3.203	3.301	3.527	3.527	4.0	0.0	3.301	3.527
+							1.157	1.291	1.306	1.538	5.0	0.0	1.291	1.306
+							0.836	0.919	0.998	0.998	4.0	0.0	0.919	0.998
+							1.136	1.497	1.886	2.489	8.0	0.0	1.497	1.886
+							0.645	0.925	1.116	1.257	6.0	0.0	0.925	1.116
+							0.352	0.398	0.495	0.495	4.0	0.0	0.398	0.495
+							3.161	3.693	3.753	4.737	5.0	0.0	3.693	3.753
+							0.917	1.086	1.256	1.256	2.0	0.0	1.086	1.256
+							1.109	1.508	1.715	1.856	6.0	0.0	1.508	1.715
+							2.938	3.86	4.599	5.338	7.0	0.0	3.86	4.599
+							7.373	7.796	8.638	8.638	4.0	0.0	7.796	8.638
+							2.074	2.13	2.182	2.182	4.0	0.0	2.13	2.182
+							1.254	1.297	1.341	1.341	2.0	0.0	1.297	1.341
+							0.938	1.293	1.837	1.837	4.0	0.0	1.293	1.837
+							1.135	1.329	1.484	1.576	7.0	0.0	1.329	1.484
+							2.807	3.576	4.126	4.886	6.0	0.0	3.576	4.126
+							7.146	7.232	7.276	7.276	4.0	0.0	7.232	7.276
+							0.754	0.849	0.935	0.935	3.0	0.0	0.849	0.935
+							2.31	2.597	2.808	2.808	4.0	0.0	2.597	2.808
+							0.349	0.66	1.429	1.429	4.0	0.0	0.66	1.429
+							3.418	4.148	4.878	4.878	2.0	0.0	4.148	4.878
+							1.196	1.383	1.431	1.61	6.0	0.0	1.383	1.431
+							0.874	0.979	1.067	1.067	4.0	0.0	0.979	1.067
+							3.311	3.844	4.083	5.412	6.0	0.0	3.844	4.083
+							1.088	1.525	1.859	1.859	3.0	0.0	1.525	1.859
+							2.134	2.475	3.275	3.275	4.0	0.0	2.475	3.275
+							1.251	1.289	1.328	1.328	2.0	0.0	1.289	1.328
+							0.37	0.391	0.429	0.429	4.0	0.0	0.391	0.429
+							1.112	1.436	1.283	2.709	6.0	0.0	1.436	1.283
+							3.666	4.951	6.209	6.706	5.0	0.0	4.951	6.209
+							5.959	6.406	7.306	7.306	4.0	0.0	6.406	7.306
+							2.753	3.323	3.962	3.962	3.0	0.0	3.323	3.962
+							2.507	2.875	3.529	3.529	4.0	0.0	2.875	3.529
+							0.001	2.5	3.376	3.376	4.0	0.0	2.5	3.376
+							2.03	2.23	2.357	2.357	4.0	0.0	2.23	2.357
+							3.164	3.229	3.295	3.295	2.0	0.0	3.229	3.295
+							1.149	1.568	1.221	3.152	5.0	0.0	1.568	1.221
+							1.581	1.755	1.804	2.019	6.0	0.0	1.755	1.804
+							1.161	1.363	1.614	1.614	3.0	0.0	1.363	1.614
+							1.168	1.255	1.342	1.342	2.0	0.0	1.255	1.342
+							1.691	1.826	1.892	2.117	5.0	0.0	1.826	1.892
+							2.32	2.605	2.824	2.824	4.0	0.0	2.605	2.824
+							5.841	7.994	11.87	11.87	3.0	0.0	7.994	11.87
+							7.361	8.15	8.612	8.673	6.0	0.0	8.15	8.612
+							1.595	2.212	2.829	2.829	2.0	0.0	2.212	2.829
+							3.359	3.403	3.447	3.447	3.0	0.0	3.403	3.447
+							0.001	0.903	2.707	2.707	3.0	0.0	0.903	2.707
+							5.693	7.589	8.901	8.901	4.0	0.0	7.589	8.901
+							0.891	1.018	1.03	1.387	6.0	0.0	1.018	1.03
+							7.592	8.261	8.685	8.777	5.0	0.0	8.261	8.685
+							1.096	1.115	1.154	1.154	3.0	0.0	1.115	1.154
+							0.611	0.992	1.182	1.479	7.0	0.0	0.992	1.182
+							0.001	1.56	3.287	3.287	4.0	0.0	1.56	3.287
+							0.364	0.395	0.427	0.442	6.0	0.0	0.395	0.427
+							0.841	0.963	0.932	1.232	5.0	0.0	0.963	0.932
+							8.459	8.494	8.53	8.53	2.0	0.0	8.494	8.53
+							1.687	1.711	1.724	1.724	3.0	0.0	1.711	1.724
+							1.102	2.048	1.413	7.078	7.0	0.0	2.048	1.413
+							0.355	0.408	0.406	0.502	5.0	0.0	0.408	0.406
+							1.973	2.225	2.286	2.638	6.0	0.0	2.225	2.286
+							0.879	1.119	1.242	1.404	5.0	0.0	1.119	1.242
+							0.845	0.935	1.026	1.026	2.0	0.0	0.935	1.026
+							3.028	5.192	5.277	10.388	7.0	0.0	5.192	5.277
+							0.379	0.412	0.445	0.445	2.0	0.0	0.412	0.445
+							1.267	1.768	1.702	2.594	5.0	0.0	1.768	1.702
+							2.11	2.799	2.706	4.367	5.0	0.0	2.799	2.706
+							2.696	3.036	3.205	3.633	6.0	0.0	3.036	3.205
+							7.462	9.18	11.672	11.672	3.0	0.0	9.18	11.672
+							1.444	1.986	2.454	2.762	7.0	0.0	1.986	2.454
+							2.337	2.468	2.6	2.6	2.0	0.0	2.468	2.6
+							2.696	2.934	3.042	3.072	5.0	0.0	2.934	3.042
+							0.846	0.961	1.133	1.133	3.0	0.0	0.961	1.133
+							3.364	3.928	4.211	4.361	5.0	0.0	3.928	4.211
+							2.572	2.749	2.927	2.927	2.0	0.0	2.749	2.927
+							0.365	0.373	0.382	0.382	2.0	0.0	0.373	0.382
+							3.346	4.28	4.679	5.879	7.0	0.0	4.28	4.679
+							1.716	1.762	1.793	1.796	5.0	0.0	1.762	1.793
+							6.128	8.81	10.862	15.567	6.0	0.0	8.81	10.862
+							0.001	2.174	3.494	3.507	6.0	0.0	2.174	3.494
+							2.299	2.431	2.563	2.563	2.0	0.0	2.431	2.563
+							4.272	4.536	4.711	4.763	7.0	0.0	4.536	4.711
+							3.319	4.824	5.473	6.707	5.0	0.0	4.824	5.473
+							6.949	10.446	11.099	18.279	5.0	0.0	10.446	11.099
+							7.811	10.325	12.84	12.84	2.0	0.0	10.325	12.84
+							2.925	3.033	3.142	3.142	2.0	0.0	3.033	3.142
+							0.949	1.039	1.065	1.194	7.0	0.0	1.039	1.065
+							0.011	2.395	3.137	3.347	5.0	0.0	2.395	3.137
+							2.95	3.114	3.279	3.279	2.0	0.0	3.114	3.279
+							4.012	4.594	4.302	6.19	5.0	0.0	4.594	4.302
+							4.737	5.547	6.12	6.471	7.0	0.0	5.547	6.12
+							1.018	1.217	1.32	1.524	5.0	0.0	1.217	1.32
+							6.835	8.446	10.058	10.058	2.0	0.0	8.446	10.058
+							0.887	1.235	1.506	1.73	7.0	0.0	1.235	1.506
+							0.001	1.555	3.11	3.11	2.0	0.0	1.555	3.11
+							4.767	5.564	5.236	7.637	5.0	0.0	5.564	5.236
+							0.343	0.398	0.426	0.456	7.0	0.0	0.398	0.426
+							1.998	2.406	2.597	2.706	7.0	0.0	2.406	2.597
+							0.813	0.955	1.065	1.065	4.0	0.0	0.955	1.065
+							3.016	3.796	3.559	6.522	7.0	0.0	3.796	3.559
+							0.358	0.397	0.506	0.506	4.0	0.0	0.397	0.506
+							1.979	2.352	3.048	3.048	4.0	0.0	2.352	3.048
+							3.131	3.618	4.83	4.83	4.0	0.0	3.618	4.83
+							14.335	16.763	18.637	21.161	7.0	0.0	16.763	18.637
+							2.585	3.089	3.284	3.511	7.0	0.0	3.089	3.284
+							16.358	18.59	22.113	22.113	4.0	0.0	18.59	22.113
+							0.001	2.468	3.809	3.809	4.0	0.0	2.468	3.809
+							1.028	1.108	1.173	1.198	6.0	0.0	1.108	1.173
+							1.182	1.818	2.253	2.927	6.0	0.0	1.818	2.253
+							0.929	1.292	1.654	1.654	4.0	0.0	1.292	1.654
+							2.84	4.054	3.709	7.157	6.0	0.0	4.054	3.709
+							1.148	3.17	8.195	8.195	4.0	0.0	3.17	8.195
+							1.565	1.717	1.696	2.195	6.0	0.0	1.717	1.696
+							3.34	4.123	4.996	4.996	4.0	0.0	4.123	4.996
+							3.722	4.258	4.341	4.844	6.0	0.0	4.258	4.341
+							1.514	1.663	1.813	1.813	4.0	0.0	1.663	1.813
+							4.007	4.58	4.871	5.109	6.0	0.0	4.58	4.871
+							3.367	3.721	3.977	3.977	4.0	0.0	3.721	3.977
+							0.962	1.81	1.231	5.511	6.0	0.0	1.81	1.231
+							3.867	4.718	5.472	5.472	4.0	0.0	4.718	5.472
+							0.902	1.3	2.124	2.124	4.0	0.0	1.3	2.124
+							4.518	5.01	5.143	6.058	6.0	0.0	5.01	5.143
+							0.84	0.941	0.999	1.053	6.0	0.0	0.941	0.999
+							0.399	4.278	6.69	6.69	4.0	0.0	4.278	6.69
+							0.351	0.398	0.408	0.452	6.0	0.0	0.398	0.408
+							2.048	2.263	2.401	2.559	6.0	0.0	2.263	2.401
+							0.819	0.924	1.117	1.117	3.0	0.0	0.924	1.117
+							0.372	0.405	0.447	0.447	3.0	0.0	0.405	0.447
+							3.143	3.404	3.503	3.774	6.0	0.0	3.404	3.503
+							2.286	2.493	2.708	2.708	3.0	0.0	2.493	2.708
+							2.945	3.527	3.837	3.837	3.0	0.0	3.527	3.837
+							13.392	16.306	17.853	18.325	6.0	0.0	16.306	17.853
+							0.001	0.001	0.002	0.003	6.0	0.0	0.001	0.002
+							14.392	14.984	15.612	15.612	3.0	0.0	14.984	15.612
+							0.002	0.002	0.003	0.003	3.0	0.0	0.002	0.003
+							1.111	1.111	1.111	1.111	1.0	0.0	1.111	1.111
+							1.441	1.441	1.441	1.441	1.0	0.0	1.441	1.441
+							0.982	1.427	2.056	2.056	3.0	0.0	1.427	2.056
+							2.64	2.64	2.64	2.64	1.0	0.0	2.64	2.64
+							1.624	1.905	2.345	2.345	3.0	0.0	1.905	2.345
+							1.379	1.379	1.379	1.379	1.0	0.0	1.379	1.379
+							1.794	1.944	2.139	2.139	3.0	0.0	1.944	2.139
+							5.684	5.684	5.684	5.684	1.0	0.0	5.684	5.684
+							1.184	1.265	1.412	1.412	3.0	0.0	1.265	1.412
+							3.375	3.77	4.538	4.538	3.0	0.0	3.77	4.538
+							7.319	7.319	7.319	7.319	1.0	0.0	7.319	7.319
+							1.184	1.184	1.184	1.184	1.0	0.0	1.184	1.184
+							7.667	8.896	11.006	11.006	3.0	0.0	8.896	11.006
+							0.373	0.373	0.373	0.373	1.0	0.0	0.373	0.373
+							0.913	1.304	2.071	2.071	3.0	0.0	1.304	2.071
+							2.489	2.489	2.489	2.489	1.0	0.0	2.489	2.489
+							0.375	0.489	0.663	0.663	3.0	0.0	0.489	0.663
+							2.413	2.413	2.413	2.413	1.0	0.0	2.413	2.413
+							2.369	3.043	3.533	3.533	3.0	0.0	3.043	3.533
+							2.583	2.656	2.765	2.765	3.0	0.0	2.656	2.765
+							8.59	8.59	8.59	8.59	1.0	0.0	8.59	8.59
+							0.002	0.002	0.002	0.002	1.0	0.0	0.002	0.002
+							6.309	7.327	8.554	8.554	3.0	0.0	7.327	8.554
+							0.001	0.001	0.002	0.002	3.0	0.0	0.001	0.002
+							1.195	2.016	2.519	2.519	3.0	0.0	2.016	2.519
+							1.14	1.484	2.076	2.076	3.0	0.0	1.484	2.076
+							3.196	4.337	5.478	5.478	2.0	0.0	4.337	5.478
+							1.603	1.606	1.61	1.61	2.0	0.0	1.606	1.61
+							4.147	4.252	4.357	4.357	2.0	0.0	4.252	4.357
+							3.92	4.24	4.561	4.561	2.0	0.0	4.24	4.561
+							1.021	1.629	2.237	2.237	2.0	0.0	1.629	2.237
+							4.632	6.151	7.67	7.67	2.0	0.0	6.151	7.67
+							0.865	2.244	3.623	3.623	2.0	0.0	2.244	3.623
+							0.365	0.418	0.471	0.471	2.0	0.0	0.418	0.471
+							2.25	2.278	2.306	2.306	2.0	0.0	2.278	2.306
+							1.799	1.799	1.799	1.799	1.0	0.0	1.799	1.799
+							3.138	4.126	5.114	5.114	2.0	0.0	4.126	5.114
+							1.781	1.781	1.781	1.781	1.0	0.0	1.781	1.781
+							4.129	4.129	4.129	4.129	1.0	0.0	4.129	4.129
+							17.591	18.052	18.514	18.514	2.0	0.0	18.052	18.514
+							0.001	0.001	0.001	0.001	2.0	0.0	0.001	0.001
+							1.601	1.601	1.601	1.601	1.0	0.0	1.601	1.601
+							3.396	3.396	3.396	3.396	1.0	0.0	3.396	3.396
+							1.113	1.113	1.113	1.113	1.0	0.0	1.113	1.113
+							2.438	2.438	2.438	2.438	1.0	0.0	2.438	2.438
+							8.414	8.414	8.414	8.414	1.0	0.0	8.414	8.414
+							0.941	0.941	0.941	0.941	1.0	0.0	0.941	0.941
+							0.373	0.373	0.373	0.373	1.0	0.0	0.373	0.373
+							2.253	2.253	2.253	2.253	1.0	0.0	2.253	2.253
+							3.049	3.049	3.049	3.049	1.0	0.0	3.049	3.049
+							6.402	6.402	6.402	6.402	1.0	0.0	6.402	6.402
+							0.002	0.002	0.002	0.002	1.0	0.0	0.002	0.002
+							0.051	0.128	0.157	10.081	2239.0	0.0	0.128	0.157
+							1.07	1.337	1.55	2.493	2223.0	0.0	1.337	1.55
+							0.967	2.355	2.899	16.889	2208.0	0.0	2.355	2.899
+							0.358	0.57	0.859	5.36	2191.0	0.0	0.57	0.859
+							0.039	0.1	0.11	2.333	2178.0	0.0	0.1	0.11
+							1.226	2.017	2.573	20.19	2164.0	0.0	2.017	2.573
+							0.147	0.558	0.856	2.429	2150.0	0.0	0.558	0.856
+							0.191	0.378	0.854	2.5	2135.0	0.0	0.378	0.854
+							0.257	0.415	0.575	3.889	2120.0	0.0	0.415	0.575
+							0.361	0.48	0.599	2.901	2102.0	0.0	0.48	0.599
+							1.161	2.656	3.749	10.494	2090.0	0.0	2.656	3.749
+							0.563	1.318	1.909	14.602	2073.0	0.0	1.318	1.909
